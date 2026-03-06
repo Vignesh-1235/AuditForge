@@ -1,86 +1,90 @@
-# 🔍 AuditForge — Private AI Security Report Generator
+🔍 AuditForge — Private AI Security Report Generator
 
-> **100% Offline** · Powered by Ollama + Mistral · No data leaves your machine
+100% Offline · Powered by Ollama + Mistral · No data leaves your machine
 
----
+📋 What It Does
 
-## 📋 What It Does
+AuditForge parses security evidence files (TXT, LOG, CSV, JSON, XML) and uses a local LLM (Mistral via Ollama) to:
 
-Synthetic Auditor parses security evidence files (TXT, LOG, CSV, JSON, XML) and uses a **local LLM (Mistral via Ollama)** to:
+Extract High/Critical findings from all evidence files
 
-1. **Extract** High/Critical findings from all evidence files
-2. **Analyze** each finding with AI — explaining WHY it's dangerous for the specific org
-3. **Generate** a professional PDF audit report with:
-   - Executive Summary
-   - Technical Scoring Table
-   - Detailed Findings with AI analysis + recommendations
+Analyze each finding with AI — explaining why it's dangerous for the specific organization
 
----
+Generate a professional PDF audit report with:
 
-## ⚙️ Setup
+Executive Summary
 
-### 1. Install Python dependencies
-```bash
+Technical Scoring Table
+
+Detailed Findings with AI analysis and recommendations
+
+AuditForge transforms raw security scan outputs into clear, structured, and actionable security audit reports while keeping all sensitive data completely offline.
+
+⚙️ Setup
+1. Install Python dependencies
 pip install -r requirements.txt
-```
-
-### 2. Install & Start Ollama
-```bash
+2. Install & Start Ollama
 # Install Ollama from https://ollama.com
-# Then pull Mistral:
+
+# Pull the Mistral model
 ollama pull mistral
 
-# Start Ollama (keep this running):
+# Start Ollama (keep this running)
 ollama serve
-```
+3. Run the Tool
 
-### 3. Run the tool
-```bash
-# Using the sample data folder:
+Using the sample data folder
+
 python main.py --input sample_data/ --context context_note.txt --org-name "YourClient"
 
-# Using a zip file:
+Using a ZIP file
+
 python main.py --input evidence.zip --context context_note.txt --org-name "YourClient"
 
-# With custom output directory:
+Custom output directory
+
 python main.py --input sample_data/ --output ./reports/ --org-name "AxiomL Client"
-```
+📁 Input File Types Supported
+Type	Examples
+.txt	Nmap output, banners, FTP tests, WAF tests
+.log	Port scan logs, custom test logs, WPScan
+.csv	Host inventory, service lists, notes (MSF exports)
+.json	Structured scan results
+.xml	Nmap XML output
 
----
+AuditForge recursively scans any folder structure, including extracted ZIP files.
 
-## 📁 Input File Types Supported
+📊 Output
 
-| Type | Examples |
-|------|---------|
-| `.txt` | Nmap output, banners, FTP tests, WAF tests |
-| `.log` | Port scan logs, custom test logs, WPScan |
-| `.csv` | Host inventory, service lists, notes (MSF exports) |
-| `.json` | Structured scan results |
-| `.xml` | Nmap XML output |
+A professional PDF report is generated at:
 
-The tool **recursively walks** any folder structure (including nested zip extraction).
+./output/audit_report.pdf
 
----
+The report includes:
 
-## 📊 Output
+Cover Page with severity summary dashboard
 
-A professional PDF report is saved to `./output/audit_report.pdf` containing:
+Executive Summary (AI-generated in business language)
 
-- **Cover Page** with severity summary dashboard
-- **Executive Summary** (AI-generated, business language)
-- **Technical Scoring Table** (all findings sorted by severity)
-- **Detailed Findings** (per finding: description, AI analysis, evidence, remediation)
-- **Methodology Appendix**
+Technical Scoring Table (all findings sorted by severity)
 
----
+Detailed Findings with:
 
-## 🗂️ Project Structure
+vulnerability description
 
-```
-synthetic_auditor/
+AI risk analysis
+
+evidence references
+
+remediation recommendations
+
+Methodology Appendix
+
+🗂️ Project Structure
+auditforge/
 ├── main.py                  # Entry point
 ├── requirements.txt         # Python dependencies
-├── context_note.txt         # Organization context (edit this!)
+├── context_note.txt         # Organization context (edit this)
 ├── parsers/
 │   └── parser_engine.py     # Multi-format file parser
 ├── llm/
@@ -88,45 +92,32 @@ synthetic_auditor/
 ├── report/
 │   └── pdf_generator.py     # ReportLab PDF builder
 ├── utils/
-│   └── logger.py            # Logging
+│   └── logger.py            # Logging utilities
 └── sample_data/             # Sample evidence files
-    ├── evidence/            # From zip
+    ├── evidence/
     ├── azure_hosts.csv
     ├── azure_services.csv
     ├── azure_notes.csv
     ├── on-prem_hosts.csv
     ├── on-prem_services.csv
     └── on-prem_notes.csv
-```
-
----
-
-## 🚀 Quick Demo
-
-```bash
-# Full run with sample data
+🚀 Quick Demo
 python main.py \
   --input sample_data/ \
   --context context_note.txt \
   --org-name "AxiomL Client (PTE Sep 2025)" \
   --output ./output/
-```
+⚠️ Constraints
 
----
+✅ Strictly offline — no OpenAI, Anthropic, or Google APIs
 
-## ⚠️ Constraints
+✅ Evidence-based analysis — AI only analyzes parsed data
 
-- ✅ **Strictly offline** — no calls to OpenAI, Anthropic, or Google
-- ✅ **No hallucination** — AI only analyzes evidence that was parsed
-- ✅ **Local CPU/GPU** — runs on your laptop via Ollama
+✅ Local execution — runs fully on CPU/GPU via Ollama
 
----
-
-## 🛠️ Troubleshooting
-
-| Problem | Solution |
-|---------|----------|
-| `Cannot connect to Ollama` | Run `ollama serve` in a terminal |
-| `Model not found` | Run `ollama pull mistral` |
-| `reportlab not found` | Run `pip install reportlab` |
-| Empty findings | Check that input path contains evidence files |
+🛠️ Troubleshooting
+Problem	                  Solution
+Cannot connect to Ollama	Run ollama serve
+Model not found	         Run ollama pull mistral
+reportlab missing	         Run pip install reportlab
+No findings detected	      Verify that input path contains evidence files
