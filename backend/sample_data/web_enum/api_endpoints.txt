@@ -1,0 +1,315 @@
+
+===== http://10.69.72.240:80 =====
+API Endpoint Discovery:
+======================
+/api: 404
+/api/v1: 404
+/api/v2: 404
+/rest: 404
+/graphql: 404
+/swagger: 404
+/swagger-ui: 404
+/docs: 404
+/documentation: 404
+/openapi.json: 404
+/swagger.json: 404
+
+===== https://10.69.72.240:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== http://10.80.70.36:80 =====
+API Endpoint Discovery:
+======================
+/api: 404
+/api/v1: 404
+/api/v2: 404
+/rest: 404
+/graphql: 404
+/swagger: 404
+/swagger-ui: 404
+/docs: 404
+/documentation: 404
+/openapi.json: 404
+/swagger.json: 404
+
+===== https://10.80.70.36:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== https://10.84.185.246:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== http://10.16.249.246:80 =====
+API Endpoint Discovery:
+======================
+/api: 404
+/api/v1: 404
+/api/v2: 404
+/rest: 404
+/graphql: 404
+/swagger: 404
+/swagger-ui: 404
+/docs: 404
+/documentation: 404
+/openapi.json: 404
+/swagger.json: 404
+
+===== https://10.16.249.246:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== http://10.67.108.106:80 =====
+API Endpoint Discovery:
+======================
+/api: 404
+/api/v1: 404
+/api/v2: 404
+/rest: 404
+/graphql: 404
+/swagger: 404
+/swagger-ui: 404
+/docs: 404
+/documentation: 404
+/openapi.json: 404
+/swagger.json: 404
+
+===== https://10.67.108.106:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== http://10.67.110.154:80 =====
+API Endpoint Discovery:
+======================
+/api: 301
+/api/v1: 301
+/api/v2: 301
+/rest: 301
+/graphql: 301
+/swagger: 301
+/swagger-ui: 301
+/docs: 301
+/documentation: 301
+/openapi.json: 301
+/swagger.json: 301
+
+===== https://10.67.110.154:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== http://10.80.4.237:80 =====
+API Endpoint Discovery:
+======================
+/api: 404
+/api/v1: 404
+/api/v2: 404
+/rest: 404
+/graphql: 404
+/swagger: 404
+/swagger-ui: 404
+/docs: 404
+/documentation: 404
+/openapi.json: 404
+/swagger.json: 404
+
+===== http://10.80.10.152:80 =====
+API Endpoint Discovery:
+======================
+/api: 302
+/api/v1: 302
+/api/v2: 302
+/rest: 302
+/graphql: 302
+/swagger: 302
+/swagger-ui: 302
+/docs: 302
+/documentation: 302
+/openapi.json: 302
+/swagger.json: 302
+
+===== https://10.80.10.152:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== http://10.97.119.225:80 =====
+API Endpoint Discovery:
+======================
+/api: 404
+/api/v1: 404
+/api/v2: 404
+/rest: 404
+/graphql: 404
+/swagger: 404
+/swagger-ui: 404
+/docs: 404
+/documentation: 404
+/openapi.json: 404
+/swagger.json: 404
+
+===== https://10.97.119.225:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== http://10.102.237.149:80 =====
+API Endpoint Discovery:
+======================
+/api: 404
+/api/v1: 404
+/api/v2: 404
+/rest: 404
+/graphql: 404
+/swagger: 404
+/swagger-ui: 404
+/docs: 404
+/documentation: 404
+/openapi.json: 404
+/swagger.json: 404
+
+===== https://10.102.237.149:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== https://10.74.240.44:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000
+
+===== http://10.84.194.43:80 =====
+API Endpoint Discovery:
+======================
+/api: 301
+/api/v1: 301
+/api/v2: 301
+/rest: 301
+/graphql: 301
+/swagger: 301
+/swagger-ui: 301
+/docs: 301
+/documentation: 301
+/openapi.json: 301
+/swagger.json: 301
+
+===== https://10.84.194.43:443 =====
+API Endpoint Discovery:
+======================
+/api: 000000
+/api/v1: 000000
+/api/v2: 000000
+/rest: 000000
+/graphql: 000000
+/swagger: 000000
+/swagger-ui: 000000
+/docs: 000000
+/documentation: 000000
+/openapi.json: 000000
+/swagger.json: 000000

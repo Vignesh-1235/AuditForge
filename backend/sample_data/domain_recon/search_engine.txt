@@ -1,0 +1,7 @@
+# Search Engine Recon for org-domain1.com
+site:org-domain1.com filetype:pdf
+site:org-domain1.com filetype:doc
+site:org-domain1.com filetype:xls
+site:org-domain1.com inurl:admin
+site:org-domain1.com inurl:login
+site:org-domain1.com inurl:config

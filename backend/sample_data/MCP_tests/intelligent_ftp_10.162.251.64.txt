@@ -1,0 +1,17 @@
+Intelligent MCP Assessment - FTP Server: 10.162.251.64
+
+=== NMAP OUTPUT ===
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-09 14:48 IDT
+Nmap scan report for 10.162.251.64
+Host is up (0.14s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT    STATE  SERVICE VERSION
+21/tcp  open   ftp     FileZilla ftpd 0.9.60 beta
+80/tcp  closed http
+443/tcp closed https
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 10.13 seconds
+
+Summary: Only Nmap scan succeeded. No vulnerabilities detected. Other tools failed or not implemented.

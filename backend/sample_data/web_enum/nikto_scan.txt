@@ -1,0 +1,332 @@
+
+===== http://10.69.72.240:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.69.72.240
++ Target Hostname:    10.69.72.240
++ Target Port:        80
++ Start Time:         2025-09-08 14:03:39 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: Retrieved x-powered-by header: ASP.NET.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /Z7eABqes.asmx: Retrieved x-aspnet-version header: 4.0.30319.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ OPTIONS: Allowed HTTP Methods: OPTIONS, TRACE, GET, HEAD, POST .
++ OPTIONS: Public HTTP Methods: OPTIONS, TRACE, GET, HEAD, POST .
+
+===== https://10.69.72.240:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.69.72.240
++ Target Hostname:    10.69.72.240
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /CN=*.org-domain3.com
+                   Ciphers:  ECDHE-RSA-AES256-GCM-SHA384
+                   Issuer:   /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http:\/\/certs.godaddy.com\/repository\//CN=Go Daddy Secure Certificate Authority - G2
++ Start Time:         2025-09-08 14:14:49 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: Retrieved x-powered-by header: ASP.NET.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /yy3ChFzc.: Retrieved x-aspnet-version header: 4.0.30319.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== http://10.80.70.36:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.80.70.36
++ Target Hostname:    10.80.70.36
++ Target Port:        80
++ Start Time:         2025-09-08 14:25:44 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: Retrieved x-powered-by header: ASP.NET.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /cPWQZn3E.ashx: Retrieved x-aspnet-version header: 4.0.30319.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ OPTIONS: Allowed HTTP Methods: OPTIONS, TRACE, GET, HEAD, POST .
++ OPTIONS: Public HTTP Methods: OPTIONS, TRACE, GET, HEAD, POST .
+
+===== https://10.80.70.36:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.80.70.36
++ Target Hostname:    10.80.70.36
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /CN=*.org-domain3.com
+                   Ciphers:  ECDHE-RSA-AES256-GCM-SHA384
+                   Issuer:   /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http:\/\/certs.godaddy.com\/repository\//CN=Go Daddy Secure Certificate Authority - G2
++ Start Time:         2025-09-08 14:36:54 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: Retrieved x-powered-by header: ASP.NET.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /nbdSgUsk.svc: Retrieved x-aspnet-version header: 4.0.30319.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== https://10.84.185.246:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.84.185.246
++ Target Hostname:    10.84.185.246
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=cff3c408-0eac-4938-9900-9e42934618d0.vpn.azure.com
+                   Ciphers:  TLS_AES_256_GCM_SHA384
+                   Issuer:   /C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
++ Start Time:         2025-09-08 14:49:14 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-HTTPAPI/2.0
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== http://10.16.249.246:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.16.249.246
++ Target Hostname:    10.16.249.246
++ Target Port:        80
++ Start Time:         2025-09-08 15:00:08 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-Azure-Application-Gateway/v2
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== https://10.16.249.246:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.16.249.246
++ Target Hostname:    10.16.249.246
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /CN=*.org-domain8.com
+                   Ciphers:  ECDHE-RSA-AES256-GCM-SHA384
+                   Issuer:   /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http:\/\/certs.godaddy.com\/repository\//CN=Go Daddy Secure Certificate Authority - G2
++ Start Time:         2025-09-08 15:11:30 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-Azure-Application-Gateway/v2
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== http://10.67.108.106:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.67.108.106
++ Target Hostname:    10.67.108.106
++ Target Port:        80
++ Start Time:         2025-09-08 15:22:25 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: Retrieved x-powered-by header: ASP.NET.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /GaElyeb7.asmx: Retrieved x-aspnet-version header: 4.0.30319.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ OPTIONS: Allowed HTTP Methods: OPTIONS, TRACE, GET, HEAD, POST .
++ OPTIONS: Public HTTP Methods: OPTIONS, TRACE, GET, HEAD, POST .
+
+===== https://10.67.108.106:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.67.108.106
++ Target Hostname:    10.67.108.106
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /CN=*.org-domain3.com
+                   Ciphers:  ECDHE-RSA-AES256-GCM-SHA384
+                   Issuer:   /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http:\/\/certs.godaddy.com\/repository\//CN=Go Daddy Secure Certificate Authority - G2
++ Start Time:         2025-09-08 15:33:34 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: Retrieved x-powered-by header: ASP.NET.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /bdwh0WwE.ashx: Retrieved x-aspnet-version header: 4.0.30319.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== http://10.67.110.154:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.67.110.154
++ Target Hostname:    10.67.110.154
++ Target Port:        80
++ Start Time:         2025-09-08 15:43:38 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-Azure-Application-Gateway/v2
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ Root page / redirects to: https://10.67.110.154/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== https://10.67.110.154:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.67.110.154
++ Target Hostname:    10.67.110.154
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /CN=*.org-domain3.com
+                   Ciphers:  ECDHE-RSA-AES128-GCM-SHA256
+                   Issuer:   /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http:\/\/certs.godaddy.com\/repository\//CN=Go Daddy Secure Certificate Authority - G2
++ Start Time:         2025-09-08 15:54:51 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-Azure-Application-Gateway/v2
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== http://10.80.4.237:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.80.4.237
++ Target Hostname:    10.80.4.237
++ Target Port:        80
++ Start Time:         2025-09-08 16:05:31 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ OPTIONS: Allowed HTTP Methods: OPTIONS, TRACE, GET, HEAD, POST .
++ OPTIONS: Public HTTP Methods: OPTIONS, TRACE, GET, HEAD, POST .
+
+===== http://10.80.10.152:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.80.10.152
++ Target Hostname:    10.80.10.152
++ Target Port:        80
++ Start Time:         2025-09-08 16:15:36 (GMT3)
+---------------------------------------------------------------------------
++ Server: No banner retrieved
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ : Server banner changed from 'Microsoft-HTTPAPI/2.0' to 'Microsoft-IIS/8.5'.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ /images: The web server may reveal its internal or real IP in the Location header via a request to with HTTP/1.0. The value is "10.10.32.22". See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0649
+
+===== https://10.80.10.152:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.80.10.152
++ Target Hostname:    10.80.10.152
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /OU=Domain Control Validated/CN=org-domain2.com
+                   Ciphers:  ECDHE-RSA-AES256-SHA384
+                   Issuer:   /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http:\/\/certs.godaddy.com\/repository\//CN=Go Daddy Secure Certificate Authority - G2
++ Start Time:         2025-09-08 16:28:04 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-HTTPAPI/2.0
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ Hostname '10.80.10.152' does not match certificate's names: org-domain2.com. See: https://cwe.mitre.org/data/definitions/297.html
+
+===== http://10.97.119.225:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.97.119.225
++ Target Hostname:    10.97.119.225
++ Target Port:        80
++ Start Time:         2025-09-08 16:38:51 (GMT3)
+---------------------------------------------------------------------------
++ Server: No banner retrieved
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /images: The web server may reveal its internal or real IP in the Location header via a request to with HTTP/1.0. The value is "10.10.10.71". See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0649
+
+===== https://10.97.119.225:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
++ 0 host(s) tested
+
+===== http://10.102.237.149:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.102.237.149
++ Target Hostname:    10.102.237.149
++ Target Port:        80
++ Start Time:         2025-09-08 16:49:46 (GMT3)
+---------------------------------------------------------------------------
++ Server: No banner retrieved
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ : Server banner changed from 'Microsoft-HTTPAPI/2.0' to ''.
++ /images: The web server may reveal its internal or real IP in the Location header via a request to with HTTP/1.0. The value is "10.10.32.24". See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0649
+
+===== https://10.102.237.149:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
++ 0 host(s) tested
+
+===== https://10.74.240.44:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.74.240.44
++ Target Hostname:    10.74.240.44
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=8378f332-8d5b-48c3-8ddb-2f254e1b8935.vpn.azure.com
+                   Ciphers:  TLS_AES_256_GCM_SHA384
+                   Issuer:   /C=US/O=DigiCert Inc/CN=DigiCert SHA2 Secure Server CA
++ Start Time:         2025-09-08 17:00:19 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-HTTPAPI/2.0
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== http://10.84.194.43:80 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.84.194.43
++ Target Hostname:    10.84.194.43
++ Target Port:        80
++ Start Time:         2025-09-08 17:10:24 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: Retrieved x-powered-by header: ASP.NET.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ Root page / redirects to: https://www.org-domain4.com/
++ /vJdwSIOn.svc: Retrieved x-aspnet-version header: 4.0.30319.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+
+===== https://10.84.194.43:443 =====
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.84.194.43
++ Target Hostname:    10.84.194.43
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /CN=www.org-domain4.com
+                   Ciphers:  ECDHE-RSA-AES256-GCM-SHA384
+                   Issuer:   /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http:\/\/certs.godaddy.com\/repository\//CN=Go Daddy Secure Certificate Authority - G2
++ Start Time:         2025-09-08 17:22:54 (GMT3)
+---------------------------------------------------------------------------
++ Server: Microsoft-IIS/10.0
++ /: Retrieved x-powered-by header: ASP.NET.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The site uses TLS and the Strict-Transport-Security HTTP header is not defined. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /: Cookie ASP.NET_SessionId created without the secure flag. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
++ /images: The web server may reveal its internal or real IP in the Location header via a request to with HTTP/1.0. The value is "10.30.0.4". See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0649
++ Hostname '10.84.194.43' does not match certificate's names: www.org-domain4.com. See: https://cwe.mitre.org/data/definitions/297.html

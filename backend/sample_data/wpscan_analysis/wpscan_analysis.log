@@ -1,0 +1,692 @@
+# WPScan Analysis Log - Sun Sep  7 02:25:08 PM IDT 2025
+# Target: https://org-domain1.com
+# API Token: A153rBsp...
+
+=== Basic WordPress Detection ===
+[32m[+][0m URL: https://org-domain1.com/ [+REDACTED]
+[32m[+][0m Started: Sun Sep  7 14:25:13 2025
+
+Interesting Finding(s):
+
+[32m[+][0m Headers
+ | Interesting Entries:
+ |  - server: nginx
+ |  - x-powered-by: PHP/7.4.33
+ |  - access-control-allow-origin: *
+ | Found By: Headers (Passive Detection)
+ | Confidence: 100%
+
+[32m[+][0m robots.txt found: https://org-domain1.com/robots.txt
+ | Found By: Robots Txt (Aggressive Detection)
+ | Confidence: 100%
+
+[32m[+][0m WordPress readme found: https://org-domain1.com/readme.html
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 100%
+
+[32m[+][0m This site has 'Must Use Plugins': https://org-domain1.com/wp-content/mu-plugins/
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 80%
+ | Reference: http://codex.wordpress.org/Must_Use_Plugins
+
+[32m[+][0m The external WP-Cron seems to be enabled: https://org-domain1.com/wp-cron.php
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 60%
+ | References:
+ |  - https://www.iplocation.net/defend-wordpress-from-ddos
+ |  - https://github.com/wpscanteam/wpscan/issues/1299
+
+[32m[+][0m WordPress version 6.8.2 identified (Latest, released on +REDACTED).
+ | Found By: Rss Generator (Passive Detection)
+ |  - https://org-domain1.com/feed/, <generator>https://wordpress.org/?v=6.8.2</generator>
+ |  - https://org-domain1.com/comments/feed/, <generator>https://wordpress.org/?v=6.8.2</generator>
+
+[32m[+][0m WordPress theme in use: hello-elementor
+ | Location: https://org-domain1.com/wp-content/themes/hello-elementor/
+ | Latest Version: 3.4.4 (up to date)
+ | Last Updated: +REDACTEDT00:00:00.000Z
+ | Readme: https://org-domain1.com/wp-content/themes/hello-elementor/readme.txt
+ | Style URL: https://org-domain1.com/wp-content/themes/hello-elementor/style.css
+ | Style Name: Hello Elementor
+ | Style URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+ | Description: Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work ...
+ | Author: Elementor Team
+ | Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://org-domain1.com/wp-content/themes/hello-elementor/style.css, Match: 'Version: 3.4.4'
+
+[32m[+][0m Enumerating All Plugins (via Passive Methods)
+[32m[+][0m Checking Plugin Versions (via Passive and Aggressive Methods)
+
+[34m[i][0m Plugin(s) Identified:
+
+[32m[+][0m *
+ | Location: https://org-domain1.com/wp-content/plugins/*/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | The version could not be determined.
+
+[32m[+][0m acf-tad
+ | Location: https://org-domain1.com/wp-content/plugins/acf-tad/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Readme - Stable Tag (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/acf-tad/readme.txt
+ | Confirmed By: Readme - ChangeLog Section (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/acf-tad/readme.txt
+
+[32m[+][0m comeet-wp-plugin-master
+ | Location: https://org-domain1.com/wp-content/plugins/comeet-wp-plugin-master/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ |
+ | The version could not be determined.
+
+[32m[+][0m elementor
+ | Location: https://org-domain1.com/wp-content/plugins/elementor/
+ | Last Updated: +REDACTEDT10:18:00.000Z
+ | [33m[!][0m The version is out of date, the latest version is 3.31.3
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Query Parameter (Passive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.2
+ |  - https://org-domain1.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.2
+ | Confirmed By:
+ |  Readme - Stable Tag (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/plugins/elementor/readme.txt
+ |  Readme - ChangeLog Section (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/plugins/elementor/readme.txt
+
+[32m[+][0m elementor-pro
+ | Location: https://org-domain1.com/wp-content/plugins/elementor-pro/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Query Parameter (Passive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.2
+ |  - https://org-domain1.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.2
+ | Confirmed By: Change Log (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/elementor-pro/changelog.txt, Match: '#### 3.29.2 -'
+
+[32m[+][0m events-tracker-for-elementor
+ | Location: https://org-domain1.com/wp-content/plugins/events-tracker-for-elementor/
+ | Latest Version: +REDACTED (up to date)
+ | Last Updated: +REDACTEDT16:26:00.000Z
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Readme - Stable Tag (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/events-tracker-for-elementor/readme.txt
+
+[32m[+][0m wordpress-seo
+ | Location: https://org-domain1.com/wp-content/plugins/wordpress-seo/
+ | Last Updated: +REDACTEDT07:45:00.000Z
+ | [33m[!][0m The version is out of date, the latest version is 25.8
+ |
+ | Found By: Comment (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Comment (Passive Detection)
+ |  - https://org-domain1.com/, Match: 'optimized with the Yoast SEO plugin v25.3.1 -'
+ | Confirmed By:
+ |  Readme - Stable Tag (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/plugins/wordpress-seo/readme.txt
+ |  Readme - ChangeLog Section (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/plugins/wordpress-seo/readme.txt
+
+[32m[+][0m Enumerating Config Backups (via Passive and Aggressive Methods)
+
+ Checking Config Backups -: |=====================================================================================================================|
+
+[34m[i][0m No Config Backups Found.
+
+[33m[!][0m No WPScan API Token given, as a result vulnerability data has not been output.
+[33m[!][0m You can get a free API token with 25 daily requests by registering at https://wpscan.com/register
+
+[32m[+][0m Finished: Sun Sep  7 14:25:53 2025
+[32m[+][0m Requests Done: 194
+[32m[+][0m Cached Requests: 7
+[32m[+][0m Data Sent: 103.521 KB
+[32m[+][0m Data Received: 1.494 MB
+[32m[+][0m Memory used: 273.234 MB
+[32m[+][0m Elapsed time: 00:00:39
+
+=== Plugin Enumeration ===
+[32m[+][0m URL: https://org-domain1.com/ [+REDACTED]
+[32m[+][0m Started: Sun Sep  7 14:25:59 2025
+
+Interesting Finding(s):
+
+[32m[+][0m Headers
+ | Interesting Entries:
+ |  - server: nginx
+ |  - x-powered-by: PHP/7.4.33
+ |  - access-control-allow-origin: *
+ | Found By: Headers (Passive Detection)
+ | Confidence: 100%
+
+[32m[+][0m robots.txt found: https://org-domain1.com/robots.txt
+ | Found By: Robots Txt (Aggressive Detection)
+ | Confidence: 100%
+
+[32m[+][0m WordPress readme found: https://org-domain1.com/readme.html
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 100%
+
+[32m[+][0m This site has 'Must Use Plugins': https://org-domain1.com/wp-content/mu-plugins/
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 80%
+ | Reference: http://codex.wordpress.org/Must_Use_Plugins
+
+[32m[+][0m The external WP-Cron seems to be enabled: https://org-domain1.com/wp-cron.php
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 60%
+ | References:
+ |  - https://www.iplocation.net/defend-wordpress-from-ddos
+ |  - https://github.com/wpscanteam/wpscan/issues/1299
+
+[32m[+][0m WordPress version 6.8.2 identified (Latest, released on +REDACTED).
+ | Found By: Rss Generator (Passive Detection)
+ |  - https://org-domain1.com/feed/, <generator>https://wordpress.org/?v=6.8.2</generator>
+ |  - https://org-domain1.com/comments/feed/, <generator>https://wordpress.org/?v=6.8.2</generator>
+
+[32m[+][0m WordPress theme in use: hello-elementor
+ | Location: https://org-domain1.com/wp-content/themes/hello-elementor/
+ | Latest Version: 3.4.4 (up to date)
+ | Last Updated: +REDACTEDT00:00:00.000Z
+ | Readme: https://org-domain1.com/wp-content/themes/hello-elementor/readme.txt
+ | Style URL: https://org-domain1.com/wp-content/themes/hello-elementor/style.css
+ | Style Name: Hello Elementor
+ | Style URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+ | Description: Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work ...
+ | Author: Elementor Team
+ | Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://org-domain1.com/wp-content/themes/hello-elementor/style.css, Match: 'Version: 3.4.4'
+
+[32m[+][0m Enumerating Most Popular Plugins (via Passive Methods)
+[32m[+][0m Checking Plugin Versions (via Passive and Aggressive Methods)
+
+[34m[i][0m Plugin(s) Identified:
+
+[32m[+][0m *
+ | Location: https://org-domain1.com/wp-content/plugins/*/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | The version could not be determined.
+
+[32m[+][0m acf-tad
+ | Location: https://org-domain1.com/wp-content/plugins/acf-tad/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Readme - Stable Tag (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/acf-tad/readme.txt
+ | Confirmed By: Readme - ChangeLog Section (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/acf-tad/readme.txt
+
+[32m[+][0m comeet-wp-plugin-master
+ | Location: https://org-domain1.com/wp-content/plugins/comeet-wp-plugin-master/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ |
+ | The version could not be determined.
+
+[32m[+][0m elementor
+ | Location: https://org-domain1.com/wp-content/plugins/elementor/
+ | Last Updated: +REDACTEDT10:18:00.000Z
+ | [33m[!][0m The version is out of date, the latest version is 3.31.3
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | [31m[!][0m 2 vulnerabilities identified:
+ |
+ | [31m[!][0m Title: Elementor < 3.30.3 - Contributor+ Stored XSS via Text Path Widget
+ |     Fixed in: 3.30.3
+ |     References:
+ |      - https://wpscan.com/vulnerability/785a15fe-18ef-4ae2-9143-c625a7a16063
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-+REDACTED
+ |      - https://www.wordfence.com/threat-intel/vulnerabilities/id/af29ec92-5b07-4f57-a25f-19f3a894a193
+ |
+ | [31m[!][0m Title: Elementor < 3.30.3 - Admin+ Arbitrary File Read via Image Import
+ |     Fixed in: 3.30.3
+ |     References:
+ |      - https://wpscan.com/vulnerability/87fd0b78-c0e8-43a8-8b52-bd7a294a96e0
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-+REDACTED
+ |      - https://www.wordfence.com/threat-intel/vulnerabilities/id/13929b51-b32e-401c-a642-49f7cd2d07bf
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Query Parameter (Passive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.2
+ |  - https://org-domain1.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.2
+ | Confirmed By:
+ |  Readme - Stable Tag (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/plugins/elementor/readme.txt
+ |  Readme - ChangeLog Section (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/plugins/elementor/readme.txt
+
+[32m[+][0m elementor-pro
+ | Location: https://org-domain1.com/wp-content/plugins/elementor-pro/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Query Parameter (Passive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.2
+ |  - https://org-domain1.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.2
+ | Confirmed By: Change Log (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/elementor-pro/changelog.txt, Match: '#### 3.29.2 -'
+
+[32m[+][0m events-tracker-for-elementor
+ | Location: https://org-domain1.com/wp-content/plugins/events-tracker-for-elementor/
+ | Latest Version: +REDACTED (up to date)
+ | Last Updated: +REDACTEDT16:26:00.000Z
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Readme - Stable Tag (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/plugins/events-tracker-for-elementor/readme.txt
+
+[32m[+][0m wordpress-seo
+ | Location: https://org-domain1.com/wp-content/plugins/wordpress-seo/
+ | Last Updated: +REDACTEDT07:45:00.000Z
+ | [33m[!][0m The version is out of date, the latest version is 25.8
+ |
+ | Found By: Comment (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Comment (Passive Detection)
+ |  - https://org-domain1.com/, Match: 'optimized with the Yoast SEO plugin v25.3.1 -'
+ | Confirmed By:
+ |  Readme - Stable Tag (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/plugins/wordpress-seo/readme.txt
+ |  Readme - ChangeLog Section (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/plugins/wordpress-seo/readme.txt
+
+[32m[+][0m WPScan DB API OK
+ | Plan: free
+ | Requests Done (during the scan): 9
+ | Requests Remaining: 16
+
+[32m[+][0m Finished: Sun Sep  7 14:26:27 2025
+[32m[+][0m Requests Done: 68
+[32m[+][0m Cached Requests: 7
+[32m[+][0m Data Sent: 33.243 KB
+[32m[+][0m Data Received: 1.495 MB
+[32m[+][0m Memory used: 264.281 MB
+[32m[+][0m Elapsed time: 00:00:27
+
+=== Theme Enumeration ===
+[32m[+][0m URL: https://org-domain1.com/ [+REDACTED]
+[32m[+][0m Started: Sun Sep  7 14:26:33 2025
+
+Interesting Finding(s):
+
+[32m[+][0m Headers
+ | Interesting Entries:
+ |  - server: nginx
+ |  - x-powered-by: PHP/7.4.33
+ |  - access-control-allow-origin: *
+ | Found By: Headers (Passive Detection)
+ | Confidence: 100%
+
+[32m[+][0m robots.txt found: https://org-domain1.com/robots.txt
+ | Found By: Robots Txt (Aggressive Detection)
+ | Confidence: 100%
+
+[32m[+][0m WordPress readme found: https://org-domain1.com/readme.html
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 100%
+
+[32m[+][0m This site has 'Must Use Plugins': https://org-domain1.com/wp-content/mu-plugins/
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 80%
+ | Reference: http://codex.wordpress.org/Must_Use_Plugins
+
+[32m[+][0m The external WP-Cron seems to be enabled: https://org-domain1.com/wp-cron.php
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 60%
+ | References:
+ |  - https://www.iplocation.net/defend-wordpress-from-ddos
+ |  - https://github.com/wpscanteam/wpscan/issues/1299
+
+[32m[+][0m WordPress version 6.8.2 identified (Latest, released on +REDACTED).
+ | Found By: Rss Generator (Passive Detection)
+ |  - https://org-domain1.com/feed/, <generator>https://wordpress.org/?v=6.8.2</generator>
+ |  - https://org-domain1.com/comments/feed/, <generator>https://wordpress.org/?v=6.8.2</generator>
+
+[32m[+][0m WordPress theme in use: hello-elementor
+ | Location: https://org-domain1.com/wp-content/themes/hello-elementor/
+ | Latest Version: 3.4.4 (up to date)
+ | Last Updated: +REDACTEDT00:00:00.000Z
+ | Readme: https://org-domain1.com/wp-content/themes/hello-elementor/readme.txt
+ | Style URL: https://org-domain1.com/wp-content/themes/hello-elementor/style.css
+ | Style Name: Hello Elementor
+ | Style URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+ | Description: Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work ...
+ | Author: Elementor Team
+ | Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://org-domain1.com/wp-content/themes/hello-elementor/style.css, Match: 'Version: 3.4.4'
+
+[32m[+][0m Enumerating Most Popular Themes (via Passive and Aggressive Methods)
+
+ Checking Known Locations -: |====================================================================================================================|
+[32m[+][0m Checking Theme Versions (via Passive and Aggressive Methods)
+
+[34m[i][0m Theme(s) Identified:
+
+[32m[+][0m hello-elementor
+ | Location: https://org-domain1.com/wp-content/themes/hello-elementor/
+ | Latest Version: 3.4.4 (up to date)
+ | Last Updated: +REDACTEDT00:00:00.000Z
+ | Readme: https://org-domain1.com/wp-content/themes/hello-elementor/readme.txt
+ | Style URL: https://org-domain1.com/wp-content/themes/hello-elementor/style.css
+ | Style Name: Hello Elementor
+ | Style URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+ | Description: Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work ...
+ | Author: Elementor Team
+ | Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By:
+ |  Urls In 404 Page (Passive Detection)
+ |  Known Locations (Aggressive Detection)
+ |   - https://org-domain1.com/wp-content/themes/hello-elementor/, status: 200
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://org-domain1.com/wp-content/themes/hello-elementor/style.css, Match: 'Version: 3.4.4'
+
+[32m[+][0m twentytwentyfive
+ | Location: https://org-domain1.com/wp-content/themes/twentytwentyfive/
+ | Last Updated: +REDACTEDT00:00:00.000Z
+ | Readme: https://org-domain1.com/wp-content/themes/twentytwentyfive/readme.txt
+ | [33m[!][0m The version is out of date, the latest version is 1.3
+ | Style URL: https://org-domain1.com/wp-content/themes/twentytwentyfive/style.css
+ | Style Name: Twenty Twenty-Five
+ | Style URI: https://wordpress.org/themes/twentytwentyfive/
+ | Description: Twenty Twenty-Five emphasizes simplicity and adaptability. It offers flexible design options, suppor...
+ | Author: the WordPress team
+ | Author URI: https://wordpress.org
+ |
+ | Found By: Known Locations (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/themes/twentytwentyfive/, status: 403
+ |
+ | Version: 1.0 (80% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://org-domain1.com/wp-content/themes/twentytwentyfive/style.css, Match: 'Version: 1.0'
+
+[32m[+][0m twentytwentyfour
+ | Location: https://org-domain1.com/wp-content/themes/twentytwentyfour/
+ | Latest Version: 1.3 (up to date)
+ | Last Updated: +REDACTEDT00:00:00.000Z
+ | Readme: https://org-domain1.com/wp-content/themes/twentytwentyfour/readme.txt
+ | Style URL: https://org-domain1.com/wp-content/themes/twentytwentyfour/style.css
+ | Style Name: Twenty Twenty-Four
+ | Style URI: https://wordpress.org/themes/twentytwentyfour/
+ | Description: Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collecti...
+ | Author: the WordPress team
+ | Author URI: https://wordpress.org
+ |
+ | Found By: Known Locations (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/themes/twentytwentyfour/, status: 403
+ |
+ | Version: 1.3 (80% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://org-domain1.com/wp-content/themes/twentytwentyfour/style.css, Match: 'Version: 1.3'
+
+[32m[+][0m twentytwentythree
+ | Location: https://org-domain1.com/wp-content/themes/twentytwentythree/
+ | Latest Version: 1.6 (up to date)
+ | Last Updated: +REDACTEDT00:00:00.000Z
+ | Readme: https://org-domain1.com/wp-content/themes/twentytwentythree/readme.txt
+ | Style URL: https://org-domain1.com/wp-content/themes/twentytwentythree/style.css
+ | Style Name: Twenty Twenty-Three
+ | Style URI: https://wordpress.org/themes/twentytwentythree
+ | Description: Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6....
+ | Author: the WordPress team
+ | Author URI: https://wordpress.org
+ |
+ | Found By: Known Locations (Aggressive Detection)
+ |  - https://org-domain1.com/wp-content/themes/twentytwentythree/, status: 403
+ |
+ | Version: 1.6 (80% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://org-domain1.com/wp-content/themes/twentytwentythree/style.css, Match: 'Version: 1.6'
+
+[32m[+][0m WPScan DB API OK
+ | Plan: free
+ | Requests Done (during the scan): 3
+ | Requests Remaining: 13
+
+[32m[+][0m Finished: Sun Sep  7 14:27:33 2025
+[32m[+][0m Requests Done: 448
+[32m[+][0m Cached Requests: 24
+[32m[+][0m Data Sent: 246.979 KB
+[32m[+][0m Data Received: 1.385 MB
+[32m[+][0m Memory used: 216.078 MB
+[32m[+][0m Elapsed time: 00:01:00
+
+=== User Enumeration ===
+[32m[+][0m URL: https://org-domain1.com/ [+REDACTED]
+[32m[+][0m Started: Sun Sep  7 14:27:40 2025
+
+Interesting Finding(s):
+
+[32m[+][0m Headers
+ | Interesting Entries:
+ |  - server: nginx
+ |  - x-powered-by: PHP/7.4.33
+ |  - access-control-allow-origin: *
+ | Found By: Headers (Passive Detection)
+ | Confidence: 100%
+
+[32m[+][0m robots.txt found: https://org-domain1.com/robots.txt
+ | Found By: Robots Txt (Aggressive Detection)
+ | Confidence: 100%
+
+[32m[+][0m WordPress readme found: https://org-domain1.com/readme.html
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 100%
+
+[32m[+][0m This site has 'Must Use Plugins': https://org-domain1.com/wp-content/mu-plugins/
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 80%
+ | Reference: http://codex.wordpress.org/Must_Use_Plugins
+
+[32m[+][0m The external WP-Cron seems to be enabled: https://org-domain1.com/wp-cron.php
+ | Found By: Direct Access (Aggressive Detection)
+ | Confidence: 60%
+ | References:
+ |  - https://www.iplocation.net/defend-wordpress-from-ddos
+ |  - https://github.com/wpscanteam/wpscan/issues/1299
+
+[32m[+][0m WordPress version 6.8.2 identified (Latest, released on +REDACTED).
+ | Found By: Rss Generator (Passive Detection)
+ |  - https://org-domain1.com/feed/, <generator>https://wordpress.org/?v=6.8.2</generator>
+ |  - https://org-domain1.com/comments/feed/, <generator>https://wordpress.org/?v=6.8.2</generator>
+
+[32m[+][0m WordPress theme in use: hello-elementor
+ | Location: https://org-domain1.com/wp-content/themes/hello-elementor/
+ | Latest Version: 3.4.4 (up to date)
+ | Last Updated: +REDACTEDT00:00:00.000Z
+ | Readme: https://org-domain1.com/wp-content/themes/hello-elementor/readme.txt
+ | Style URL: https://org-domain1.com/wp-content/themes/hello-elementor/style.css
+ | Style Name: Hello Elementor
+ | Style URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+ | Description: Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work ...
+ | Author: Elementor Team
+ | Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: +REDACTED% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://org-domain1.com/wp-content/themes/hello-elementor/style.css, Match: 'Version: 3.4.4'
+
+[32m[+][0m Enumerating Users (via Passive and Aggressive Methods)
+
+ Brute Forcing Author IDs -: |====================================================================================================================|
+
+[34m[i][0m User(s) Identified:
+
+[32m[+][0m talya
+ | Found By: Rss Generator (Passive Detection)
+ | Confirmed By:
+ |  Wp Json Api (Aggressive Detection)
+ |   - https://org-domain1.com/wp-json/wp/v2/users/?per_page=100&page=1
+ |  Rss Generator (Aggressive Detection)
+
+[32m[+][0m shilat
+ | Found By: Rss Generator (Passive Detection)
+ | Confirmed By:
+ |  Wp Json Api (Aggressive Detection)
+ |   - https://org-domain1.com/wp-json/wp/v2/users/?per_page=100&page=1
+ |  Rss Generator (Aggressive Detection)
+
+[32m[+][0m cdkdev
+ | Found By: Wp Json Api (Aggressive Detection)
+ |  - https://org-domain1.com/wp-json/wp/v2/users/?per_page=100&page=1
+
+[32m[+][0m cdkadmin
+ | Found By: Wp Json Api (Aggressive Detection)
+ |  - https://org-domain1.com/wp-json/wp/v2/users/?per_page=100&page=1
+
+[32m[+][0m cdkdesign
+ | Found By: Wp Json Api (Aggressive Detection)
+ |  - https://org-domain1.com/wp-json/wp/v2/users/?per_page=100&page=1
+
+[32m[+][0m gal-now
+ | Found By: Wp Json Api (Aggressive Detection)
+ |  - https://org-domain1.com/wp-json/wp/v2/users/?per_page=100&page=1
+
+[32m[+][0m sig
+ | Found By: Wp Json Api (Aggressive Detection)
+ |  - https://org-domain1.com/wp-json/wp/v2/users/?per_page=100&page=1
+
+[32m[+][0m Organization Technology
+ | Found By: Oembed API - Author Name (Aggressive Detection)
+ |  - https://org-domain1.com/wp-json/oembed/1.0/embed?url=https://org-domain1.com/&format=json
+
+[32m[+][0m WPScan DB API OK
+ | Plan: free
+ | Requests Done (during the scan): 0
+ | Requests Remaining: 13
+
+[32m[+][0m Finished: Sun Sep  7 14:28:21 2025
+[32m[+][0m Requests Done: 60
+[32m[+][0m Cached Requests: 10
+[32m[+][0m Data Sent: 34.808 KB
+[32m[+][0m Data Received: 4.543 MB
+[32m[+][0m Memory used: 212.207 MB
+[32m[+][0m Elapsed time: 00:00:41
+
+=== Vulnerability Scanning ===
+
+Scan Aborted: --enumerate Unknown choice: vu
+
+=== Configuration Analysis ===
+--- wp-config.php Test ---
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  +REDACTED --:--:-- --:--:-- --:--:--     +REDACTED --:--:-- --:--:-- --:--:--     +REDACTED --:--:-- --:--:-- --:--:--     0
+HTTP/2 403 
+server: nginx
+date: Sun, 07 Sep 2025 11:28:22 GMT
+content-type: text/html
+content-length: 18472
+vary: Accept-Encoding
+etag: "67ed+REDACTED"
+
+
+--- readme.html Test ---
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  +REDACTED --:--:-- --:--:-- --:--:--     +REDACTED --:--:-- --:--:-- --:--:--     +REDACTED --:--:-- --:--:-- --:--:--     0
+HTTP/2 200 
+server: nginx
+date: Sun, 07 Sep 2025 11:28:23 GMT
+content-type: text/html
+content-length: 7425
+last-modified: Tue, 15 Jul 2025 21:14:06 GMT
+vary: Accept-Encoding
+etag: "6876c49e-1d01"
+access-control-allow-origin: *
+accept-ranges: bytes
+
+
+--- license.txt Test ---
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  +REDACTED --:--:-- --:--:-- --:--:--     +REDACTED --:--:-- --:--:-- --:--:--     +REDACTED --:--:-- --:--:-- --:--:--     0
+HTTP/2 200 
+server: nginx
+date: Sun, 07 Sep 2025 11:28:24 GMT
+content-type: text/plain
+content-length: 19903
+last-modified: Tue, 15 Apr 2025 23:11:31 GMT
+vary: Accept-Encoding
+etag: "67fee7a3-4dbf"
+access-control-allow-origin: *
+accept-ranges: bytes
+
+
+--- wp-links-opml.php Test ---
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  +REDACTED --:--:-- --:--:-- --:--:--     +REDACTED --:--:-- --:--:-- --:--:--     +REDACTED --:--:--  0:00:01 --:--:--     0
+HTTP/2 200 
+server: nginx
+date: Sun, 07 Sep 2025 11:28:26 GMT
+content-type: text/xml; charset=UTF-8
+vary: Accept-Encoding
+x-powered-by: PHP/7.4.33
+access-control-allow-origin: *
+
+
+=== Security Headers Analysis ===
+--- Main Page Security Headers ---
+
+--- wp-admin Security Headers ---
+

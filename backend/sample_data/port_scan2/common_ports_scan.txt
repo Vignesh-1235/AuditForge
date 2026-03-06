@@ -1,0 +1,1058 @@
+# Common Ports Scan Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025-Azure
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 10:56 IDT
+[1m[34m[*][0m Nmap: 'WARNING: RST from 10.69.72.240 port 80 -- is this port really open?'
+[1m[34m[*][0m Nmap: Nmap scan report for 10.252.176.154
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Apache Tomcat (language: en)
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=bst-d0f4155d-71f9-4660-8d00-a4c4c5501ba1.bastion.azure.com/organizationName=Microsoft Corporation/stateOrProvinceName=WA/countryName=US
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:bst-d0f4155d-71f9-4660-8d00-a4c4c5501ba1.bastion.azure.com, DNS:bst-d0f4155d-71f9-4660-8d00-a4c4c5501ba1-0.bastion.azure.com, DNS:bst-d0f4155d-71f9-4660-8d00-a4c4c5501ba1-1.bastion.azure.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-08-01T04:26:47
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-01-28T04:26:47
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): OpenBSD 4.X (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:openbsd:openbsd:4.0
+[1m[34m[*][0m Nmap: Aggressive OS guesses: OpenBSD 4.0 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.237.31.167
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     upnp          Microsoft IIS httpd
+[1m[34m[*][0m Nmap: |_http-title: Did not follow redirect to https://10.237.31.167/
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/https
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=ca.org-domain2.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:mm.ca.org-domain2.com, DNS:mmapi.ca.org-domain2.com, DNS:tech.ca.org-domain2.com, DNS:ca.org-domain5.com, DNS:ca.org-domain2.com, DNS:www.ca.org-domain2.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-08T08:28:31
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-07-10T08:28:31
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.172.123.70
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp open     https-alt     Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |_http-title: Service
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=2dd20066-470f-4b82-845f-71cfbac8ef11.gwt.cloudapp.net
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:azuregateway-2dd20066-470f-4b82-845f-71cfbac8ef11-807f4843b0e4.gwt.cloudapp.net
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-25T22:50:15
+[1m[34m[*][0m Nmap: |_Not valid after:  2025-12-22T22:50:15
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.172.123.57
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Too many fingerprints match this host to give specific OS details
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.70.36
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/https
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=*.org-domain3.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:*.org-domain3.com, DNS:org-domain3.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-01T07:30:59
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-02-16T13:16:27
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.108.106
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/https
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=*.org-domain3.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:*.org-domain3.com, DNS:org-domain3.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-01T07:30:59
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-02-16T13:16:27
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.72.240
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/https
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=*.org-domain3.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:*.org-domain3.com, DNS:org-domain3.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-01T07:30:59
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-02-16T13:16:27
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.110.154
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |_http-title: Did not follow redirect to https://10.67.110.154/
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=*.org-domain3.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:*.org-domain3.com, DNS:org-domain3.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-01T07:30:59
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-02-16T13:16:27
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.183.90.105
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Too many fingerprints match this host to give specific OS details
+[1m[34m[*][0m Nmap: Nmap scan report for 10.183.61.130
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=*.org-domain8.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:*.org-domain8.com, DNS:org-domain8.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-05-04T18:00:40
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-06-05T18:00:40
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.210.211.63
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     https?
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.23.183
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   closed   ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft IIS httpd 8.5
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/8.5
+[1m[34m[*][0m Nmap: |_http-title: IIS Windows Server
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2008|7 (94%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (94%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (92%), Microsoft Windows 7 or Windows Server 2008 R2 (89%), Microsoft Windows Server 2008 R2 SP1 (88%), Microsoft Windows Server 2012 or Windows Server 2012 R2 (87%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.1.254
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   closed   ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running: Microsoft Windows 2008
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2008:r2:sp1
+[1m[34m[*][0m Nmap: OS details: Microsoft Windows Server 2008 R2 SP1
+[1m[34m[*][0m Nmap: Nmap scan report for 10.162.251.64
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   open     ftp           FileZilla ftpd 0.9.60 beta
+[1m[34m[*][0m Nmap: | ftp-syst:
+[1m[34m[*][0m Nmap: |_  SYST: UNIX emulated by FileZilla
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2008|7 (94%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (94%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (92%), Microsoft Windows 7 or Windows Server 2008 R2 (89%), Microsoft Windows Server 2008 R2 SP1 (88%), Microsoft Windows Server 2012 or Windows Server 2012 R2 (87%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.10.152
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   open     ftp           FileZilla ftpd 0.9.60 beta
+[1m[34m[*][0m Nmap: | ftp-syst:
+[1m[34m[*][0m Nmap: |_  SYST: UNIX emulated by FileZilla
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: |_http-trane-info: Problem with XML parsing of /evox/about
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: |_ssl-date: 2025-09-08T07:58:35+00:00; 0s from scanner time.
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=org-domain2.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:org-domain2.com, DNS:www.org-domain2.com, DNS:www.org-domain5.com, DNS:mmapi.org-domain2.com, DNS:org-domain5.com, DNS:tst-mmapi.org-domain2.com, DNS:mm.org-domain2.com, DNS:tech.org-domain2.com, DNS:tst-mm.org-domain2.com, DNS:sms.org-domain2.com
+[1m[34m[*][0m Nmap: | Not valid before: 2018-03-12T15:05:00
+[1m[34m[*][0m Nmap: |_Not valid after:  2020-03-12T15:05:00
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2008|7 (92%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (92%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (89%), Microsoft Windows 7 or Windows Server 2008 R2 (85%), Microsoft Windows Server 2008 R2 SP1 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.162.198.248
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   closed   ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     https?
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2016|2008|7 (89%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (89%), Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.97.119.225
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     https?
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.102.237.149
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     https?
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.16.249.246
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=*.org-domain8.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:*.org-domain8.com, DNS:org-domain8.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-05-04T18:00:40
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-06-05T18:00:40
+[1m[34m[*][0m Nmap: | tls-alpn:
+[1m[34m[*][0m Nmap: |   h2
+[1m[34m[*][0m Nmap: |_  http/1.1
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: | tls-nextprotoneg:
+[1m[34m[*][0m Nmap: |   h2
+[1m[34m[*][0m Nmap: |_  http/1.1
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): OpenBSD 4.X (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:openbsd:openbsd:4.0
+[1m[34m[*][0m Nmap: Aggressive OS guesses: OpenBSD 4.0 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.161.154.129
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: | tls-nextprotoneg:
+[1m[34m[*][0m Nmap: |   h2
+[1m[34m[*][0m Nmap: |_  http/1.1
+[1m[34m[*][0m Nmap: | tls-alpn:
+[1m[34m[*][0m Nmap: |   h2
+[1m[34m[*][0m Nmap: |_  http/1.1
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |_http-title: 400 The plain HTTP request was sent to HTTPS port
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=*.org-domain8.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:*.org-domain8.com, DNS:org-domain8.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-05-04T18:00:40
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-06-05T18:00:40
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.4.237
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   closed   ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: |_http-title: IIS Windows Server
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2019|10 (94%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2019 cpe:/o:microsoft:windows_10
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Windows Server 2019 (94%), Microsoft Windows 10 1903 - 21H1 (89%), Microsoft Windows 10 1607 (88%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.91.218.78
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp open     ssl/https-alt
+[1m[34m[*][0m Nmap: |_http-title: Service
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=3d5f0069-f096-42a4-8c7a-cacd0c63d735.gwt.cloudapp.net
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:azuregateway-3d5f0069-f096-42a4-8c7a-cacd0c63d735-730ec66f2425.gwt.cloudapp.net
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-26T16:59:59
+[1m[34m[*][0m Nmap: |_Not valid after:  2025-12-23T16:59:59
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.74.240.44
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/https
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=8378f332-8d5b-48c3-8ddb-2f254e1b8935.vpn.azure.com/organizationName=Microsoft Corporation/stateOrProvinceName=Washington/countryName=US
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:8378f332-8d5b-48c3-8ddb-2f254e1b8935.vpn.azure.com, DNS:azuregateway-8378f332-8d5b-48c3-8ddb-2f254e1b8935-0c54ccfbf57e.vpn.azure.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-05-02T00:00:00
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-04-14T23:59:59
+[1m[34m[*][0m Nmap: |_http-title: Service Unavailable
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |_sstp-discover: SSTP is supported.
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp open     ssl/https-alt
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=8378f332-8d5b-48c3-8ddb-2f254e1b8935.gwt.cloudapp.net
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:azuregateway-8378f332-8d5b-48c3-8ddb-2f254e1b8935-0c54ccfbf57e.gwt.cloudapp.net
+[1m[34m[*][0m Nmap: | Not valid before: 2025-05-17T06:49:54
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-05-12T06:49:54
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: |_http-title: Service
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.159.6.144
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Too many fingerprints match this host to give specific OS details
+[1m[34m[*][0m Nmap: Nmap scan report for 10.105.251.104
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Too many fingerprints match this host to give specific OS details
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.32.242
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Too many fingerprints match this host to give specific OS details
+[1m[34m[*][0m Nmap: Nmap scan report for 10.47.159.57
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     https?
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.214.27.37
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |_http-title: Did not follow redirect to https://www.org-domain4.com/
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=www.org-domain4.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:masterlinkasp.net, DNS:www.org-domain4.com, DNS:org-domain4.com, DNS:ftp.org-domain4.com
+[1m[34m[*][0m Nmap: | Not valid before: 2024-12-09T07:38:02
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-01-10T07:38:02
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | tls-alpn:
+[1m[34m[*][0m Nmap: |_  http/1.1
+[1m[34m[*][0m Nmap: |_ssl-date: 2025-09-08T07:58:36+00:00; 0s from scanner time.
+[1m[34m[*][0m Nmap: |_http-title: Masterlinx
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2019|10 (92%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2019 cpe:/o:microsoft:windows_10
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Windows Server 2019 (92%), Microsoft Windows 10 1607 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.194.43
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     http          Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: |_http-title: Did not follow redirect to https://www.org-domain4.com/
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |_ssl-date: 2025-09-08T07:58:32+00:00; 0s from scanner time.
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=www.org-domain4.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:masterlinkasp.net, DNS:www.org-domain4.com, DNS:org-domain4.com, DNS:ftp.org-domain4.com
+[1m[34m[*][0m Nmap: | Not valid before: 2024-12-09T07:38:02
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-01-10T07:38:02
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | tls-alpn:
+[1m[34m[*][0m Nmap: |_  http/1.1
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2019 (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2019
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Windows Server 2019 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.4.64.221
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp open     ssl/https-alt
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |_http-title: Service
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=69570069-a41e-4de5-87c3-a7c157f22695.gwt.cloudapp.net
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:azuregateway-69570069-a41e-4de5-87c3-a7c157f22695-78247ffd3014.gwt.cloudapp.net
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-27T02:03:27
+[1m[34m[*][0m Nmap: |_Not valid after:  2025-12-24T02:03:27
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.185.246
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/https
+[1m[34m[*][0m Nmap: |_sstp-discover: SSTP is supported.
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=cff3c408-0eac-4938-9900-9e42934618d0.vpn.azure.com/organizationName=Microsoft Corporation/stateOrProvinceName=Washington/countryName=US
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:cff3c408-0eac-4938-9900-9e42934618d0.vpn.azure.com, DNS:azuregateway-cff3c408-0eac-4938-9900-9e42934618d0-fdfbc079889b.vpn.azure.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-02-14T00:00:00
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-02-14T23:59:59
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Post-scan script results:
+[1m[34m[*][0m Nmap: | clock-skew:
+[1m[34m[*][0m Nmap: |   0s:
+[1m[34m[*][0m Nmap: |     10.84.194.43
+[1m[34m[*][0m Nmap: |     10.214.27.37
+[1m[34m[*][0m Nmap: |_    10.80.10.152
+[1m[34m[*][0m Nmap: OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+[1m[34m[*][0m Nmap: Nmap done: 132 IP addresses (31 hosts up) scanned in 147.53 seconds
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/recog-3.1.17/lib/recog/fingerprint/regexp_factory.rb:34: warning: nested repeat operator '+' and '?' was replaced with '*' in regular expression
+[0m

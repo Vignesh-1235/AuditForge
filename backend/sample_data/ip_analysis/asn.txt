@@ -1,0 +1,4217 @@
+# ASN Results
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (SHETLAND)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (DEXTER)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (BUSA)
+
+
+
+===== +REDACTED =====
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '+REDACTED'
+
+% Abuse contact for '+REDACTED' is 'redacted@example.com'
+
+inetnum:        +REDACTED
+netname:        NV-Organization-TECH
+descr:          NV-Organization-TECH
+country:        IL
+admin-c: REDACTED
+tech-c:         NN105-RIPE
+status:         ASSIGNED PA
+mnt-by:         NV-MNT-RIPE
+mnt-lower:      NV-MNT-RIPE
+created:        +REDACTEDT11:53:38Z
+last-modified:  +REDACTEDT11:53:38Z
+source:         RIPE
+
+role:           CELLCOM NOC team
+address:        Omega Building
+address:        MATAM industrial park
+address:        Haifa 31905
+address:        Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+abuse-mailbox:  redacted@example.com
+remarks:        Send Spam and Abuse complains ONLY to the above address!
+admin-c: REDACTED
+tech-c:         NVTC-RIPE
+nic-hdl:        NN105-RIPE
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT00:00:00Z
+last-modified:  +REDACTEDT09:10:47Z
+source:         RIPE # Filtered
+
+person:         Gil Peled
+address:        Organization Measurement Technology LTD
+address:        , Yoqneam , Israel
+phone:          +REDACTED
+fax-no:         +REDACTED
+nic-hdl:        GP4452-RIPE
+created:        +REDACTEDT11:10:08Z
+last-modified:  +REDACTEDT13:05:51Z
+source:         RIPE # Filtered
+mnt-by:         NV-MNT-RIPE
+
+% Information related to '+REDACTED/24AS1680'
+
+route:          +REDACTED/24
+origin:         AS1680
+mnt-by:         NV-MNT-RIPE
+created:        +REDACTEDT17:34:58Z
+last-modified:  +REDACTEDT17:34:58Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.118.1 (ABERDEEN)
+
+

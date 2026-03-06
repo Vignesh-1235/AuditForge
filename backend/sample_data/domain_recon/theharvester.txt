@@ -1,0 +1,252 @@
+# theHarvester Results for org-domain1.com
+Read proxies.yaml from /home/kali/.theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.8.1                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* redacted@example.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: org-domain1.com 
+
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for bevigil. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for bufferoverun. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in BuiltWith search: 'builtwith'
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Censys ID and/or Secret. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for criminalip. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in Dehashed: 'dehashed'
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in DNSDumpster: 'dnsdumpster'
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for fullhunt. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Error initializing SearchGithubCode: 
+[!] Missing API key for Github. 
+
+[!] Missing API key for Github. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in HaveIBeenPwned search: 'haveibeenpwned'
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Hunter. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for hunterhow. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Intelx. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in LeakLookup search: 'leaklookup'
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for netlas. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for onyphe. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for PentestTools. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for ProjectDiscovery. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for RocketReach. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in SecurityScorecard search: 'securityscorecard'
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Securitytrail. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Tomba Key and/or Secret. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in venacus search: 'venacus'
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for virustotal. 
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in WhoisXML search: 'whoisxml'
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[!] Missing API key for zoomeye. 
+	Searching 0 results.
+[*] Searching Bing. 
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+[*] Searching Baidu. 
+	Searching results.
+[*] Searching Certspotter. 
+[*] Searching CRTsh. 
+[*] Searching Duckduckgo. 
+[*] Searching Hackertarget. 
+[*] Searching Otx. 
+[*] Searching Rapiddns. 
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+Sitedossier module has triggered a captcha on first iteration, no results can be found.
+Change IPs, manually solve the captcha, or wait before rerunning Sitedossier module
+[*] Searching Sitedossier. 
+[*] Searching Subdomaincenter. 
+An exception has occurred: 500, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.threatminer.org/v2/domain.php?q=org-domain1.com&rt=5'
+[*] Searching Subdomainfinderc99. 
+[*] Searching Urlscan. 
+[*] Searching Yahoo. 
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+[*] Searching Brave. 
+
+[*] No LinkedIn users found.
+
+
+
+[*] LinkedIn Links found: 0
+---------------------
+
+[*] IPs found: +REDACTED
+
+[*] No emails found.
+
+[*] No people found.
+
+[*] Hosts found: 56
+---------------------
+archive.org-domain1.com
+archive.org-domain1.com:+REDACTED
+archive.org-domain1.com:64:ff9b11:22:33:44:55:66:c25a:f229
+autodiscover.org-domain1.com
+autodiscover.org-domain1.com:autod.ms-acdc-autod.office.com
+autodiscover.org-domain1.com:autodiscover.outlook.com
+autodiscover.org-domain1.com:autodiscover.outlook.com.
+backupmx.org-domain1.com
+backupmx.org-domain1.com:+REDACTED
+backupmx7.org-domain1.com
+bugzilla.org-domain1.com
+bugzilla.org-domain1.com:+REDACTED
+bugzilla1.org-domain1.com
+cloud.org-domain1.com
+cloud.org-domain1.com:+REDACTED
+cloud.org-domain1.com:64:ff9b11:22:33:44:55:66:c25a:f22e
+dialin.org-domain1.com
+dialin.org-domain1.com:+REDACTED
+ftp2.org-domain1.com
+gate.org-domain1.com:+REDACTED
+gate5.org-domain1.com
+isl.org-domain1.com
+isl.org-domain1.com:+REDACTED
+it-support.org-domain1.com
+keys.org-domain1.com:+REDACTED
+keys5.org-domain1.com
+lyncdiscover.org-domain1.com
+lyncdiscover.org-domain1.com:webdir.online.lync.com
+lyncdiscover.org-domain1.com:webdir.online.lync.com.
+mail.org-domain1.com
+mail.org-domain1.com:+REDACTED
+mail9.org-domain1.com
+mdm.org-domain1.com:+REDACTED
+meet.org-domain1.com
+meet.org-domain1.com:+REDACTED
+plm.org-domain1.com:+REDACTED
+sip.org-domain1.com
+sip.org-domain1.com:sipdir.online.lync.com
+sip.org-domain1.com:sipdir.online.lync.com.
+solidpdm.org-domain1.com:+REDACTED
+solidpdm5.org-domain1.com
+support.org-domain1.com
+support.org-domain1.com:+REDACTED
+support5.org-domain1.com
+tfs.org-domain1.com
+tfs.org-domain1.com:+REDACTED
+tfs2013.org-domain1.com
+tfs2013.org-domain1.com:+REDACTED
+tfs2013.org-domain1.com:64:ff9b11:22:33:44:55:66:c25a:f21e
+vsp.org-domain1.com:+REDACTED
+webconf.org-domain1.com
+webconf.org-domain1.com:+REDACTED
+webext.org-domain1.com
+webext.org-domain1.com:+REDACTED
+webext.org-domain1.com:64:ff9b11:22:33:44:55:66:c25a:f221
+webext7.org-domain1.com
+
+[!] Wordlist not found: /usr/lib/python3/dist-packages/theHarvester/data/wordlists/api_endpoints.txt
+Creating a basic API wordlist for scanning...
+
+[!] An exception has occurred in API Endpoints scanning: [Errno 2] No such file or directory: '/usr/lib/python3/dist-packages/theHarvester/data/wordlists/temp_api_endpoints.txt'
+    Continuing with the rest of the scan...
+
+[*] Performing SecurityScorecard scan...
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in SecurityScorecard scanning: 'securityscorecard'
+
+[*] Performing BuiltWith scan...
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+An exception has occurred in BuiltWith scanning: 'builtwith'

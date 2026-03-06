@@ -1,0 +1,92 @@
+
+===== http://10.69.72.240:80 =====
+
+===== https://10.69.72.240:443 =====
+
+===== http://10.80.70.36:80 =====
+
+===== https://10.80.70.36:443 =====
+
+===== https://10.84.185.246:443 =====
+
+===== http://10.16.249.246:80 =====
+
+===== https://10.16.249.246:443 =====
+
+===== http://10.67.108.106:80 =====
+
+===== https://10.67.108.106:443 =====
+
+===== http://10.67.110.154:80 =====
+2025/09/08 15:43:38 the server returns a status code that matches the provided options for non existing urls. http://10.67.110.154:80/ef80153d-6b1b-4f83-a2ce-d0ecdd636e88 => 301 (redirect to https://10.67.110.154/ef80153d-6b1b-4f83-a2ce-d0ecdd636e88) (Length: 195). Please exclude the response length or the status code or set the wildcard option.. To continue please exclude the status code or the length
+
+===== https://10.67.110.154:443 =====
+
+===== http://10.80.4.237:80 =====
+/reports              (Status: 401) [Size: 0]
+
+===== http://10.80.10.152:80 =====
+2025/09/08 16:15:35 the server returns a status code that matches the provided options for non existing urls. http://10.80.10.152:80/d9adbfea-17a6-49fc-9562-c60e21c7698a => 302 (redirect to /default.aspx?ReturnUrl=%2fd9adbfea-17a6-49fc-9562-c60e21c7698a) (Length: 180). Please exclude the response length or the status code or set the wildcard option.. To continue please exclude the status code or the length
+
+===== https://10.80.10.152:443 =====
+
+===== http://10.97.119.225:80 =====
+/account              (Status: 302) [Size: 151] [--> /default.aspx?ReturnUrl=%2faccount]
+/aspnet_client        (Status: 301) [Size: 161] [--> http://10.97.119.225:80/aspnet_client/]
+/aux                  (Status: 500) [Size: 1763]
+/com1                 (Status: 500) [Size: 1763]
+/com2                 (Status: 500) [Size: 1763]
+/com3                 (Status: 500) [Size: 1763]
+/con                  (Status: 500) [Size: 1763]
+/documents            (Status: 301) [Size: 157] [--> http://10.97.119.225:80/documents/]
+/error                (Status: 301) [Size: 153] [--> http://10.97.119.225:80/error/]
+/favicon.ico          (Status: 200) [Size: 1150]
+/images               (Status: 301) [Size: 154] [--> http://10.97.119.225:80/images/]
+/Images               (Status: 301) [Size: 154] [--> http://10.97.119.225:80/Images/]
+/lpt1                 (Status: 500) [Size: 1763]
+/lpt2                 (Status: 500) [Size: 1763]
+/nul                  (Status: 500) [Size: 1763]
+/prn                  (Status: 500) [Size: 1763]
+/Scripts              (Status: 301) [Size: 155] [--> http://10.97.119.225:80/Scripts/]
+/scripts              (Status: 301) [Size: 155] [--> http://10.97.119.225:80/scripts/]
+/styles               (Status: 301) [Size: 154] [--> http://10.97.119.225:80/styles/]
+
+===== https://10.97.119.225:443 =====
+2025/09/08 16:49:05 error on running gobuster on https://10.97.119.225:443/: unable to connect to https://10.97.119.225:443/: Get "https://10.97.119.225:443/": read tcp 10.11.110.15:51810->10.97.119.225:443: read: connection reset by peer
+
+===== http://10.102.237.149:80 =====
+/account              (Status: 302) [Size: 151] [--> /default.aspx?ReturnUrl=%2faccount]
+/aux                  (Status: 500) [Size: 1763]
+/com1                 (Status: 500) [Size: 1763]
+/com3                 (Status: 500) [Size: 1763]
+/com2                 (Status: 500) [Size: 1763]
+/con                  (Status: 500) [Size: 1763]
+/documents            (Status: 301) [Size: 158] [--> http://10.102.237.149:80/documents/]
+/error                (Status: 301) [Size: 154] [--> http://10.102.237.149:80/error/]
+/favicon.ico          (Status: 200) [Size: 1150]
+/images               (Status: 301) [Size: 155] [--> http://10.102.237.149:80/images/]
+/Images               (Status: 301) [Size: 155] [--> http://10.102.237.149:80/Images/]
+/lpt1                 (Status: 500) [Size: 1763]
+/lpt2                 (Status: 500) [Size: 1763]
+/nul                  (Status: 500) [Size: 1763]
+/prn                  (Status: 500) [Size: 1763]
+/scripts              (Status: 301) [Size: 156] [--> http://10.102.237.149:80/scripts/]
+/Scripts              (Status: 301) [Size: 156] [--> http://10.102.237.149:80/Scripts/]
+/styles               (Status: 301) [Size: 155] [--> http://10.102.237.149:80/styles/]
+
+===== https://10.102.237.149:443 =====
+2025/09/08 17:00:00 error on running gobuster on https://10.102.237.149:443/: unable to connect to https://10.102.237.149:443/: Get "https://10.102.237.149:443/": read tcp 10.11.110.15:34578->10.102.237.149:443: read: connection reset by peer
+
+===== https://10.74.240.44:443 =====
+2025/09/08 17:00:18 the server returns a status code that matches the provided options for non existing urls. https://10.74.240.44:443/b3d8c4d9-4685-475a-a285-09b35c9d9405 => 503 (Length: 326). Please exclude the response length or the status code or set the wildcard option.. To continue please exclude the status code or the length
+
+===== http://10.84.194.43:80 =====
+2025/09/08 17:10:23 the server returns a status code that matches the provided options for non existing urls. http://10.84.194.43:80/7804690b-9956-438b-a16c-e0ef9bddea16 => 301 (redirect to https://www.org-domain4.com/7804690b-9956-438b-a16c-e0ef9bddea16) (Length: 186). Please exclude the response length or the status code or set the wildcard option.. To continue please exclude the status code or the length
+
+===== https://10.84.194.43:443 =====
+/aspnet_client        (Status: 301) [Size: 162] [--> https://10.84.194.43:443/aspnet_client/]
+/assets               (Status: 301) [Size: 155] [--> https://10.84.194.43:443/assets/]
+/gadgets              (Status: 301) [Size: 156] [--> https://10.84.194.43:443/gadgets/]
+/images               (Status: 301) [Size: 155] [--> https://10.84.194.43:443/images/]
+/Images               (Status: 301) [Size: 155] [--> https://10.84.194.43:443/Images/]
+/obj                  (Status: 301) [Size: 152] [--> https://10.84.194.43:443/obj/]

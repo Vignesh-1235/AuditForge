@@ -1,0 +1,65 @@
+
+===== http://10.69.72.240:80 =====
+http://10.69.72.240:80 [200 OK] Country[UNITED STATES][US], HTTPServer[Microsoft-IIS/10.0], IP[10.69.72.240], Microsoft-IIS[10.0], X-Powered-By[ASP.NET]
+
+===== https://10.69.72.240:443 =====
+https://10.69.72.240:443 [200 OK] Country[UNITED STATES][US], HTTPServer[Microsoft-IIS/10.0], IP[10.69.72.240], Microsoft-IIS[10.0], X-Powered-By[ASP.NET]
+
+===== http://10.80.70.36:80 =====
+http://10.80.70.36:80 [200 OK] Country[UNITED STATES][US], HTTPServer[Microsoft-IIS/10.0], IP[10.80.70.36], Microsoft-IIS[10.0], X-Powered-By[ASP.NET]
+
+===== https://10.80.70.36:443 =====
+https://10.80.70.36:443 [200 OK] Country[UNITED STATES][US], HTTPServer[Microsoft-IIS/10.0], IP[10.80.70.36], Microsoft-IIS[10.0], X-Powered-By[ASP.NET]
+
+===== https://10.84.185.246:443 =====
+https://10.84.185.246:443 [404 Not Found] Country[UNITED STATES][US], HTTPServer[Microsoft-HTTPAPI/2.0], IP[10.84.185.246], Microsoft-HTTPAPI[2.0], Title[Not Found]
+
+===== http://10.16.249.246:80 =====
+http://10.16.249.246:80 [404 Not Found] Country[UNITED STATES][US], HTTPServer[Microsoft-Azure-Application-Gateway/v2], IP[10.16.249.246], Title[404 Not Found]
+
+===== https://10.16.249.246:443 =====
+https://10.16.249.246:443 [404 Not Found] Country[UNITED STATES][US], HTTPServer[Microsoft-Azure-Application-Gateway/v2], IP[10.16.249.246], Title[404 Not Found]
+
+===== http://10.67.108.106:80 =====
+http://10.67.108.106:80 [200 OK] Country[UNITED STATES][US], HTTPServer[Microsoft-IIS/10.0], IP[10.67.108.106], Microsoft-IIS[10.0], X-Powered-By[ASP.NET]
+
+===== https://10.67.108.106:443 =====
+https://10.67.108.106:443 [200 OK] Country[UNITED STATES][US], HTTPServer[Microsoft-IIS/10.0], IP[10.67.108.106], Microsoft-IIS[10.0], X-Powered-By[ASP.NET]
+
+===== http://10.67.110.154:80 =====
+http://10.67.110.154:80 [301 Moved Permanently] Country[UNITED STATES][US], HTTPServer[Microsoft-Azure-Application-Gateway/v2], IP[10.67.110.154], RedirectLocation[https://10.67.110.154/], Title[301 Moved Permanently]
+https://10.67.110.154/ [404 Not Found] Country[UNITED STATES][US], HTTPServer[Microsoft-Azure-Application-Gateway/v2], IP[10.67.110.154], Title[404 Not Found]
+
+===== https://10.67.110.154:443 =====
+https://10.67.110.154:443 [404 Not Found] Country[UNITED STATES][US], HTTPServer[Microsoft-Azure-Application-Gateway/v2], IP[10.67.110.154], Title[404 Not Found]
+
+===== http://10.80.4.237:80 =====
+http://10.80.4.237:80 [200 OK] Country[UNITED STATES][US], HTTPServer[Microsoft-IIS/10.0], IP[10.80.4.237], Microsoft-IIS[10.0], Title[IIS Windows Server]
+
+===== http://10.80.10.152:80 =====
+http://10.80.10.152:80 [200 OK] ASP_NET, Cookies[ASP.NET_SessionId], Country[UNITED STATES][US], HttpOnly[ASP.NET_SessionId], IP[10.80.10.152], PasswordField[ctl00$MainContent$Login1$Password], Script[text/javascript], Title[Harmony][Title element contains newline(s)!], X-Frame-Options[SAMEORIGIN], X-UA-Compatible[IE=edge]
+
+===== https://10.80.10.152:443 =====
+https://10.80.10.152:443 [404 Not Found] Country[UNITED STATES][US], HTTPServer[Microsoft-HTTPAPI/2.0], IP[10.80.10.152], Microsoft-HTTPAPI[2.0], Title[Not Found]
+
+===== http://10.97.119.225:80 =====
+http://10.97.119.225:80 [200 OK] ASP_NET, Cookies[ASP.NET_SessionId], Country[UNITED STATES][US], HttpOnly[ASP.NET_SessionId], IP[10.97.119.225], JQuery[1.4.1], PasswordField[ctl00$MainContent$Login1$Password], Script[text/javascript], Title[Harmony][Title element contains newline(s)!], X-Frame-Options[SAMEORIGIN], X-UA-Compatible[IE=edge]
+
+===== https://10.97.119.225:443 =====
+ERROR Opening: https://10.97.119.225:443 - Connection reset by peer - SSL_connect
+
+===== http://10.102.237.149:80 =====
+http://10.102.237.149:80 [200 OK] ASP_NET, Cookies[ASP.NET_SessionId], Country[UNITED STATES][US], HttpOnly[ASP.NET_SessionId], IP[10.102.237.149], JQuery[1.4.1], PasswordField[ctl00$MainContent$Login1$Password], Script[text/javascript], Title[Harmony][Title element contains newline(s)!], X-Frame-Options[SAMEORIGIN], X-UA-Compatible[IE=edge]
+
+===== https://10.102.237.149:443 =====
+ERROR Opening: https://10.102.237.149:443 - Connection reset by peer - SSL_connect
+
+===== https://10.74.240.44:443 =====
+https://10.74.240.44:443 [503 Service Unavailable] Country[UNITED STATES][US], HTTPServer[Microsoft-HTTPAPI/2.0], IP[10.74.240.44], Microsoft-HTTPAPI[2.0], Title[Service Unavailable]
+
+===== http://10.84.194.43:80 =====
+http://10.84.194.43:80 [301 Moved Permanently] Country[UNITED STATES][US], HTTPServer[Microsoft-IIS/10.0], IP[10.84.194.43], Microsoft-IIS[10.0], RedirectLocation[https://www.org-domain4.com/], Title[Document Moved], X-Powered-By[ASP.NET]
+https://www.org-domain4.com/ [200 OK] ASP_NET, Cookies[ASP.NET_SessionId], Country[RESERVED][ZZ], HTML5, HTTPServer[Microsoft-IIS/10.0], HttpOnly[ASP.NET_SessionId], IP[10.214.27.37], Microsoft-IIS[10.0], PasswordField[ctl00$bannerRight$Login1$Password], Script[text/javascript], Title[Masterlinx][Title element contains newline(s)!], X-Powered-By[ASP.NET]
+
+===== https://10.84.194.43:443 =====
+https://10.84.194.43:443 [200 OK] ASP_NET, Cookies[ASP.NET_SessionId], Country[UNITED STATES][US], HTML5, HTTPServer[Microsoft-IIS/10.0], HttpOnly[ASP.NET_SessionId], IP[10.84.194.43], Microsoft-IIS[10.0], PasswordField[ctl00$bannerRight$Login1$Password], Script[text/javascript], Title[Masterlinx][Title element contains newline(s)!], X-Powered-By[ASP.NET]

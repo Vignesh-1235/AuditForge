@@ -1,0 +1,34 @@
+[0;34m[2025-09-07 14:04:12][0m Checking for MSF workspace: org-domainh-PTE-Sep-2025
+[0;34m[2025-09-07 14:04:19][0m Workspace org-domainh-PTE-Sep-2025 does not exist. Creating...
+[0;34m[2025-09-07 14:04:25][0m Workspace org-domainh-PTE-Sep-2025 created.
+[0;34m[2025-09-07 14:04:25][0m Starting comprehensive port scanning for org-domainh-PTE-Sep-2025
+[0;34m[2025-09-07 14:04:25][0m 1. Performing initial discovery scan...
+[0;34m[2025-09-07 14:04:48][0m Discovery scan completed
+[0;34m[2025-09-07 14:04:48][0m 2. Performing TCP port scanning...
+[0;34m[2025-09-07 14:08:11][0m TCP full scan completed
+[0;34m[2025-09-07 14:08:11][0m 3. Performing detailed scan on common ports...
+[0;34m[2025-09-08 10:15:36][0m Checking for MSF workspace: org-domainh-PTE-Sep-2025
+[0;34m[2025-09-08 10:15:46][0m Workspace org-domainh-PTE-Sep-2025 already exists.
+[0;34m[2025-09-08 10:15:46][0m Starting comprehensive port scanning for org-domainh-PTE-Sep-2025
+[0;34m[2025-09-08 10:15:46][0m 1. Performing initial discovery scan...
+[0;34m[2025-09-08 10:16:21][0m Checking for MSF workspace: org-domainh-PTE-Sep-2025
+[0;34m[2025-09-08 10:16:27][0m Workspace org-domainh-PTE-Sep-2025 already exists.
+[0;34m[2025-09-08 10:16:27][0m Starting comprehensive port scanning for org-domainh-PTE-Sep-2025
+[0;34m[2025-09-08 10:16:27][0m 3. Performing detailed scan on common ports...
+[0;34m[2025-09-08 10:18:07][0m Common ports scan completed
+[0;34m[2025-09-08 10:27:54][0m Checking for MSF workspace: org-domainh-PTE-Sep-2025
+[0;34m[2025-09-08 10:28:00][0m Workspace org-domainh-PTE-Sep-2025 already exists.
+[0;34m[2025-09-08 10:28:00][0m Starting comprehensive port scanning for org-domainh-PTE-Sep-2025
+[0;34m[2025-09-08 10:28:00][0m 3. Performing detailed scan on common ports...
+[0;34m[2025-09-08 10:29:43][0m Common ports scan completed
+[0;34m[2025-09-08 10:43:29][0m Checking for MSF workspace: org-domainh-PTE-Sep-2025
+[0;34m[2025-09-08 10:43:35][0m Workspace org-domainh-PTE-Sep-2025 already exists.
+[0;34m[2025-09-08 10:43:35][0m Starting comprehensive port scanning for org-domainh-PTE-Sep-2025
+[0;34m[2025-09-08 10:43:35][0m 4. Performing UDP port scanning...
+[0;34m[2025-09-08 10:45:36][0m UDP scan completed
+[0;34m[2025-09-08 10:45:36][0m 5. Performing service-specific enumeration...
+[0;34m[2025-09-08 11:28:25][0m Service enumeration completed
+[0;34m[2025-09-08 11:28:25][0m 6. Generating scan report...
+[0;34m[2025-09-08 11:28:32][0m Comprehensive port scanning completed successfully!
+[0;34m[2025-09-08 11:28:32][0m Results saved to: evidence/port_scan
+[0;34m[2025-09-08 11:28:32][0m Scan report: evidence/port_scan/report.md

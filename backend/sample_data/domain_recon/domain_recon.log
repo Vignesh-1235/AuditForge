@@ -1,0 +1,22 @@
+[0;34m[+REDACTED:00:43][0m Starting domain reconnaissance for org-domain1.com
+[0;34m[+REDACTED:00:43][0m 1. Performing WHOIS lookup...
+[0;34m[+REDACTED:00:45][0m WHOIS information saved to evidence/domain_recon/whois.txt
+[0;34m[+REDACTED:00:45][0m    - A Records
+[0;34m[+REDACTED:00:45][0m    - AAAA Records
+[0;34m[+REDACTED:00:45][0m    - MX Records
+[0;34m[+REDACTED:00:45][0m    - TXT Records
+[0;34m[+REDACTED:00:45][0m    - NS Records
+[0;34m[+REDACTED:00:45][0m    - CNAME Records
+[0;34m[+REDACTED:00:45][0m    - SOA Records
+[0;34m[+REDACTED:00:46][0m    - Using subfinder for subdomain enumeration
+[0;34m[+REDACTED:00:48][0m    - Using gobuster for DNS bruteforce
+[0;34m[+REDACTED:02:00][0m    - Querying crt.sh for certificates
+[0;34m[+REDACTED:02:03][0m    - SecurityTrails API key not configured, skipping historical DNS
+[0;34m[+REDACTED:02:03][0m    - Google dorking for exposed files
+[0;34m[+REDACTED:02:03][0m    - Running theHarvester for org-domain1.com
+[0;34m[+REDACTED:04:54][0m    - Shodan API key not configured, skipping Shodan search
+[0;34m[+REDACTED:04:54][0m    - Querying Wayback Machine
+[0;34m[+REDACTED:04:55][0m 9. Generating summary report...
+[0;34m[+REDACTED:04:55][0m Domain reconnaissance completed successfully! (unified logs)
+[0;34m[+REDACTED:04:55][0m Results saved to: evidence/domain_recon
+[0;34m[+REDACTED:04:55][0m Summary report: evidence/domain_recon/report.md

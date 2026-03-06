@@ -1,0 +1,161 @@
+# SMB Enumeration Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025-Azure
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 11:45 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.252.176.154
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.237.31.167
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.172.123.70
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.172.123.57
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.70.36
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.108.106
+[1m[34m[*][0m Nmap: Host is up (0.22s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.72.240
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.110.154
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.183.90.105
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.183.61.130
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.210.211.63
+[1m[34m[*][0m Nmap: Host is up (0.17s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.23.183
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.1.254
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.162.251.64
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.10.152
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.162.198.248
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.97.119.225
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.102.237.149
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.16.249.246
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.161.154.129
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.4.237
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.91.218.78
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.74.240.44
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.159.6.144
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.105.251.104
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.32.242
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.47.159.57
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.214.27.37
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.194.43
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.4.64.221
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.185.246
+[1m[34m[*][0m Nmap: Host is up (0.17s latency).
+[1m[34m[*][0m Nmap: PORT    STATE    SERVICE
+[1m[34m[*][0m Nmap: 139/tcp filtered netbios-ssn
+[1m[34m[*][0m Nmap: 445/tcp filtered microsoft-ds
+[1m[34m[*][0m Nmap: Nmap done: 132 IP addresses (31 hosts up) scanned in 21.79 seconds
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/recog-3.1.17/lib/recog/fingerprint/regexp_factory.rb:34: warning: nested repeat operator '+' and '?' was replaced with '*' in regular expression
+[0m

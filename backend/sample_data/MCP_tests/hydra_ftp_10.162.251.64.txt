@@ -1,0 +1,8 @@
+Hydra FTP test for 10.162.251.64
+
+Hydra output:
+Hydra v9.5 (c) 2023 by van Hauser/THC & David Maciejak
+Hydra starting at 2025-09-09 11:42:46
+[DATA] attacking ftp://10.162.251.64:21/
+1 of 1 target completed, 0 valid password found
+Hydra finished at 2025-09-09 11:42:47

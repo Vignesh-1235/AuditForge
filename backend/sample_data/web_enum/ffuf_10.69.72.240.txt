@@ -1,0 +1,14 @@
+# ffuf Web Fuzzing Results for http://10.69.72.240
+
+- Directory fuzzing completed using /usr/share/wordlists/dirb/common.txt
+- Status codes matched: 200, 301, 302, 401, 403
+- Threads: 50
+- Duration: ~20 seconds
+
+## Example Hit
+[Status: 200, Size: 31, Words: 5, Lines: 1, Duration: 236ms]
+
+(For full details, see MCP tool output or rerun with full result export)
+
+---
+Generated: 2025-09-09

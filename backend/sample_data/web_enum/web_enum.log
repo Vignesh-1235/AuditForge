@@ -1,0 +1,236 @@
+org-domain11.com and  org-domain2.com [0;34m[2025-09-08 14:02:46][0m Starting web service enumeration for Contazara
+[0;34m[2025-09-08 14:02:46][0m 1. Performing directory and file enumeration...
+[0;34m[2025-09-08 14:02:47][0m    - Enumerating http://10.69.72.240:80
+[0;34m[2025-09-08 14:02:47][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 14:03:38][0m    - Gobuster finished
+[0;34m[2025-09-08 14:03:38][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 14:13:38][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 14:13:38][0m    - Nikto finished
+[0;34m[2025-09-08 14:13:38][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 14:13:41][0m    - WhatWeb finished
+[0;34m[2025-09-08 14:13:42][0m    - Enumerating https://10.69.72.240:443
+[0;34m[2025-09-08 14:13:42][0m    - SSL/TLS checks for https://10.69.72.240:443
+[0;34m[2025-09-08 14:13:56][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 14:14:48][0m    - Gobuster finished
+[0;34m[2025-09-08 14:14:48][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 14:24:48][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 14:24:48][0m    - Nikto finished
+[0;34m[2025-09-08 14:24:48][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 14:24:52][0m    - WhatWeb finished
+[0;34m[2025-09-08 14:24:52][0m    - Enumerating http://10.80.70.36:80
+[0;34m[2025-09-08 14:24:52][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 14:25:43][0m    - Gobuster finished
+[0;34m[2025-09-08 14:25:43][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 14:35:43][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 14:35:43][0m    - Nikto finished
+[0;34m[2025-09-08 14:35:43][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 14:35:46][0m    - WhatWeb finished
+[0;34m[2025-09-08 14:35:47][0m    - Enumerating https://10.80.70.36:443
+[0;34m[2025-09-08 14:35:47][0m    - SSL/TLS checks for https://10.80.70.36:443
+[0;34m[2025-09-08 14:36:01][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 14:36:53][0m    - Gobuster finished
+[0;34m[2025-09-08 14:36:53][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 14:46:53][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 14:46:53][0m    - Nikto finished
+[0;34m[2025-09-08 14:46:53][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 14:46:57][0m    - WhatWeb finished
+[0;34m[2025-09-08 14:46:58][0m    - Enumerating https://10.84.185.246:443
+[0;34m[2025-09-08 14:46:58][0m    - SSL/TLS checks for https://10.84.185.246:443
+[0;34m[2025-09-08 14:47:12][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 14:49:12][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 14:49:12][0m    - Gobuster finished
+[0;34m[2025-09-08 14:49:12][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 14:59:12][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 14:59:12][0m    - Nikto finished
+[0;34m[2025-09-08 14:59:12][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 14:59:16][0m    - WhatWeb finished
+[0;34m[2025-09-08 14:59:17][0m    - Enumerating http://10.16.249.246:80
+[0;34m[2025-09-08 14:59:17][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 15:00:07][0m    - Gobuster finished
+[0;34m[2025-09-08 15:00:07][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 15:10:07][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 15:10:07][0m    - Nikto finished
+[0;34m[2025-09-08 15:10:07][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 15:10:10][0m    - WhatWeb finished
+[0;34m[2025-09-08 15:10:11][0m    - Enumerating https://10.16.249.246:443
+[0;34m[2025-09-08 15:10:11][0m    - SSL/TLS checks for https://10.16.249.246:443
+[0;34m[2025-09-08 15:10:38][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 15:11:29][0m    - Gobuster finished
+[0;34m[2025-09-08 15:11:29][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 15:21:29][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 15:21:29][0m    - Nikto finished
+[0;34m[2025-09-08 15:21:29][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 15:21:33][0m    - WhatWeb finished
+[0;34m[2025-09-08 15:21:34][0m    - Enumerating http://10.67.108.106:80
+[0;34m[2025-09-08 15:21:34][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 15:22:25][0m    - Gobuster finished
+[0;34m[2025-09-08 15:22:25][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 15:32:25][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 15:32:25][0m    - Nikto finished
+[0;34m[2025-09-08 15:32:25][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 15:32:28][0m    - WhatWeb finished
+[0;34m[2025-09-08 15:32:29][0m    - Enumerating https://10.67.108.106:443
+[0;34m[2025-09-08 15:32:29][0m    - SSL/TLS checks for https://10.67.108.106:443
+[0;34m[2025-09-08 15:32:41][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 15:33:33][0m    - Gobuster finished
+[0;34m[2025-09-08 15:33:33][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 15:43:33][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 15:43:33][0m    - Nikto finished
+[0;34m[2025-09-08 15:43:33][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 15:43:37][0m    - WhatWeb finished
+[0;34m[2025-09-08 15:43:37][0m    - Enumerating http://10.67.110.154:80
+[0;34m[2025-09-08 15:43:37][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 15:43:38][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 15:43:38][0m    - Gobuster finished
+[0;34m[2025-09-08 15:43:38][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 15:53:38][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 15:53:38][0m    - Nikto finished
+[0;34m[2025-09-08 15:53:38][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 15:53:44][0m    - WhatWeb finished
+[0;34m[2025-09-08 15:53:45][0m    - Enumerating https://10.67.110.154:443
+[0;34m[2025-09-08 15:53:45][0m    - SSL/TLS checks for https://10.67.110.154:443
+[0;34m[2025-09-08 15:53:58][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 15:54:50][0m    - Gobuster finished
+[0;34m[2025-09-08 15:54:50][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 16:04:50][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 16:04:50][0m    - Nikto finished
+[0;34m[2025-09-08 16:04:50][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 16:04:54][0m    - WhatWeb finished
+[0;34m[2025-09-08 16:04:54][0m    - Enumerating http://10.80.4.237:80
+[0;34m[2025-09-08 16:04:54][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 16:05:31][0m    - Gobuster finished
+[0;34m[2025-09-08 16:05:31][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 16:15:31][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 16:15:31][0m    - Nikto finished
+[0;34m[2025-09-08 16:15:31][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 16:15:34][0m    - WhatWeb finished
+[0;34m[2025-09-08 16:15:34][0m    - Enumerating http://10.80.10.152:80
+[0;34m[2025-09-08 16:15:34][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 16:15:35][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 16:15:35][0m    - Gobuster finished
+[0;34m[2025-09-08 16:15:35][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 16:25:35][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 16:25:35][0m    - Nikto finished
+[0;34m[2025-09-08 16:25:35][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 16:25:38][0m    - WhatWeb finished
+[0;34m[2025-09-08 16:25:39][0m    - Enumerating https://10.80.10.152:443
+[0;34m[2025-09-08 16:25:39][0m    - SSL/TLS checks for https://10.80.10.152:443
+[0;34m[2025-09-08 16:26:03][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 16:28:03][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 16:28:03][0m    - Gobuster finished
+[0;34m[2025-09-08 16:28:03][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 16:38:03][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 16:38:03][0m    - Nikto finished
+[0;34m[2025-09-08 16:38:03][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 16:38:07][0m    - WhatWeb finished
+[0;34m[2025-09-08 16:38:07][0m    - Enumerating http://10.97.119.225:80
+[0;34m[2025-09-08 16:38:07][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 16:38:51][0m    - Gobuster finished
+[0;34m[2025-09-08 16:38:51][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 16:48:51][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 16:48:51][0m    - Nikto finished
+[0;34m[2025-09-08 16:48:51][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 16:48:54][0m    - WhatWeb finished
+[0;34m[2025-09-08 16:48:54][0m    - Enumerating https://10.97.119.225:443
+[0;34m[2025-09-08 16:48:54][0m    - SSL/TLS checks for https://10.97.119.225:443
+[0;34m[2025-09-08 16:49:04][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 16:49:05][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 16:49:05][0m    - Gobuster finished
+[0;34m[2025-09-08 16:49:05][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 16:49:06][0m    - Nikto finished
+[0;34m[2025-09-08 16:49:06][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 16:49:07][0m    - WhatWeb finished
+[0;34m[2025-09-08 16:49:07][0m    - Enumerating http://10.102.237.149:80
+[0;34m[2025-09-08 16:49:07][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 16:49:45][0m    - Gobuster finished
+[0;34m[2025-09-08 16:49:45][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 16:59:45][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 16:59:45][0m    - Nikto finished
+[0;34m[2025-09-08 16:59:45][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 16:59:49][0m    - WhatWeb finished
+[0;34m[2025-09-08 16:59:49][0m    - Enumerating https://10.102.237.149:443
+[0;34m[2025-09-08 16:59:49][0m    - SSL/TLS checks for https://10.102.237.149:443
+[0;34m[2025-09-08 16:59:59][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 17:00:00][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 17:00:00][0m    - Gobuster finished
+[0;34m[2025-09-08 17:00:00][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 17:00:00][0m    - Nikto finished
+[0;34m[2025-09-08 17:00:00][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 17:00:02][0m    - WhatWeb finished
+[0;34m[2025-09-08 17:00:02][0m    - Enumerating https://10.74.240.44:443
+[0;34m[2025-09-08 17:00:02][0m    - SSL/TLS checks for https://10.74.240.44:443
+[0;34m[2025-09-08 17:00:17][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 17:00:18][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 17:00:18][0m    - Gobuster finished
+[0;34m[2025-09-08 17:00:18][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 17:10:18][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 17:10:18][0m    - Nikto finished
+[0;34m[2025-09-08 17:10:18][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 17:10:22][0m    - WhatWeb finished
+[0;34m[2025-09-08 17:10:22][0m    - Enumerating http://10.84.194.43:80
+[0;34m[2025-09-08 17:10:22][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 17:10:23][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 17:10:23][0m    - Gobuster finished
+[0;34m[2025-09-08 17:10:23][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 17:20:23][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 17:20:23][0m    - Nikto finished
+[0;34m[2025-09-08 17:20:23][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 17:20:31][0m    - WhatWeb finished
+[0;34m[2025-09-08 17:20:32][0m    - Enumerating https://10.84.194.43:443
+[0;34m[2025-09-08 17:20:32][0m    - SSL/TLS checks for https://10.84.194.43:443
+[0;34m[2025-09-08 17:20:53][0m    - Gobuster (timeout 120s, threads 20) starting...
+[0;34m[2025-09-08 17:22:53][0m    - Gobuster ended early (timeout/error)
+[0;34m[2025-09-08 17:22:53][0m    - Gobuster finished
+[0;34m[2025-09-08 17:22:53][0m    - Nikto (timeout 600s) starting...
+[0;34m[2025-09-08 17:32:53][0m    - Nikto ended early (timeout/error)
+[0;34m[2025-09-08 17:32:53][0m    - Nikto finished
+[0;34m[2025-09-08 17:32:53][0m    - WhatWeb (timeout 120s) starting...
+[0;34m[2025-09-08 17:32:55][0m    - WhatWeb finished
+[0;34m[2025-09-08 17:32:55][0m 2. Analyzing security headers...
+[0;34m[2025-09-08 17:32:55][0m    - Analyzing headers for http://10.69.72.240:80
+[0;34m[2025-09-08 17:32:56][0m    - Analyzing headers for https://10.69.72.240:443
+[0;34m[2025-09-08 17:32:57][0m    - Analyzing headers for http://10.80.70.36:80
+[0;34m[2025-09-08 17:32:58][0m    - Analyzing headers for https://10.80.70.36:443
+[0;34m[2025-09-08 17:32:59][0m    - Analyzing headers for https://10.84.185.246:443
+[0;34m[2025-09-08 17:33:00][0m    - Analyzing headers for http://10.16.249.246:80
+[0;34m[2025-09-08 17:33:01][0m    - Analyzing headers for https://10.16.249.246:443
+[0;34m[2025-09-08 17:33:02][0m    - Analyzing headers for http://10.67.108.106:80
+[0;34m[2025-09-08 17:33:03][0m    - Analyzing headers for https://10.67.108.106:443
+[0;34m[2025-09-08 17:33:05][0m    - Analyzing headers for http://10.67.110.154:80
+[0;34m[2025-09-08 17:33:06][0m    - Analyzing headers for https://10.67.110.154:443
+[0;34m[2025-09-08 17:33:07][0m    - Analyzing headers for http://10.80.4.237:80
+[0;34m[2025-09-08 17:33:08][0m    - Analyzing headers for http://10.80.10.152:80
+[0;34m[2025-09-08 17:33:08][0m    - Analyzing headers for https://10.80.10.152:443
+[0;34m[2025-09-08 17:33:09][0m    - Analyzing headers for http://10.97.119.225:80
+[0;34m[2025-09-08 17:33:10][0m    - Analyzing headers for https://10.97.119.225:443
+[0;34m[2025-09-08 17:33:11][0m    - Analyzing headers for http://10.102.237.149:80
+[0;34m[2025-09-08 17:33:11][0m    - Analyzing headers for https://10.102.237.149:443
+[0;34m[2025-09-08 17:33:12][0m    - Analyzing headers for https://10.74.240.44:443
+[0;34m[2025-09-08 17:33:13][0m    - Analyzing headers for http://10.84.194.43:80
+[0;34m[2025-09-08 17:33:14][0m    - Analyzing headers for https://10.84.194.43:443
+[0;34m[2025-09-08 17:33:15][0m 3. Discovering API endpoints...
+[0;34m[2025-09-08 17:33:15][0m    - API discovery for http://10.69.72.240:80
+[0;34m[2025-09-08 17:33:20][0m    - API discovery for https://10.69.72.240:443
+[0;34m[2025-09-08 17:33:27][0m    - API discovery for http://10.80.70.36:80
+[0;34m[2025-09-08 17:33:32][0m    - API discovery for https://10.80.70.36:443
+[0;34m[2025-09-08 17:33:39][0m    - API discovery for https://10.84.185.246:443
+[0;34m[2025-09-08 17:33:45][0m    - API discovery for http://10.16.249.246:80
+[0;34m[2025-09-08 17:33:50][0m    - API discovery for https://10.16.249.246:443
+[0;34m[2025-09-08 17:33:58][0m    - API discovery for http://10.67.108.106:80
+[0;34m[2025-09-08 17:34:02][0m    - API discovery for https://10.67.108.106:443
+[0;34m[2025-09-08 17:34:10][0m    - API discovery for http://10.67.110.154:80
+[0;34m[2025-09-08 17:34:14][0m    - API discovery for https://10.67.110.154:443
+[0;34m[2025-09-08 17:34:22][0m    - API discovery for http://10.80.4.237:80
+[0;34m[2025-09-08 17:34:25][0m    - API discovery for http://10.80.10.152:80
+[0;34m[2025-09-08 17:34:29][0m    - API discovery for https://10.80.10.152:443
+[0;34m[2025-09-08 17:34:32][0m    - API discovery for http://10.97.119.225:80
+[0;34m[2025-09-08 17:34:37][0m    - API discovery for https://10.97.119.225:443
+[0;34m[2025-09-08 17:34:41][0m    - API discovery for http://10.102.237.149:80
+[0;34m[2025-09-08 17:34:44][0m    - API discovery for https://10.102.237.149:443
+[0;34m[2025-09-08 17:34:48][0m    - API discovery for https://10.74.240.44:443
+[0;34m[2025-09-08 17:34:54][0m    - API discovery for http://10.84.194.43:80
+[0;34m[2025-09-08 17:34:58][0m    - API discovery for https://10.84.194.43:443
+[0;34m[2025-09-08 17:35:04][0m 4. Generating web enumeration report...
+[0;34m[2025-09-08 17:35:04][0m Web service enumeration completed successfully!
+[0;34m[2025-09-08 17:35:04][0m Results saved to: evidence/web_enum
+[0;34m[2025-09-08 17:35:04][0m Web enumeration report: evidence/web_enum/report.md

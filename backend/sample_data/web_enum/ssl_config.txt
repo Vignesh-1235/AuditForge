@@ -1,0 +1,371 @@
+
+===== http://10.69.72.240:80 =====
+No TLS detected on 10.69.72.240:80
+
+===== https://10.69.72.240:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 14:13 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.72.240
+[1m[34m[*][0m Nmap: Host is up (0.22s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |_  least strength: A
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 7.14 seconds
+[0m
+===== http://10.80.70.36:80 =====
+No TLS detected on 10.80.70.36:80
+
+===== https://10.80.70.36:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 14:35 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.70.36
+[1m[34m[*][0m Nmap: Host is up (0.22s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |_  least strength: A
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 6.86 seconds
+[0m
+===== https://10.84.185.246:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 14:47 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.185.246
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |   TLSv1.3:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_AKE_WITH_AES_256_GCM_SHA384 (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_AKE_WITH_AES_128_GCM_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |_  least strength: A
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 7.60 seconds
+[0m
+===== http://10.16.249.246:80 =====
+No TLS detected on 10.16.249.246:80
+
+===== https://10.16.249.246:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 15:10 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.16.249.246
+[1m[34m[*][0m Nmap: Host is up (0.22s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   TLSv1.0:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_CBC_SHA (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_CBC_SHA (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |   TLSv1.1:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_CBC_SHA (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_CBC_SHA (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_CBC_SHA (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_CBC_SHA (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_GCM_SHA384 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_GCM_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |_  least strength: C
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 21.52 seconds
+[0m
+===== http://10.67.108.106:80 =====
+No TLS detected on 10.67.108.106:80
+
+===== https://10.67.108.106:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 15:32 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.108.106
+[1m[34m[*][0m Nmap: Host is up (0.22s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |_  least strength: A
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 6.89 seconds
+[0m
+===== http://10.67.110.154:80 =====
+No TLS detected on 10.67.110.154:80
+
+===== https://10.67.110.154:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 15:53 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.110.154
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (secp256r1) - A
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |_  least strength: A
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 7.90 seconds
+[0m
+===== http://10.80.4.237:80 =====
+No TLS detected on 10.80.4.237:80
+
+===== http://10.80.10.152:80 =====
+No TLS detected on 10.80.10.152:80
+
+===== https://10.80.10.152:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 16:25 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.10.152
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   SSLv3:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_RC4_128_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_RC4_128_MD5 (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |       Broken cipher RC4 is deprecated by RFC 7465
+[1m[34m[*][0m Nmap: |       CBC-mode cipher in SSLv3 (CVE-2014-3566)
+[1m[34m[*][0m Nmap: |       Ciphersuite uses MD5 for message integrity
+[1m[34m[*][0m Nmap: |       Forward Secrecy not supported by any cipher
+[1m[34m[*][0m Nmap: |   TLSv1.0:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_CBC_SHA (dh 1024) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_CBC_SHA (dh 1024) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_RC4_128_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_RC4_128_MD5 (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |       Broken cipher RC4 is deprecated by RFC 7465
+[1m[34m[*][0m Nmap: |       Ciphersuite uses MD5 for message integrity
+[1m[34m[*][0m Nmap: |       Key exchange (dh 1024) of lower strength than certificate key
+[1m[34m[*][0m Nmap: |   TLSv1.1:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_CBC_SHA (dh 1024) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_CBC_SHA (dh 1024) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_RC4_128_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_RC4_128_MD5 (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |       Broken cipher RC4 is deprecated by RFC 7465
+[1m[34m[*][0m Nmap: |       Ciphersuite uses MD5 for message integrity
+[1m[34m[*][0m Nmap: |       Key exchange (dh 1024) of lower strength than certificate key
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 (dh 1024) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 (dh 1024) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_CBC_SHA (dh 1024) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_CBC_SHA (dh 1024) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_GCM_SHA384 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_GCM_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_RC4_128_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_RC4_128_MD5 (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |       Broken cipher RC4 is deprecated by RFC 7465
+[1m[34m[*][0m Nmap: |       Ciphersuite uses MD5 for message integrity
+[1m[34m[*][0m Nmap: |       Key exchange (dh 1024) of lower strength than certificate key
+[1m[34m[*][0m Nmap: |_  least strength: C
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 15.74 seconds
+[0m
+===== http://10.97.119.225:80 =====
+No TLS detected on 10.97.119.225:80
+
+===== https://10.97.119.225:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 16:49 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.97.119.225
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 3.33 seconds
+[0m
+===== http://10.102.237.149:80 =====
+No TLS detected on 10.102.237.149:80
+
+===== https://10.102.237.149:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 16:59 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.102.237.149
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 2.90 seconds
+[0m
+===== https://10.74.240.44:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 17:00 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.74.240.44
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |   TLSv1.3:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_AKE_WITH_AES_256_GCM_SHA384 (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_AKE_WITH_AES_128_GCM_SHA256 (secp256r1) - A
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |_  least strength: A
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 7.55 seconds
+[0m
+===== http://10.84.194.43:80 =====
+No TLS detected on 10.84.194.43:80
+
+===== https://10.84.194.43:443 =====
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 17:20 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.194.43
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE
+[1m[34m[*][0m Nmap: 443/tcp open  https
+[1m[34m[*][0m Nmap: | ssl-enum-ciphers:
+[1m[34m[*][0m Nmap: |   TLSv1.0:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |   TLSv1.1:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |   TLSv1.2:
+[1m[34m[*][0m Nmap: |     ciphers:
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 (dh 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (secp384r1) - A
+[1m[34m[*][0m Nmap: |       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (ecdh_x25519) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_GCM_SHA384 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_GCM_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA256 (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+[1m[34m[*][0m Nmap: |       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+[1m[34m[*][0m Nmap: |     compressors:
+[1m[34m[*][0m Nmap: |       NULL
+[1m[34m[*][0m Nmap: |     cipher preference: server
+[1m[34m[*][0m Nmap: |     warnings:
+[1m[34m[*][0m Nmap: |       64-bit block cipher 3DES vulnerable to SWEET32 attack
+[1m[34m[*][0m Nmap: |_  least strength: C
+[1m[34m[*][0m Nmap: Nmap done: 1 IP address (1 host up) scanned in 16.15 seconds
+[0m

@@ -1,0 +1,12 @@
+# SSH Enumeration Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025-Azure
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 11:45 IDT
+[1m[34m[*][0m Nmap: 'NSE: failed to initialize the script engine:'
+[1m[34m[*][0m Nmap: '/usr/share/nmap/nse_main.lua:829: 'ssh-enum-algos' did not match a category, filename, or directory'
+[1m[34m[*][0m Nmap: 'stack traceback:'
+[1m[34m[*][0m Nmap: '[C]: in function 'libssh2-utility.error''
+[1m[34m[*][0m Nmap: '/usr/share/nmap/nse_main.lua:829: in local 'get_chosen_scripts''
+[1m[34m[*][0m Nmap: '/usr/share/nmap/nse_main.lua:1364: in main chunk'
+[1m[34m[*][0m Nmap: '[C]: in ?'
+[1m[34m[*][0m Nmap: 'QUITTING!'
+[0m

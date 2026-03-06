@@ -1,0 +1,709 @@
+# HTTP/HTTPS Enumeration Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025-Azure
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 11:09 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.252.176.154
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: GET HEAD TRACE OPTIONS
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Cache-Control: no-cache
+[1m[34m[*][0m Nmap: |   Pragma: no-cache
+[1m[34m[*][0m Nmap: |   X-Content-Type-Options: nosniff
+[1m[34m[*][0m Nmap: |   X-XSS-Protection: 1; mode=block
+[1m[34m[*][0m Nmap: |   Strict-Transport-Security: max-age=31536000;includeSubDomains; preload
+[1m[34m[*][0m Nmap: |   Set-Cookie: JSESSIONID=5D549DADDE4E03E66DB245AABE4A052B; Path=/; Secure; HttpOnly
+[1m[34m[*][0m Nmap: |   Cache-Control: no-cache
+[1m[34m[*][0m Nmap: |   Pragma: no-cache
+[1m[34m[*][0m Nmap: |   Last-Modified: Tue, 05 Aug 2025 01:50:21 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Transfer-Encoding: chunked
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:14:55 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.237.31.167
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET POST
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=UTF-8
+[1m[34m[*][0m Nmap: |   Location: https://10.237.31.167/
+[1m[34m[*][0m Nmap: |   X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:14:55 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 145
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: |_http-title: Did not follow redirect to https://10.237.31.167/
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=us-ascii
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:03 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 315
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.172.123.70
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp open     https-alt
+[1m[34m[*][0m Nmap: |_http-title: Service
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 6437
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=UTF-8
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:09:50 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: Nmap scan report for 10.172.123.57
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.70.36
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 31
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Last-Modified: Wed, 09 Jan 2019 13:18:27 GMT
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   ETag: "83cc1ce1da8d41:0"
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:13:58 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 31
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Last-Modified: Wed, 09 Jan 2019 13:18:27 GMT
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   ETag: "83cc1ce1da8d41:0"
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:35 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.108.106
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 31
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Last-Modified: Wed, 09 Jan 2019 13:18:27 GMT
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   ETag: "83cc1ce1da8d41:0"
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:13:37 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 31
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Last-Modified: Wed, 09 Jan 2019 13:18:27 GMT
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   ETag: "83cc1ce1da8d41:0"
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:09:51 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.72.240
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 31
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Last-Modified: Wed, 09 Jan 2019 13:18:27 GMT
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   ETag: "83cc1ce1da8d41:0"
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:01 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 31
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Last-Modified: Wed, 09 Jan 2019 13:18:27 GMT
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   ETag: "83cc1ce1da8d41:0"
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:16:09 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.110.154
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: |_http-title: Did not follow redirect to https://10.67.110.154/
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET HEAD POST OPTIONS
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Server: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:16:10 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Content-Length: 195
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Location: https://10.67.110.154/
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Server: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:38 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Content-Length: 179
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.183.90.105
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.183.61.130
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Server: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:08 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Content-Length: 179
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Server: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:14:52 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Content-Length: 179
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.210.211.63
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: | http-enum:
+[1m[34m[*][0m Nmap: |   /documents/: Potentially interesting folder
+[1m[34m[*][0m Nmap: |   /error/: Potentially interesting folder
+[1m[34m[*][0m Nmap: |   /images/: Potentially interesting folder
+[1m[34m[*][0m Nmap: |   /scripts/: Potentially interesting folder
+[1m[34m[*][0m Nmap: |_  /styles/: Potentially interesting folder
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET POST
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Cache-Control: private, no-store
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |   Set-Cookie: ASP.NET_SessionId=yj4dqmvf320riyyvkfk12s2r; path=/; HttpOnly; SameSite=Lax
+[1m[34m[*][0m Nmap: |   X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:16:11 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 13158
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: | http-auth-finder:
+[1m[34m[*][0m Nmap: | Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=10.210.211.63
+[1m[34m[*][0m Nmap: |   url                                    method
+[1m[34m[*][0m Nmap: |   http://10.210.211.63:80/              FORM
+[1m[34m[*][0m Nmap: |_  http://10.210.211.63:80/Default.aspx  FORM
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.23.183
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 701
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Last-Modified: Mon, 01 May 2017 15:43:16 GMT
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   ETag: "aef775a691c2d21:0"
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/8.5
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:14:54 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: |_http-title: IIS Windows Server
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.1.254
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.162.251.64
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.10.152
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET POST
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Cache-Control: private, no-store
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |   Set-Cookie: ASP.NET_SessionId=loycbdlxefwlvxcclccr3nhu; path=/; HttpOnly
+[1m[34m[*][0m Nmap: |   X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:14:35 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 11686
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: | http-auth-finder:
+[1m[34m[*][0m Nmap: | Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=10.80.10.152
+[1m[34m[*][0m Nmap: |   url                                                                method
+[1m[34m[*][0m Nmap: |   http://10.80.10.152:80/                                            FORM
+[1m[34m[*][0m Nmap: |   http://10.80.10.152:80/1                                           FORM
+[1m[34m[*][0m Nmap: |   http://10.80.10.152:80/Default.aspx                                FORM
+[1m[34m[*][0m Nmap: |   http://10.80.10.152:80/u;k=new                                     FORM
+[1m[34m[*][0m Nmap: |   http://10.80.10.152:80/default.aspx?ReturnUrl=%2F1                 FORM
+[1m[34m[*][0m Nmap: |   http://10.80.10.152:80/event.srcElement                            FORM
+[1m[34m[*][0m Nmap: |   http://10.80.10.152:80/default.aspx?ReturnUrl=%2Fu%3Bk%3Dnew       FORM
+[1m[34m[*][0m Nmap: |_  http://10.80.10.152:80/default.aspx?ReturnUrl=%2Fevent.srcElement  FORM
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=us-ascii
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:44 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 315
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.162.198.248
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Cache-Control: private, no-store
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |   Set-Cookie: ASP.NET_SessionId=jq2cym0egbw2sc2idbo3r3kd; path=/; HttpOnly; SameSite=Lax
+[1m[34m[*][0m Nmap: |   X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:36 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 13387
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: | http-auth-finder:
+[1m[34m[*][0m Nmap: | Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=10.162.198.248
+[1m[34m[*][0m Nmap: |   url                                    method
+[1m[34m[*][0m Nmap: |   http://10.162.198.248:80/              FORM
+[1m[34m[*][0m Nmap: |_  http://10.162.198.248:80/Default.aspx  FORM
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET POST
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.97.119.225
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Cache-Control: private, no-store
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |   Set-Cookie: ASP.NET_SessionId=pycd2n3g0qlqwdhexr0t05l2; path=/; HttpOnly; SameSite=Lax
+[1m[34m[*][0m Nmap: |   X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:10 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 13158
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET POST
+[1m[34m[*][0m Nmap: | http-auth-finder:
+[1m[34m[*][0m Nmap: | Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=10.97.119.225
+[1m[34m[*][0m Nmap: |   url                                   method
+[1m[34m[*][0m Nmap: |   http://10.97.119.225:80/              FORM
+[1m[34m[*][0m Nmap: |_  http://10.97.119.225:80/Default.aspx  FORM
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.102.237.149
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: |_http-title: Harmony
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET POST
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Cache-Control: private, no-store
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |   Set-Cookie: ASP.NET_SessionId=rpiddmuzcj0ulbpjnaevlmbh; path=/; HttpOnly; SameSite=Lax
+[1m[34m[*][0m Nmap: |   X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:15:58 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 13387
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: | http-auth-finder:
+[1m[34m[*][0m Nmap: | Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=10.102.237.149
+[1m[34m[*][0m Nmap: |   url                                    method
+[1m[34m[*][0m Nmap: |   http://10.102.237.149:80/              FORM
+[1m[34m[*][0m Nmap: |_  http://10.102.237.149:80/Default.aspx  FORM
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.16.249.246
+[1m[34m[*][0m Nmap: Host is up (0.22s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Server: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:11:03 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Content-Length: 179
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: 400 The plain HTTP request was sent to HTTPS port
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Server: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:16:30 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Content-Length: 179
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.161.154.129
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Server: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:13:57 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Content-Length: 179
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Server: Microsoft-Azure-Application-Gateway/v2
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:14:58 GMT
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Content-Length: 179
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET HEAD POST OPTIONS
+[1m[34m[*][0m Nmap: |_http-title: 404 Not Found
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.4.237
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 703
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   Last-Modified: Thu, 13 Apr 2023 09:37:57 GMT
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   ETag: "d4a130a1eb6dd91:0"
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:39 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: |_http-title: IIS Windows Server
+[1m[34m[*][0m Nmap: | http-enum:
+[1m[34m[*][0m Nmap: |   /reportserver/: Microsoft SQL Report Service (401 Unauthorized)
+[1m[34m[*][0m Nmap: |_  /reports/: Potentially interesting folder (401 Unauthorized)
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.91.218.78
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp open     https-alt
+[1m[34m[*][0m Nmap: |_http-title: Service
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 6437
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=UTF-8
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:09:51 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: Nmap scan report for 10.74.240.44
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: Service Unavailable
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=us-ascii
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:15:00 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 326
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp open     https-alt
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET
+[1m[34m[*][0m Nmap: |_http-title: Service
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 6437
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=UTF-8
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:13:49 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: Nmap scan report for 10.159.6.144
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.105.251.104
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.32.242
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.47.159.57
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=us-ascii
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:15:57 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 315
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.214.27.37
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=UTF-8
+[1m[34m[*][0m Nmap: |   Location: https://www.org-domain4.com/
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:13:43 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 150
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: |_http-title: Did not follow redirect to https://www.org-domain4.com/
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET HEAD POST OPTIONS
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: Masterlinx
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Cache-Control: private
+[1m[34m[*][0m Nmap: |   Content-Length: 12266
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   Set-Cookie: ASP.NET_SessionId=5xnnuu55weobxe55y54cfwae; path=/; HttpOnly
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:16:31 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.194.43
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: |_http-title: Did not follow redirect to https://www.org-domain4.com/
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Supported Methods: GET HEAD POST OPTIONS
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=UTF-8
+[1m[34m[*][0m Nmap: |   Location: https://www.org-domain4.com/
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:20 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 150
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Cache-Control: private
+[1m[34m[*][0m Nmap: |   Content-Length: 12266
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |   Server: Microsoft-IIS/10.0
+[1m[34m[*][0m Nmap: |   Set-Cookie: ASP.NET_SessionId=culh42b0xmqxea45iihqhd55; path=/; HttpOnly
+[1m[34m[*][0m Nmap: |   X-Powered-By: ASP.NET
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:14:44 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: HEAD)
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods: OPTIONS TRACE GET HEAD POST
+[1m[34m[*][0m Nmap: |_  Potentially risky methods: TRACE
+[1m[34m[*][0m Nmap: | http-auth-finder:
+[1m[34m[*][0m Nmap: | Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=10.84.194.43
+[1m[34m[*][0m Nmap: |   url                                    method
+[1m[34m[*][0m Nmap: |   https://10.84.194.43:443/              FORM
+[1m[34m[*][0m Nmap: |_  https://10.84.194.43:443/default.aspx  FORM
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.4.64.221
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp open     https-alt
+[1m[34m[*][0m Nmap: |_http-title: Service
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Length: 6437
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=UTF-8
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:13:56 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.185.246
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=us-ascii
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 08:10:38 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 315
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap done: 132 IP addresses (31 hosts up) scanned in 2148.15 seconds
+[0m

@@ -1,0 +1,357 @@
+# TCP Full Scan Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025-Azure
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-07 15:10 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.252.176.154
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: Not shown: 65534 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE  VERSION
+[1m[34m[*][0m Nmap: 443/tcp open  ssl/http Apache Tomcat (language: en)
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.237.31.167
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  upnp    Microsoft IIS httpd
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.172.123.70
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: Not shown: 65528 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT      STATE SERVICE          VERSION
+[1m[34m[*][0m Nmap: 7999/tcp  open  http             Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 8081/tcp  open  blackice-icecap?
+[1m[34m[*][0m Nmap: 8443/tcp  open  https-alt?
+[1m[34m[*][0m Nmap: 8444/tcp  open  pcsync-http?
+[1m[34m[*][0m Nmap: 10001/tcp open  scp-config?
+[1m[34m[*][0m Nmap: 10002/tcp open  documentum?
+[1m[34m[*][0m Nmap: 20000/tcp open  dnp?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.172.123.57
+[1m[34m[*][0m Nmap: Host is up (0.15s latency).
+[1m[34m[*][0m Nmap: Not shown: 65534 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT     STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 8083/tcp open  us-srv?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.70.36
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http    Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.108.106
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http    Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2016 (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2016
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (85%), Microsoft Windows Server 2016 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.72.240
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http    Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.67.110.154
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE  VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http     Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: 443/tcp open  ssl/http Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.183.90.105
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: All 65535 scanned ports on 10.183.90.105 are in ignored states.
+[1m[34m[*][0m Nmap: Not shown: 65535 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: Too many fingerprints match this host to give specific OS details
+[1m[34m[*][0m Nmap: Nmap scan report for 10.183.61.130
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE  VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http     Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: 443/tcp open  ssl/http Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): OpenBSD 4.X (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:openbsd:openbsd:4.0
+[1m[34m[*][0m Nmap: Aggressive OS guesses: OpenBSD 4.0 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.210.211.63
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.23.183
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: Not shown: 65430 filtered tcp ports (no-response), 103 closed tcp ports (reset)
+[1m[34m[*][0m Nmap: PORT     STATE SERVICE   VERSION
+[1m[34m[*][0m Nmap: 80/tcp   open  http      Microsoft IIS httpd 8.5
+[1m[34m[*][0m Nmap: 8003/tcp open  mcreport?
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2008|7 (94%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (94%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (92%), Microsoft Windows 7 or Windows Server 2008 R2 (89%), Microsoft Windows Server 2008 R2 SP1 (88%), Microsoft Windows Server 2012 or Windows Server 2012 R2 (87%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.1.254
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: All 65535 scanned ports on 10.80.1.254 are in ignored states.
+[1m[34m[*][0m Nmap: Not shown: 65430 filtered tcp ports (no-response), 105 closed tcp ports (reset)
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running: Microsoft Windows 2008
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2008:r2:sp1
+[1m[34m[*][0m Nmap: OS details: Microsoft Windows Server 2008 R2 SP1
+[1m[34m[*][0m Nmap: Nmap scan report for 10.162.251.64
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: Not shown: 65430 filtered tcp ports (no-response), 104 closed tcp ports (reset)
+[1m[34m[*][0m Nmap: PORT   STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 21/tcp open  ftp     FileZilla ftpd 0.9.60 beta
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2008|7 (94%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (94%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (92%), Microsoft Windows 7 or Windows Server 2008 R2 (89%), Microsoft Windows Server 2008 R2 SP1 (88%), Microsoft Windows Server 2012 or Windows Server 2012 R2 (87%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.10.152
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: Not shown: 65430 filtered tcp ports (no-response), 102 closed tcp ports (reset)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE  VERSION
+[1m[34m[*][0m Nmap: 21/tcp  open  ftp      FileZilla ftpd 0.9.60 beta
+[1m[34m[*][0m Nmap: 80/tcp  open  http     Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 443/tcp open  ssl/http Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2008|7 (94%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (94%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (92%), Microsoft Windows 7 or Windows Server 2008 R2 (89%), Microsoft Windows Server 2008 R2 SP1 (88%), Microsoft Windows Server 2012 or Windows Server 2012 R2 (87%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.162.198.248
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: Not shown: 65430 filtered tcp ports (no-response), 103 closed tcp ports (reset)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2012|2016|2008|7 (89%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2012 R2 (89%), Microsoft Windows Server 2016 (89%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (86%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.97.119.225
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.102.237.149
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.16.249.246
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE  VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http     Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: 443/tcp open  ssl/http Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.161.154.129
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE  VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http     Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: 443/tcp open  ssl/http Microsoft Azure Application Gateway v2
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.80.4.237
+[1m[34m[*][0m Nmap: Host is up (0.16s latency).
+[1m[34m[*][0m Nmap: Not shown: 65430 filtered tcp ports (no-response), 104 closed tcp ports (reset)
+[1m[34m[*][0m Nmap: PORT   STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp open  http    Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2019|10 (94%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2019 cpe:/o:microsoft:windows_10
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Windows Server 2019 (94%), Microsoft Windows 10 1903 - 21H1 (89%), Microsoft Windows 10 1607 (88%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.91.218.78
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: Not shown: 65527 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT      STATE SERVICE          VERSION
+[1m[34m[*][0m Nmap: 7999/tcp  open  http             Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 8081/tcp  open  blackice-icecap?
+[1m[34m[*][0m Nmap: 8082/tcp  open  blackice-alerts?
+[1m[34m[*][0m Nmap: 8443/tcp  open  https-alt?
+[1m[34m[*][0m Nmap: 8444/tcp  open  pcsync-http?
+[1m[34m[*][0m Nmap: 10001/tcp open  scp-config?
+[1m[34m[*][0m Nmap: 10002/tcp open  documentum?
+[1m[34m[*][0m Nmap: 20000/tcp open  dnp?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.74.240.44
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65527 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT      STATE SERVICE          VERSION
+[1m[34m[*][0m Nmap: 443/tcp   open  https?
+[1m[34m[*][0m Nmap: 8081/tcp  open  blackice-icecap?
+[1m[34m[*][0m Nmap: 8082/tcp  open  blackice-alerts?
+[1m[34m[*][0m Nmap: 8443/tcp  open  https-alt?
+[1m[34m[*][0m Nmap: 8444/tcp  open  pcsync-http?
+[1m[34m[*][0m Nmap: 10001/tcp open  scp-config?
+[1m[34m[*][0m Nmap: 10002/tcp open  documentum?
+[1m[34m[*][0m Nmap: 20000/tcp open  dnp?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.159.6.144
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65534 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT      STATE SERVICE  VERSION
+[1m[34m[*][0m Nmap: 50000/tcp open  ibm-db2?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose|router
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Linux 4.X|5.X|3.X (92%), MikroTik RouterOS 7.X (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3 cpe:/o:linux:linux_kernel:3.4
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Linux 4.19 - 5.15 (92%), Linux 4.15 - 5.19 (85%), Linux 5.0 - 5.14 (85%), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3) (85%), Linux 3.4 (85%), Linux 4.15 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.105.251.104
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: All 65535 scanned ports on 10.105.251.104 are in ignored states.
+[1m[34m[*][0m Nmap: Not shown: 65535 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: Too many fingerprints match this host to give specific OS details
+[1m[34m[*][0m Nmap: Nmap scan report for 10.69.32.242
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT     STATE SERVICE    VERSION
+[1m[34m[*][0m Nmap: 9200/tcp open  ssl/http   Elasticsearch REST API 7.0 or later (Shield plugin; realm: security)
+[1m[34m[*][0m Nmap: 9300/tcp open  ssl/vrace?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Nmap scan report for 10.47.159.57
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http    Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2016|2012 (87%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2016 cpe:/o:microsoft:windows_server_2012:r2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2016 (87%), Microsoft Windows Server 2012 R2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.214.27.37
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65533 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE  VERSION
+[1m[34m[*][0m Nmap: 80/tcp  open  http     Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: 443/tcp open  ssl/http Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2019 (91%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2019
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Windows Server 2019 (91%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.194.43
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65528 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT     STATE  SERVICE      VERSION
+[1m[34m[*][0m Nmap: 80/tcp   open   http         Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: 443/tcp  open   ssl/http     Microsoft IIS httpd 10.0
+[1m[34m[*][0m Nmap: 3777/tcp closed jibe-eb
+[1m[34m[*][0m Nmap: 3778/tcp closed c-h-it-port
+[1m[34m[*][0m Nmap: 3779/tcp closed cognima
+[1m[34m[*][0m Nmap: 3780/tcp closed nnp
+[1m[34m[*][0m Nmap: 8004/tcp closed p2pevolvenet
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2019|10 (93%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2019 cpe:/o:microsoft:windows_10
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Windows Server 2019 (93%), Microsoft Windows 10 1607 (88%), Microsoft Windows 10 1903 - 21H1 (87%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.4.64.221
+[1m[34m[*][0m Nmap: Host is up (0.21s latency).
+[1m[34m[*][0m Nmap: Not shown: 65527 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT      STATE SERVICE          VERSION
+[1m[34m[*][0m Nmap: 7999/tcp  open  http             Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 8081/tcp  open  blackice-icecap?
+[1m[34m[*][0m Nmap: 8082/tcp  open  blackice-alerts?
+[1m[34m[*][0m Nmap: 8443/tcp  open  https-alt?
+[1m[34m[*][0m Nmap: 8444/tcp  open  pcsync-http?
+[1m[34m[*][0m Nmap: 10001/tcp open  scp-config?
+[1m[34m[*][0m Nmap: 10002/tcp open  documentum?
+[1m[34m[*][0m Nmap: 20000/tcp open  dnp?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.84.185.246
+[1m[34m[*][0m Nmap: Host is up (0.18s latency).
+[1m[34m[*][0m Nmap: Not shown: 65534 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT    STATE SERVICE VERSION
+[1m[34m[*][0m Nmap: 443/tcp open  https?
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+[1m[34m[*][0m Nmap: Nmap done: 132 IP addresses (31 hosts up) scanned in 1147.64 seconds
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/recog-3.1.17/lib/recog/fingerprint/regexp_factory.rb:34: warning: nested repeat operator '+' and '?' was replaced with '*' in regular expression
+[0m

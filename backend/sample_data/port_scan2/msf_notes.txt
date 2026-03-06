@@ -1,0 +1,1227 @@
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025-Azure
+[0m
+Notes
+=====
+
+ Time           Host           Service    Port  Protocol  Type                    Data
+ ----           ----           -------    ----  --------  ----                    ----
+ 2025-09-07 12  10.237.31.167                             host.last_boot          {:time=>"Sun Sep  7 09:
+ :29:33 UTC                                                                       40:21 2025"}
+ 2025-09-07 12  10.252.176.15                             host.last_boot          {:time=>"Mon Sep  8 10:
+ :29:33 UTC     4                                                                 57:15 2025"}
+ 2025-09-07 12  10.172.123.57                              host.last_boot          {:time=>"Sat Aug 30 04:
+ :29:34 UTC                                                                       50:32 2025"}
+ 2025-09-07 12  10.80.70.36                               host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2016",
+                                                                                   :os_accuracy=>87}
+ 2025-09-07 12  10.172.123.70                              host.last_boot          {:time=>"Sat Aug 30 04:
+ :29:34 UTC                                                                       28:17 2025"}
+ 2025-09-07 12  10.67.108.106                             host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2016",
+                                                                                   :os_accuracy=>87}
+ 2025-09-07 12  10.183.61.13                             host.os.nmap_fingerpri  {:os_vendor=>"OpenBSD",
+ :29:34 UTC     0                                         nt                       :os_family=>"OpenBSD",
+                                                                                   :os_version=>"4.X", :o
+                                                                                  s_accuracy=>85}
+ 2025-09-07 12  10.210.211.6                             host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC     3                                         nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2016",
+                                                                                   :os_accuracy=>87}
+ 2025-09-07 12  10.80.23.183                              host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2012",
+                                                                                   :os_accuracy=>94}
+ 2025-09-07 12  10.80.23.183                              host.last_boot          {:time=>"Sun Feb 23 10:
+ :29:34 UTC                                                                       29:16 2025"}
+ 2025-09-07 12  10.69.72.240                              host.last_boot          {:time=>"Thu Aug 21 01:
+ :29:34 UTC                                                                       15:39 2025"}
+ 2025-09-07 12  10.67.110.154                             host.last_boot          {:time=>"Mon Sep  8 10:
+ :29:34 UTC                                                                       57:16 2025"}
+ 2025-09-07 12  10.183.61.13                             host.last_boot          {:time=>"Mon Sep  8 10:
+ :29:34 UTC     0                                                                 57:14 2025"}
+ 2025-09-07 12  10.210.211.6                             host.last_boot          {:time=>"Mon Sep  8 07:
+ :29:34 UTC     3                                                                 48:53 2025"}
+ 2025-09-07 12  10.80.1.254                               host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2008",
+                                                                                   :os_accuracy=>100}
+ 2025-09-07 12  10.162.251.64                             host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2012",
+                                                                                   :os_accuracy=>94}
+ 2025-09-07 12  10.162.251.64                             host.last_boot          {:time=>"Sun Feb 23 10:
+ :29:34 UTC                                                                       15:15 2025"}
+ 2025-09-07 12  10.80.10.152                              host.last_boot          {:time=>"Sun Feb 23 11:
+ :29:34 UTC                                                                       35:52 2025"}
+ 2025-09-07 12  10.162.198.24                             host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC     8                                         nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2012",
+                                                                                   :os_accuracy=>89}
+ 2025-09-07 12  10.97.119.225                             host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2016",
+                                                                                   :os_accuracy=>87}
+ 2025-09-07 12  10.102.237.14                             host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC     9                                         nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2016",
+                                                                                   :os_accuracy=>87}
+ 2025-09-07 12  10.102.237.14                             host.last_boot          {:time=>"Sun Sep  7 10:
+ :29:34 UTC     9                                                                 08:37 2025"}
+ 2025-09-07 12  10.80.4.237                               host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2019",
+                                                                                   :os_accuracy=>94}
+ 2025-09-07 12  10.74.240.44                              host.last_boot          {:time=>"Wed Sep  3 15:
+ :29:34 UTC                                                                       48:49 2025"}
+ 2025-09-07 12  10.159.6.144                              host.os.nmap_fingerpri  {:os_vendor=>"Linux", :
+ :29:34 UTC                                               nt                      os_family=>"Linux", :os
+                                                                                  _version=>"4.X", :os_ac
+                                                                                  curacy=>92}
+ 2025-09-07 12  10.159.6.144                              host.last_boot          {:time=>"Thu Sep  4 03:
+ :29:34 UTC                                                                       29:30 2025"}
+ 2025-09-07 12  10.69.32.242                              host.last_boot          {:time=>"Sun Sep  7 15:
+ :29:34 UTC                                                                       29:24 2025"}
+ 2025-09-07 12  10.47.159.57                             host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2016",
+                                                                                   :os_accuracy=>87}
+ 2025-09-07 12  10.162.198.24                             host.last_boot          {:time=>"Sun Sep  7 10:
+ :29:34 UTC     8                                                                 18:10 2025"}
+ 2025-09-07 12  10.97.119.225                             host.last_boot          {:time=>"Mon Sep  8 07:
+ :29:34 UTC                                                                       22:08 2025"}
+ 2025-09-07 12  10.16.249.246                             host.last_boot          {:time=>"Mon Sep  8 10:
+ :29:34 UTC                                                                       57:16 2025"}
+ 2025-09-07 12  10.161.154.12                             host.last_boot          {:time=>"Mon Sep  8 10:
+ :29:34 UTC     9                                                                 57:15 2025"}
+ 2025-09-07 12  10.91.218.78                              host.last_boot          {:time=>"Wed Aug 27 22:
+ :29:34 UTC                                                                       43:04 2025"}
+ 2025-09-07 12  10.47.159.57                             host.last_boot          {:time=>"Thu Aug 21 01:
+ :29:34 UTC                                                                       03:14 2025"}
+ 2025-09-07 12  10.214.27.37                             host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2019",
+                                                                                   :os_accuracy=>92}
+ 2025-09-07 12  10.84.194.43                              host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2019",
+                                                                                   :os_accuracy=>85}
+ 2025-09-07 12  10.4.64.221                               host.last_boot          {:time=>"Wed Aug 27 22:
+ :29:34 UTC                                                                       38:08 2025"}
+ 2025-09-07 12  10.84.185.246                             host.last_boot          {:time=>"Mon Aug 25 05:
+ :29:34 UTC                                                                       56:49 2025"}
+ 2025-09-07 12  10.80.70.36                               host.last_boot          {:time=>"Sun Sep  7 15:
+ :29:34 UTC                                                                       06:31 2025"}
+ 2025-09-07 12  10.67.108.106                             host.last_boot          {:time=>"Mon Aug 11 01:
+ :29:34 UTC                                                                       02:49 2025"}
+ 2025-09-07 12  10.80.10.152                              host.os.nmap_fingerpri  {:os_vendor=>"Microsoft
+ :29:34 UTC                                               nt                      ", :os_family=>"Windows
+                                                                                  ", :os_version=>"2012",
+                                                                                   :os_accuracy=>92}
+ 2025-09-08 07  10.252.176.15  https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:43 UTC     4                                         tcp.443                 ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.252.176.15  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Site doesn'
+ :58:43 UTC     4                                         p.443                   t have a title (text/ht
+                                                                                  ml)."}
+ 2025-09-08 07  10.252.176.15  https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:43 UTC     4                                         443                     ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.252.176.15  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:43 UTC     4                                         443                     mmonName=bst-d0f4155d-7
+                                                                                  1f9-4660-8d00-a4c4c5501
+                                                                                  ba1.bastion.azure.com/o
+                                                                                  rganizationName=Microso
+                                                                                  ft Corporation/stateOrP
+                                                                                  rovinceName=WA/countryN
+                                                                                  ame=US\nSubject Alterna
+                                                                                  tive Name: DNS:bst-d0f4
+                                                                                  155d-71f9-4660-8d00-a4c
+                                                                                  4c5501ba1.bastion.azure
+                                                                                  .com, DNS:bst-d0f4155d-
+                                                                                  71f9-4660-8d00-a4c4c550
+                                                                                  1ba1-0.bastion.azure.co
+                                                                                  m, DNS:bst-d0f4155d-71f
+                                                                                  9-4660-8d00-a4c4c5501ba
+                                                                                  1-1.bastion.azure.com\n
+                                                                                  Not valid before: 2025-
+                                                                                  08-01T04:26:47\nNot val
+                                                                                  id after:  2026-01-28T0
+                                                                                  4:26:47"}
+ 2025-09-08 07  10.252.176.15                             host.os.nmap_fingerpri  {:os_vendor=>"OpenBSD",
+ :58:43 UTC     4                                         nt                       :os_family=>"OpenBSD",
+                                                                                   :os_version=>"4.X", :o
+                                                                                  s_accuracy=>85}
+ 2025-09-08 07  10.237.31.167  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Did not fol
+ :58:43 UTC                                               p.80                    low redirect to https:/
+                                                                                  /10.237.31.167/"}
+ 2025-09-08 07  10.237.31.167  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:43 UTC                                               443                     mmonName=ca.org-domain2.
+                                                                                  com\nSubject Alternativ
+                                                                                  e Name: DNS:mm.ca.harmo
+                                                                                  org-domain7.com, DNS:mmapi.ca
+                                                                                  .org-domain2.com, DNS:te
+                                                                                  ch.ca.org-domain2.com, D
+                                                                                  NS:ca.org-domain5.co
+                                                                                  m, DNS:ca.org-domain2.co
+                                                                                  m, DNS:www.ca.harmonymd
+                                                                                  m.com\nNot valid before
+                                                                                  : 2025-06-08T08:28:31\n
+                                                                                  Not valid after:  2026-
+                                                                                  07-10T08:28:31"}
+ 2025-09-08 07  10.237.31.167  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Not Found"}
+ :58:43 UTC                                               p.443
+ 2025-09-08 07  10.237.31.167  https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:43 UTC                                               443                     ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.67.108.106  https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:44 UTC                                               tcp.443                 ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.172.123.70   https-alt  8443  tcp       nmap.nse.http-title.tc  {"output"=>"Service"}
+ :58:44 UTC                                               p.8443
+ 2025-09-08 07  10.172.123.70   https-alt  8443  tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:44 UTC                                               8443                    mmonName=2dd20066-470f-
+                                                                                  4b82-845f-71cfbac8ef11.
+                                                                                  gwt.cloudapp.net\nSubje
+                                                                                  ct Alternative Name: DN
+                                                                                  S:azuregateway-2dd20066
+                                                                                  -470f-4b82-845f-71cfbac
+                                                                                  8ef11-807f4843b0e4.gwt.
+                                                                                  cloudapp.net\nNot valid
+                                                                                   before: 2025-06-25T22:
+                                                                                  50:15\nNot valid after:
+                                                                                    2025-12-22T22:50:15"}
+ 2025-09-08 07  10.172.123.70   https-alt  8443  tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-H
+ :58:44 UTC                                               eader.tcp.8443          TTPAPI/2.0"}
+ 2025-09-08 07  10.172.123.70   https-alt  8443  tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:44 UTC                                               8443                    ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.80.70.36    http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:44 UTC                                               eader.tcp.80            IS/10.0"}
+ 2025-09-08 07  10.80.70.36    http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:44 UTC                                               tcp.80                  ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.80.70.36    http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Site doesn'
+ :58:44 UTC                                               p.80                    t have a title (text/ht
+                                                                                  ml)."}
+ 2025-09-08 07  10.80.70.36    https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:44 UTC                                               eader.tcp.443           IS/10.0"}
+ 2025-09-08 07  10.80.70.36    https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:44 UTC                                               tcp.443                 ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.80.70.36    https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:44 UTC                                               443                     mmonName=*.org-domain3.co
+                                                                                  m\nSubject Alternative
+                                                                                  Name: DNS:*.org-domain3.c
+                                                                                  om, DNS:org-domain3.com\n
+                                                                                  Not valid before: 2025-
+                                                                                  06-01T07:30:59\nNot val
+                                                                                  id after:  2026-02-16T1
+                                                                                  3:16:27"}
+ 2025-09-08 07  10.80.70.36    https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Site doesn'
+ :58:44 UTC                                               p.443                   t have a title (text/ht
+                                                                                  ml)."}
+ 2025-09-08 07  10.67.108.106  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Site doesn'
+ :58:44 UTC                                               p.80                    t have a title (text/ht
+                                                                                  ml)."}
+ 2025-09-08 07  10.67.108.106  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:44 UTC                                               tcp.80                  ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.67.108.106  http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:44 UTC                                               eader.tcp.80            IS/10.0"}
+ 2025-09-08 07  10.67.108.106  https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:44 UTC                                               eader.tcp.443           IS/10.0"}
+ 2025-09-08 07  10.67.108.106  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Site doesn'
+ :58:44 UTC                                               p.443                   t have a title (text/ht
+                                                                                  ml)."}
+ 2025-09-08 07  10.67.108.106  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:44 UTC                                               443                     mmonName=*.org-domain3.co
+                                                                                  m\nSubject Alternative
+                                                                                  Name: DNS:*.org-domain3.c
+                                                                                  om, DNS:org-domain3.com\n
+                                                                                  Not valid before: 2025-
+                                                                                  06-01T07:30:59\nNot val
+                                                                                  id after:  2026-02-16T1
+                                                                                  3:16:27"}
+ 2025-09-08 07  10.69.72.240   http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:44 UTC                                               eader.tcp.80            IS/10.0"}
+ 2025-09-08 07  10.69.72.240   http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:44 UTC                                               tcp.80                  ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.69.72.240   http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Site doesn'
+ :58:44 UTC                                               p.80                    t have a title (text/ht
+                                                                                  ml)."}
+ 2025-09-08 07  10.69.72.240   https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:44 UTC                                               tcp.443                 ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.69.72.240   https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:44 UTC                                               443                     mmonName=*.org-domain3.co
+                                                                                  m\nSubject Alternative
+                                                                                  Name: DNS:*.org-domain3.c
+                                                                                  om, DNS:org-domain3.com\n
+                                                                                  Not valid before: 2025-
+                                                                                  06-01T07:30:59\nNot val
+                                                                                  id after:  2026-02-16T1
+                                                                                  3:16:27"}
+ 2025-09-08 07  10.69.72.240   https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Site doesn'
+ :58:44 UTC                                               p.443                   t have a title (text/ht
+                                                                                  ml)."}
+ 2025-09-08 07  10.69.72.240   https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:44 UTC                                               eader.tcp.443           IS/10.0"}
+ 2025-09-08 07  10.67.110.154  http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-A
+ :58:44 UTC                                               eader.tcp.80            zure-Application-Gatewa
+                                                                                  y/v2"}
+ 2025-09-08 07  10.67.110.154  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Did not fol
+ :58:45 UTC                                               p.80                    low redirect to https:/
+                                                                                  /10.67.110.154/"}
+ 2025-09-08 07  10.67.110.154  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:45 UTC                                               443                     mmonName=*.org-domain3.co
+                                                                                  m\nSubject Alternative
+                                                                                  Name: DNS:*.org-domain3.c
+                                                                                  om, DNS:org-domain3.com\n
+                                                                                  Not valid before: 2025-
+                                                                                  06-01T07:30:59\nNot val
+                                                                                  id after:  2026-02-16T1
+                                                                                  3:16:27"}
+ 2025-09-08 07  10.67.110.154  https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-A
+ :58:45 UTC                                               eader.tcp.443           zure-Application-Gatewa
+                                                                                  y/v2"}
+ 2025-09-08 07  10.67.110.154  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"404 Not Fou
+ :58:45 UTC                                               p.443                   nd"}
+ 2025-09-08 07  10.183.61.13  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"404 Not Fou
+ :58:45 UTC     0                                         p.80                    nd"}
+ 2025-09-08 07  10.183.61.13  http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-A
+ :58:45 UTC     0                                         eader.tcp.80            zure-Application-Gatewa
+                                                                                  y/v2"}
+ 2025-09-08 07  10.183.61.13  https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:45 UTC     0                                         443                     ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.183.61.13  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:45 UTC     0                                         443                     mmonName=*.harmonyencor
+                                                                                  org-domain9.com\nSubject Alter
+                                                                                  native Name: DNS:*.harm
+                                                                                  onyencororg-domain9.com, DNS:h
+                                                                                  armonyencororg-domain9.com\nNo
+                                                                                  t valid before: 2025-05
+                                                                                  -04T18:00:40\nNot valid
+                                                                                   after:  2026-06-05T18:
+                                                                                  00:40"}
+ 2025-09-08 07  10.183.61.13  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"404 Not Fou
+ :58:45 UTC     0                                         p.443                   nd"}
+ 2025-09-08 07  10.183.61.13  https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-A
+ :58:45 UTC     0                                         eader.tcp.443           zure-Application-Gatewa
+                                                                                  y/v2"}
+ 2025-09-08 07  10.210.211.6  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Harmony"}
+ :58:45 UTC     3                                         p.80
+ 2025-09-08 07  10.80.23.183   http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:45 UTC                                               eader.tcp.80            IS/8.5"}
+ 2025-09-08 07  10.80.23.183   http       80    tcp       nmap.nse.http-title.tc  {"output"=>"IIS Windows
+ :58:45 UTC                                               p.80                     Server"}
+ 2025-09-08 07  10.80.23.183   http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:45 UTC                                               tcp.80                  ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.162.251.64  ftp        21    tcp       nmap.nse.ftp-syst.tcp.  {"output"=>"\n  SYST: U
+ :58:46 UTC                                               21                      NIX emulated by FileZil
+                                                                                  la"}
+ 2025-09-08 07  10.80.10.152   ftp        21    tcp       nmap.nse.ftp-syst.tcp.  {"output"=>"\n  SYST: U
+ :58:46 UTC                                               21                      NIX emulated by FileZil
+                                                                                  la"}
+ 2025-09-08 07  10.80.10.152   http       80    tcp       nmap.nse.http-trane-in  {"output"=>"Problem wit
+ :58:46 UTC                                               fo.tcp.80               h XML parsing of /evox/
+                                                                                  about"}
+ 2025-09-08 07  10.80.10.152   http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Harmony"}
+ :58:46 UTC                                               p.80
+ 2025-09-08 07  10.80.10.152   https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Not Found"}
+ :58:46 UTC                                               p.443
+ 2025-09-08 07  10.80.10.152   https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"2025-09-08T
+ :58:46 UTC                                               443                     07:58:35+00:00; 0s from
+                                                                                   scanner time."}
+ 2025-09-08 07  10.80.10.152   https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-H
+ :58:46 UTC                                               eader.tcp.443           TTPAPI/2.0"}
+ 2025-09-08 07  10.80.10.152   https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:46 UTC                                               443                     mmonName=org-domain2.com
+                                                                                  \nSubject Alternative N
+                                                                                  ame: DNS:org-domain2.com
+                                                                                  , DNS:www.org-domain2.co
+                                                                                  m, DNS:www.mywateradvis
+                                                                                  or.com, DNS:mmapi.harmo
+                                                                                  org-domain7.com, DNS:mywatera
+                                                                                  dvisor.com, DNS:tst-mma
+                                                                                  pi.org-domain2.com, DNS:
+                                                                                  mm.org-domain2.com, DNS:
+                                                                                  tech.org-domain2.com, DN
+                                                                                  S:tst-mm.org-domain2.com
+                                                                                  , DNS:sms.org-domain2.co
+                                                                                  m\nNot valid before: 20
+                                                                                  18-03-12T15:05:00\nNot
+                                                                                  valid after:  2020-03-1
+                                                                                  2T15:05:00"}
+ 2025-09-08 07  10.162.198.24  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Harmony"}
+ :58:46 UTC     8                                         p.80
+ 2025-09-08 07  10.97.119.225  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Harmony"}
+ :58:46 UTC                                               p.80
+ 2025-09-08 07  10.102.237.14  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Harmony"}
+ :58:46 UTC     9                                         p.80
+ 2025-09-08 07  10.16.249.246  http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-A
+ :58:46 UTC                                               eader.tcp.80            zure-Application-Gatewa
+                                                                                  y/v2"}
+ 2025-09-08 07  10.16.249.246  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"404 Not Fou
+ :58:46 UTC                                               p.80                    nd"}
+ 2025-09-08 07  10.16.249.246  https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-A
+ :58:46 UTC                                               eader.tcp.443           zure-Application-Gatewa
+                                                                                  y/v2"}
+ 2025-09-08 07  10.16.249.246  https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:46 UTC                                               443                     ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.16.249.246  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:46 UTC                                               443                     mmonName=*.harmonyencor
+                                                                                  org-domain9.com\nSubject Alter
+                                                                                  native Name: DNS:*.harm
+                                                                                  onyencororg-domain9.com, DNS:h
+                                                                                  armonyencororg-domain9.com\nNo
+                                                                                  t valid before: 2025-05
+                                                                                  -04T18:00:40\nNot valid
+                                                                                   after:  2026-06-05T18:
+                                                                                  00:40"}
+ 2025-09-08 07  10.16.249.246  https      443   tcp       nmap.nse.tls-alpn.tcp.  {"output"=>"\n  h2\n  h
+ :58:46 UTC                                               443                     ttp/1.1"}
+ 2025-09-08 07  10.16.249.246  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"404 Not Fou
+ :58:46 UTC                                               p.443                   nd"}
+ 2025-09-08 07  10.16.249.246  https      443   tcp       nmap.nse.tls-nextproto  {"output"=>"\n  h2\n  h
+ :58:46 UTC                                               neg.tcp.443             ttp/1.1"}
+ 2025-09-08 07  10.16.249.246                             host.os.nmap_fingerpri  {:os_vendor=>"OpenBSD",
+ :58:47 UTC                                               nt                       :os_family=>"OpenBSD",
+                                                                                   :os_version=>"4.X", :o
+                                                                                  s_accuracy=>85}
+ 2025-09-08 07  10.161.154.12  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"404 Not Fou
+ :58:47 UTC     9                                         p.80                    nd"}
+ 2025-09-08 07  10.161.154.12  http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-A
+ :58:47 UTC     9                                         eader.tcp.80            zure-Application-Gatewa
+                                                                                  y/v2"}
+ 2025-09-08 07  10.161.154.12  https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:47 UTC     9                                         443                     ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.161.154.12  https      443   tcp       nmap.nse.tls-nextproto  {"output"=>"\n  h2\n  h
+ :58:47 UTC     9                                         neg.tcp.443             ttp/1.1"}
+ 2025-09-08 07  10.161.154.12  https      443   tcp       nmap.nse.tls-alpn.tcp.  {"output"=>"\n  h2\n  h
+ :58:47 UTC     9                                         443                     ttp/1.1"}
+ 2025-09-08 07  10.161.154.12  https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-A
+ :58:47 UTC     9                                         eader.tcp.443           zure-Application-Gatewa
+                                                                                  y/v2"}
+ 2025-09-08 07  10.161.154.12  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"400 The pla
+ :58:47 UTC     9                                         p.443                   in HTTP request was sen
+                                                                                  t to HTTPS port"}
+ 2025-09-08 07  10.161.154.12  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:47 UTC     9                                         443                     mmonName=*.harmonyencor
+                                                                                  org-domain9.com\nSubject Alter
+                                                                                  native Name: DNS:*.harm
+                                                                                  onyencororg-domain9.com, DNS:h
+                                                                                  armonyencororg-domain9.com\nNo
+                                                                                  t valid before: 2025-05
+                                                                                  -04T18:00:40\nNot valid
+                                                                                   after:  2026-06-05T18:
+                                                                                  00:40"}
+ 2025-09-08 07  10.80.4.237    http       80    tcp       nmap.nse.http-title.tc  {"output"=>"IIS Windows
+ :58:47 UTC                                               p.80                     Server"}
+ 2025-09-08 07  10.80.4.237    http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:47 UTC                                               eader.tcp.80            IS/10.0"}
+ 2025-09-08 07  10.80.4.237    http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:47 UTC                                               tcp.80                  ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.91.218.78   https-alt  8443  tcp       nmap.nse.http-title.tc  {"output"=>"Service"}
+ :58:47 UTC                                               p.8443
+ 2025-09-08 07  10.91.218.78   https-alt  8443  tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-H
+ :58:47 UTC                                               eader.tcp.8443          TTPAPI/2.0"}
+ 2025-09-08 07  10.91.218.78   https-alt  8443  tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:47 UTC                                               8443                    mmonName=3d5f0069-f096-
+                                                                                  42a4-8c7a-cacd0c63d735.
+                                                                                  gwt.cloudapp.net\nSubje
+                                                                                  ct Alternative Name: DN
+                                                                                  S:azuregateway-3d5f0069
+                                                                                  -f096-42a4-8c7a-cacd0c6
+                                                                                  3d735-730ec66f2425.gwt.
+                                                                                  cloudapp.net\nNot valid
+                                                                                   before: 2025-06-26T16:
+                                                                                  59:59\nNot valid after:
+                                                                                    2025-12-23T16:59:59"}
+ 2025-09-08 07  10.91.218.78   https-alt  8443  tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:47 UTC                                               8443                    ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.74.240.44   https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:47 UTC                                               443                     mmonName=8378f332-8d5b-
+                                                                                  48c3-8ddb-2f254e1b8935.
+                                                                                  vpn.azure.com/organizat
+                                                                                  ionName=Microsoft Corpo
+                                                                                  ration/stateOrProvinceN
+                                                                                  ame=Washington/countryN
+                                                                                  ame=US\nSubject Alterna
+                                                                                  tive Name: DNS:8378f332
+                                                                                  -8d5b-48c3-8ddb-2f254e1
+                                                                                  b8935.vpn.azure.com, DN
+                                                                                  S:azuregateway-8378f332
+                                                                                  -8d5b-48c3-8ddb-2f254e1
+                                                                                  b8935-0c54ccfbf57e.vpn.
+                                                                                  azure.com\nNot valid be
+                                                                                  fore: 2025-05-02T00:00:
+                                                                                  00\nNot valid after:  2
+                                                                                  026-04-14T23:59:59"}
+ 2025-09-08 07  10.74.240.44   https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Service Una
+ :58:47 UTC                                               p.443                   vailable"}
+ 2025-09-08 07  10.74.240.44   https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:47 UTC                                               443                     ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.74.240.44   https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-H
+ :58:47 UTC                                               eader.tcp.443           TTPAPI/2.0"}
+ 2025-09-08 07  10.74.240.44   https      443   tcp       nmap.nse.sstp-discover  {"output"=>"SSTP is sup
+ :58:47 UTC                                               .tcp.443                ported."}
+ 2025-09-08 07  10.74.240.44   https-alt  8443  tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:47 UTC                                               8443                    mmonName=8378f332-8d5b-
+                                                                                  48c3-8ddb-2f254e1b8935.
+                                                                                  gwt.cloudapp.net\nSubje
+                                                                                  ct Alternative Name: DN
+                                                                                  S:azuregateway-8378f332
+                                                                                  -8d5b-48c3-8ddb-2f254e1
+                                                                                  b8935-0c54ccfbf57e.gwt.
+                                                                                  cloudapp.net\nNot valid
+                                                                                   before: 2025-05-17T06:
+                                                                                  49:54\nNot valid after:
+                                                                                    2026-05-12T06:49:54"}
+ 2025-09-08 07  10.74.240.44   https-alt  8443  tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-H
+ :58:47 UTC                                               eader.tcp.8443          TTPAPI/2.0"}
+ 2025-09-08 07  10.74.240.44   https-alt  8443  tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:47 UTC                                               8443                    ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.74.240.44   https-alt  8443  tcp       nmap.nse.http-title.tc  {"output"=>"Service"}
+ :58:47 UTC                                               p.8443
+ 2025-09-08 07  10.214.27.37  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Masterlinx"
+ :58:48 UTC                                               p.443                   }
+ 2025-09-08 07  10.47.159.57  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Not Found"}
+ :58:48 UTC                                               p.80
+ 2025-09-08 07  10.47.159.57  http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-H
+ :58:48 UTC                                               eader.tcp.80            TTPAPI/2.0"}
+ 2025-09-08 07  10.214.27.37  http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:48 UTC                                               eader.tcp.80            IS/10.0"}
+ 2025-09-08 07  10.214.27.37  http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Did not fol
+ :58:48 UTC                                               p.80                    low redirect to https:/
+                                                                                  /www.org-domain4.com/"}
+ 2025-09-08 07  10.214.27.37  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:48 UTC                                               443                     mmonName=www.org-domain4
+                                                                                  .com\nSubject Alternati
+                                                                                  ve Name: DNS:masterlink
+                                                                                  asp.net, DNS:www.master
+                                                                                  linx.com, DNS:masterlin
+                                                                                  x.com, DNS:ftp.masterli
+                                                                                  nx.com\nNot valid befor
+                                                                                  e: 2024-12-09T07:38:02\
+                                                                                  nNot valid after:  2026
+                                                                                  -01-10T07:38:02"}
+ 2025-09-08 07  10.214.27.37  https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:48 UTC                                               eader.tcp.443           IS/10.0"}
+ 2025-09-08 07  10.214.27.37  https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:48 UTC                                               tcp.443                 ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.214.27.37  https      443   tcp       nmap.nse.tls-alpn.tcp.  {"output"=>"\n  http/1.
+ :58:48 UTC                                               443                     1"}
+ 2025-09-08 07  10.214.27.37  https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"2025-09-08T
+ :58:48 UTC                                               443                     07:58:36+00:00; 0s from
+                                                                                   scanner time."}
+ 2025-09-08 07  10.84.194.43   http       80    tcp       nmap.nse.http-title.tc  {"output"=>"Did not fol
+ :58:48 UTC                                               p.80                    low redirect to https:/
+                                                                                  /www.org-domain4.com/"}
+ 2025-09-08 07  10.84.194.43   http       80    tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:48 UTC                                               eader.tcp.80            IS/10.0"}
+ 2025-09-08 07  10.84.194.43   https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-I
+ :58:48 UTC                                               eader.tcp.443           IS/10.0"}
+ 2025-09-08 07  10.84.194.43   https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"2025-09-08T
+ :58:48 UTC                                               443                     07:58:32+00:00; 0s from
+                                                                                   scanner time."}
+ 2025-09-08 07  10.84.194.43   https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:48 UTC                                               443                     mmonName=www.org-domain4
+                                                                                  .com\nSubject Alternati
+                                                                                  ve Name: DNS:masterlink
+                                                                                  asp.net, DNS:www.master
+                                                                                  linx.com, DNS:masterlin
+                                                                                  x.com, DNS:ftp.masterli
+                                                                                  nx.com\nNot valid befor
+                                                                                  e: 2024-12-09T07:38:02\
+                                                                                  nNot valid after:  2026
+                                                                                  -01-10T07:38:02"}
+ 2025-09-08 07  10.84.194.43   https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Potenti
+ :58:48 UTC                                               tcp.443                 ally risky methods: TRA
+                                                                                  CE"}
+ 2025-09-08 07  10.84.194.43   https      443   tcp       nmap.nse.tls-alpn.tcp.  {"output"=>"\n  http/1.
+ :58:48 UTC                                               443                     1"}
+ 2025-09-08 07  10.4.64.221    https-alt  8443  tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-H
+ :58:48 UTC                                               eader.tcp.8443          TTPAPI/2.0"}
+ 2025-09-08 07  10.4.64.221    https-alt  8443  tcp       nmap.nse.http-title.tc  {"output"=>"Service"}
+ :58:48 UTC                                               p.8443
+ 2025-09-08 07  10.4.64.221    https-alt  8443  tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:48 UTC                                               8443                    mmonName=69570069-a41e-
+                                                                                  4de5-87c3-a7c157f22695.
+                                                                                  gwt.cloudapp.net\nSubje
+                                                                                  ct Alternative Name: DN
+                                                                                  S:azuregateway-69570069
+                                                                                  -a41e-4de5-87c3-a7c157f
+                                                                                  22695-78247ffd3014.gwt.
+                                                                                  cloudapp.net\nNot valid
+                                                                                   before: 2025-06-27T02:
+                                                                                  03:27\nNot valid after:
+                                                                                    2025-12-24T02:03:27"}
+ 2025-09-08 07  10.4.64.221    https-alt  8443  tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:48 UTC                                               8443                    ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.84.185.246  https      443   tcp       nmap.nse.sstp-discover  {"output"=>"SSTP is sup
+ :58:48 UTC                                               .tcp.443                ported."}
+ 2025-09-08 07  10.84.185.246  https      443   tcp       nmap.nse.http-server-h  {"output"=>"Microsoft-H
+ :58:48 UTC                                               eader.tcp.443           TTPAPI/2.0"}
+ 2025-09-08 07  10.84.185.246  https      443   tcp       nmap.nse.ssl-date.tcp.  {"output"=>"TLS randomn
+ :58:48 UTC                                               443                     ess does not represent
+                                                                                  time"}
+ 2025-09-08 07  10.84.185.246  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"Not Found"}
+ :58:48 UTC                                               p.443
+ 2025-09-08 07  10.84.185.246  https      443   tcp       nmap.nse.ssl-cert.tcp.  {"output"=>"Subject: co
+ :58:48 UTC                                               443                     mmonName=cff3c408-0eac-
+                                                                                  4938-9900-9e42934618d0.
+                                                                                  vpn.azure.com/organizat
+                                                                                  ionName=Microsoft Corpo
+                                                                                  ration/stateOrProvinceN
+                                                                                  ame=Washington/countryN
+                                                                                  ame=US\nSubject Alterna
+                                                                                  tive Name: DNS:cff3c408
+                                                                                  -0eac-4938-9900-9e42934
+                                                                                  618d0.vpn.azure.com, DN
+                                                                                  S:azuregateway-cff3c408
+                                                                                  -0eac-4938-9900-9e42934
+                                                                                  618d0-fdfbc079889b.vpn.
+                                                                                  azure.com\nNot valid be
+                                                                                  fore: 2025-02-14T00:00:
+                                                                                  00\nNot valid after:  2
+                                                                                  026-02-14T23:59:59"}
+ 2025-09-08 08  10.252.176.15  https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC     4                                         tcp.443                 ed Methods: GET HEAD TR
+                                                                                  ACE OPTIONS\n  Potentia
+                                                                                  lly risky methods: TRAC
+                                                                                  E"}
+ 2025-09-08 08  10.252.176.15  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Cache-C
+ :45:18 UTC     4                                         tcp.443                 ontrol: no-cache\n  Pra
+                                                                                  gma: no-cache\n  X-Cont
+                                                                                  ent-Type-Options: nosni
+                                                                                  ff\n  X-XSS-Protection:
+                                                                                   1; mode=block\n  Stric
+                                                                                  t-Transport-Security: m
+                                                                                  ax-age=31536000;include
+                                                                                  SubDomains; preload\n
+                                                                                  Set-Cookie: JSESSIONID=
+                                                                                  5D549DADDE4E03E66DB245A
+                                                                                  ABE4A052B; Path=/; Secu
+                                                                                  re; HttpOnly\n  Cache-C
+                                                                                  ontrol: no-cache\n  Pra
+                                                                                  gma: no-cache\n  Last-M
+                                                                                  odified: Tue, 05 Aug 20
+                                                                                  25 01:50:21 GMT\n  Cont
+                                                                                  ent-Type: text/html\n
+                                                                                  Transfer-Encoding: chun
+                                                                                  ked\n  Date: Mon, 08 Se
+                                                                                  p 2025 08:14:55 GMT\n
+                                                                                  Connection: close\n  \n
+                                                                                    (Request type: HEAD)\
+                                                                                  n"}
+ 2025-09-08 08  10.237.31.167  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: GET POST"}
+ 2025-09-08 08  10.237.31.167  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.80                  -Type: text/html; chars
+                                                                                  et=UTF-8\n  Location: h
+                                                                                  ttps://10.237.31.167/\n
+                                                                                    X-Frame-Options: SAME
+                                                                                  ORIGIN\n  Date: Mon, 08
+                                                                                   Sep 2025 08:14:55 GMT\
+                                                                                  n  Connection: close\n
+                                                                                   Content-Length: 145\n
+                                                                                   \n  (Request type: GET
+                                                                                  )\n"}
+ 2025-09-08 08  10.237.31.167  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.443                 -Type: text/html; chars
+                                                                                  et=us-ascii\n  Date: Mo
+                                                                                  n, 08 Sep 2025 08:10:03
+                                                                                   GMT\n  Connection: clo
+                                                                                  se\n  Content-Length: 3
+                                                                                  15\n  \n  (Request type
+                                                                                  : GET)\n"}
+ 2025-09-08 08  10.172.123.70   https-alt  8443  tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.8443                ed Methods: GET"}
+ 2025-09-08 08  10.172.123.70   https-alt  8443  tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.8443                -Length: 6437\n  Conten
+                                                                                  t-Type: text/html; char
+                                                                                  set=UTF-8\n  Server: Mi
+                                                                                  crosoft-HTTPAPI/2.0\n
+                                                                                  Date: Mon, 08 Sep 2025
+                                                                                  08:09:50 GMT\n  Connect
+                                                                                  ion: close\n  \n  (Requ
+                                                                                  est type: GET)\n"}
+ 2025-09-08 08  10.80.70.36    http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.80.70.36    http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.80                  -Length: 31\n  Content-
+                                                                                  Type: text/html\n  Last
+                                                                                  -Modified: Wed, 09 Jan
+                                                                                  2019 13:18:27 GMT\n  Ac
+                                                                                  cept-Ranges: bytes\n  E
+                                                                                  Tag: \"83cc1ce1da8d41:0
+                                                                                  \"\n  Server: Microsoft
+                                                                                  -IIS/10.0\n  X-Powered-
+                                                                                  By: ASP.NET\n  Date: Mo
+                                                                                  n, 08 Sep 2025 08:13:58
+                                                                                   GMT\n  Connection: clo
+                                                                                  se\n  \n  (Request type
+                                                                                  : HEAD)\n"}
+ 2025-09-08 08  10.80.70.36    https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.443                 ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.80.70.36    https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.443                 -Length: 31\n  Content-
+                                                                                  Type: text/html\n  Last
+                                                                                  -Modified: Wed, 09 Jan
+                                                                                  2019 13:18:27 GMT\n  Ac
+                                                                                  cept-Ranges: bytes\n  E
+                                                                                  Tag: \"83cc1ce1da8d41:0
+                                                                                  \"\n  Server: Microsoft
+                                                                                  -IIS/10.0\n  X-Powered-
+                                                                                  By: ASP.NET\n  Date: Mo
+                                                                                  n, 08 Sep 2025 08:10:35
+                                                                                   GMT\n  Connection: clo
+                                                                                  se\n  \n  (Request type
+                                                                                  : HEAD)\n"}
+ 2025-09-08 08  10.67.108.106  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.67.108.106  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.80                  -Length: 31\n  Content-
+                                                                                  Type: text/html\n  Last
+                                                                                  -Modified: Wed, 09 Jan
+                                                                                  2019 13:18:27 GMT\n  Ac
+                                                                                  cept-Ranges: bytes\n  E
+                                                                                  Tag: \"83cc1ce1da8d41:0
+                                                                                  \"\n  Server: Microsoft
+                                                                                  -IIS/10.0\n  X-Powered-
+                                                                                  By: ASP.NET\n  Date: Mo
+                                                                                  n, 08 Sep 2025 08:13:37
+                                                                                   GMT\n  Connection: clo
+                                                                                  se\n  \n  (Request type
+                                                                                  : HEAD)\n"}
+ 2025-09-08 08  10.67.108.106  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.443                 -Length: 31\n  Content-
+                                                                                  Type: text/html\n  Last
+                                                                                  -Modified: Wed, 09 Jan
+                                                                                  2019 13:18:27 GMT\n  Ac
+                                                                                  cept-Ranges: bytes\n  E
+                                                                                  Tag: \"83cc1ce1da8d41:0
+                                                                                  \"\n  Server: Microsoft
+                                                                                  -IIS/10.0\n  X-Powered-
+                                                                                  By: ASP.NET\n  Date: Mo
+                                                                                  n, 08 Sep 2025 08:09:51
+                                                                                   GMT\n  Connection: clo
+                                                                                  se\n  \n  (Request type
+                                                                                  : HEAD)\n"}
+ 2025-09-08 08  10.67.108.106  https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.443                 ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.69.72.240   http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.69.72.240   http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.80                  -Length: 31\n  Content-
+                                                                                  Type: text/html\n  Last
+                                                                                  -Modified: Wed, 09 Jan
+                                                                                  2019 13:18:27 GMT\n  Ac
+                                                                                  cept-Ranges: bytes\n  E
+                                                                                  Tag: \"83cc1ce1da8d41:0
+                                                                                  \"\n  Server: Microsoft
+                                                                                  -IIS/10.0\n  X-Powered-
+                                                                                  By: ASP.NET\n  Date: Mo
+                                                                                  n, 08 Sep 2025 08:10:01
+                                                                                   GMT\n  Connection: clo
+                                                                                  se\n  \n  (Request type
+                                                                                  : HEAD)\n"}
+ 2025-09-08 08  10.69.72.240   https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.443                 ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.69.72.240   https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.443                 -Length: 31\n  Content-
+                                                                                  Type: text/html\n  Last
+                                                                                  -Modified: Wed, 09 Jan
+                                                                                  2019 13:18:27 GMT\n  Ac
+                                                                                  cept-Ranges: bytes\n  E
+                                                                                  Tag: \"83cc1ce1da8d41:0
+                                                                                  \"\n  Server: Microsoft
+                                                                                  -IIS/10.0\n  X-Powered-
+                                                                                  By: ASP.NET\n  Date: Mo
+                                                                                  n, 08 Sep 2025 08:16:09
+                                                                                   GMT\n  Connection: clo
+                                                                                  se\n  \n  (Request type
+                                                                                  : HEAD)\n"}
+ 2025-09-08 08  10.67.110.154  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: GET HEAD PO
+                                                                                  ST OPTIONS"}
+ 2025-09-08 08  10.67.110.154  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Server:
+ :45:18 UTC                                               tcp.80                   Microsoft-Azure-Applic
+                                                                                  ation-Gateway/v2\n  Dat
+                                                                                  e: Mon, 08 Sep 2025 08:
+                                                                                  16:10 GMT\n  Content-Ty
+                                                                                  pe: text/html\n  Conten
+                                                                                  t-Length: 195\n  Connec
+                                                                                  tion: close\n  Location
+                                                                                  : https://10.67.110.154
+                                                                                  /\n  \n  (Request type:
+                                                                                   GET)\n"}
+ 2025-09-08 08  10.67.110.154  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Server:
+ :45:18 UTC                                               tcp.443                  Microsoft-Azure-Applic
+                                                                                  ation-Gateway/v2\n  Dat
+                                                                                  e: Mon, 08 Sep 2025 08:
+                                                                                  10:38 GMT\n  Content-Ty
+                                                                                  pe: text/html\n  Conten
+                                                                                  t-Length: 179\n  Connec
+                                                                                  tion: close\n  \n  (Req
+                                                                                  uest type: GET)\n"}
+ 2025-09-08 08  10.183.61.13  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Server:
+ :45:18 UTC     0                                         tcp.80                   Microsoft-Azure-Applic
+                                                                                  ation-Gateway/v2\n  Dat
+                                                                                  e: Mon, 08 Sep 2025 08:
+                                                                                  10:08 GMT\n  Content-Ty
+                                                                                  pe: text/html\n  Conten
+                                                                                  t-Length: 179\n  Connec
+                                                                                  tion: close\n  \n  (Req
+                                                                                  uest type: GET)\n"}
+ 2025-09-08 08  10.183.61.13  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Server:
+ :45:18 UTC     0                                         tcp.443                  Microsoft-Azure-Applic
+                                                                                  ation-Gateway/v2\n  Dat
+                                                                                  e: Mon, 08 Sep 2025 08:
+                                                                                  14:52 GMT\n  Content-Ty
+                                                                                  pe: text/html\n  Conten
+                                                                                  t-Length: 179\n  Connec
+                                                                                  tion: close\n  \n  (Req
+                                                                                  uest type: GET)\n"}
+ 2025-09-08 08  10.210.211.6  http       80    tcp       nmap.nse.http-enum.tcp  {"output"=>"\n  /docume
+ :45:18 UTC     3                                         .80                     nts/: Potentially inter
+                                                                                  esting folder\n  /error
+                                                                                  /: Potentially interest
+                                                                                  ing folder\n  /images/:
+                                                                                   Potentially interestin
+                                                                                  g folder\n  /scripts/:
+                                                                                  Potentially interesting
+                                                                                   folder\n  /styles/: Po
+                                                                                  tentially interesting f
+                                                                                  older\n"}
+ 2025-09-08 08  10.210.211.6  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC     3                                         tcp.80                  ed Methods: GET POST"}
+ 2025-09-08 08  10.210.211.6  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Cache-C
+ :45:18 UTC     3                                         tcp.80                  ontrol: private, no-sto
+                                                                                  re\n  Content-Type: tex
+                                                                                  t/html; charset=utf-8\n
+                                                                                    Set-Cookie: ASP.NET_S
+                                                                                  essionId=yj4dqmvf320riy
+                                                                                  yvkfk12s2r; path=/; Htt
+                                                                                  pOnly; SameSite=Lax\n
+                                                                                  X-Frame-Options: SAMEOR
+                                                                                  IGIN\n  Date: Mon, 08 S
+                                                                                  ep 2025 08:16:11 GMT\n
+                                                                                   Connection: close\n  C
+                                                                                  ontent-Length: 13158\n
+                                                                                   \n  (Request type: GET
+                                                                                  )\n"}
+ 2025-09-08 08  10.210.211.6  http       80    tcp       nmap.nse.http-auth-fin  {"output"=>"\nSpidering
+ :45:18 UTC     3                                         der.tcp.80               limited to: maxdepth=3
+                                                                                  ; maxpagecount=20; with
+                                                                                  inhost=10.210.211.63\n
+                                                                                    url
+                                                                                                    metho
+                                                                                  d\n  http://104.210.211
+                                                                                  .63:80/              FO
+                                                                                  RM\n  http://104.210.21
+                                                                                  1.63:80/Default.aspx  F
+                                                                                  ORM\n"}
+ 2025-09-08 08  10.161.154.12  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Server:
+ :45:18 UTC     9                                         tcp.443                  Microsoft-Azure-Applic
+                                                                                  ation-Gateway/v2\n  Dat
+                                                                                  e: Mon, 08 Sep 2025 08:
+                                                                                  14:58 GMT\n  Content-Ty
+                                                                                  pe: text/html\n  Conten
+                                                                                  t-Length: 179\n  Connec
+                                                                                  tion: close\n  \n  (Req
+                                                                                  uest type: GET)\n"}
+ 2025-09-08 08  10.80.23.183   http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.80                  -Length: 701\n  Content
+                                                                                  -Type: text/html\n  Las
+                                                                                  t-Modified: Mon, 01 May
+                                                                                   2017 15:43:16 GMT\n  A
+                                                                                  ccept-Ranges: bytes\n
+                                                                                  ETag: \"aef775a691c2d21
+                                                                                  :0\"\n  Server: Microso
+                                                                                  ft-IIS/8.5\n  X-Powered
+                                                                                  -By: ASP.NET\n  Date: M
+                                                                                  on, 08 Sep 2025 08:14:5
+                                                                                  4 GMT\n  Connection: cl
+                                                                                  ose\n  \n  (Request typ
+                                                                                  e: HEAD)\n"}
+ 2025-09-08 08  10.80.23.183   http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.80.10.152   http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: GET POST"}
+ 2025-09-08 08  10.80.10.152   http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Cache-C
+ :45:18 UTC                                               tcp.80                  ontrol: private, no-sto
+                                                                                  re\n  Content-Type: tex
+                                                                                  t/html; charset=utf-8\n
+                                                                                    Set-Cookie: ASP.NET_S
+                                                                                  essionId=loycbdlxefwlvx
+                                                                                  cclccr3nhu; path=/; Htt
+                                                                                  pOnly\n  X-Frame-Option
+                                                                                  s: SAMEORIGIN\n  Date:
+                                                                                  Mon, 08 Sep 2025 08:14:
+                                                                                  35 GMT\n  Connection: c
+                                                                                  lose\n  Content-Length:
+                                                                                   11686\n  \n  (Request
+                                                                                  type: GET)\n"}
+ 2025-09-08 08  10.80.10.152   http       80    tcp       nmap.nse.http-auth-fin  {"output"=>"\nSpidering
+ :45:18 UTC                                               der.tcp.80               limited to: maxdepth=3
+                                                                                  ; maxpagecount=20; with
+                                                                                  inhost=10.80.10.152\n
+                                                                                  url
+
+                                                                                                       me
+                                                                                  thod\n  http://20.80.10
+                                                                                  .152:80/
+
+                                                                                        FORM\n  http://20
+                                                                                  .80.10.152:80/1
+
+                                                                                              FORM\n  htt
+                                                                                  p://10.80.10.152:80/Def
+                                                                                  ault.aspx
+                                                                                                    FORM\
+                                                                                  n  http://10.80.10.152:
+                                                                                  80/u;k=new
+
+                                                                                   FORM\n  http://20.80.1
+                                                                                  0.152:80/default.aspx?R
+                                                                                  eturnUrl=%2F1
+                                                                                         FORM\n  http://2
+                                                                                  10.80.10.152:80/event.sr
+                                                                                  cElement
+                                                                                               FORM\n  ht
+                                                                                  tp://10.80.10.152:80/de
+                                                                                  fault.aspx?ReturnUrl=%2
+                                                                                  Fu%3Bk%3Dnew       FORM
+                                                                                  \n  http://10.80.10.152
+                                                                                  :80/default.aspx?Return
+                                                                                  Url=%2Fevent.srcElement
+                                                                                    FORM\n"}
+ 2025-09-08 08  10.80.10.152   https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.443                 -Type: text/html; chars
+                                                                                  et=us-ascii\n  Server:
+                                                                                  Microsoft-HTTPAPI/2.0\n
+                                                                                    Date: Mon, 08 Sep 202
+                                                                                  5 08:10:44 GMT\n  Conne
+                                                                                  ction: close\n  Content
+                                                                                  -Length: 315\n  \n  (Re
+                                                                                  quest type: GET)\n"}
+ 2025-09-08 08  10.162.198.24  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Cache-C
+ :45:18 UTC     8                                         tcp.80                  ontrol: private, no-sto
+                                                                                  re\n  Content-Type: tex
+                                                                                  t/html; charset=utf-8\n
+                                                                                    Set-Cookie: ASP.NET_S
+                                                                                  essionId=jq2cym0egbw2sc
+                                                                                  2idbo3r3kd; path=/; Htt
+                                                                                  pOnly; SameSite=Lax\n
+                                                                                  X-Frame-Options: SAMEOR
+                                                                                  IGIN\n  Date: Mon, 08 S
+                                                                                  ep 2025 08:10:36 GMT\n
+                                                                                   Connection: close\n  C
+                                                                                  ontent-Length: 13387\n
+                                                                                   \n  (Request type: GET
+                                                                                  )\n"}
+ 2025-09-08 08  10.162.198.24  http       80    tcp       nmap.nse.http-auth-fin  {"output"=>"\nSpidering
+ :45:18 UTC     8                                         der.tcp.80               limited to: maxdepth=3
+                                                                                  ; maxpagecount=20; with
+                                                                                  inhost=10.162.198.248\n
+                                                                                    url
+                                                                                                    metho
+                                                                                  d\n  http://52.162.198.
+                                                                                  248:80/              FO
+                                                                                  RM\n  http://52.162.198
+                                                                                  .248:80/Default.aspx  F
+                                                                                  ORM\n"}
+ 2025-09-08 08  10.162.198.24  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC     8                                         tcp.80                  ed Methods: GET POST"}
+ 2025-09-08 08  10.97.119.225  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Cache-C
+ :45:18 UTC                                               tcp.80                  ontrol: private, no-sto
+                                                                                  re\n  Content-Type: tex
+                                                                                  t/html; charset=utf-8\n
+                                                                                    Set-Cookie: ASP.NET_S
+                                                                                  essionId=pycd2n3g0qlqwd
+                                                                                  hexr0t05l2; path=/; Htt
+                                                                                  pOnly; SameSite=Lax\n
+                                                                                  X-Frame-Options: SAMEOR
+                                                                                  IGIN\n  Date: Mon, 08 S
+                                                                                  ep 2025 08:10:10 GMT\n
+                                                                                   Connection: close\n  C
+                                                                                  ontent-Length: 13158\n
+                                                                                   \n  (Request type: GET
+                                                                                  )\n"}
+ 2025-09-08 08  10.97.119.225  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: GET POST"}
+ 2025-09-08 08  10.97.119.225  http       80    tcp       nmap.nse.http-auth-fin  {"output"=>"\nSpidering
+ :45:18 UTC                                               der.tcp.80               limited to: maxdepth=3
+                                                                                  ; maxpagecount=20; with
+                                                                                  inhost=10.97.119.225\n
+                                                                                   url
+                                                                                                  method\
+                                                                                  n  http://10.97.119.225
+                                                                                  :80/              FORM\
+                                                                                  n  http://10.97.119.225
+                                                                                  :80/Default.aspx  FORM\
+                                                                                  n"}
+ 2025-09-08 08  10.102.237.14  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC     9                                         tcp.80                  ed Methods: GET POST"}
+ 2025-09-08 08  10.102.237.14  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Cache-C
+ :45:18 UTC     9                                         tcp.80                  ontrol: private, no-sto
+                                                                                  re\n  Content-Type: tex
+                                                                                  t/html; charset=utf-8\n
+                                                                                    Set-Cookie: ASP.NET_S
+                                                                                  essionId=rpiddmuzcj0ulb
+                                                                                  pjnaevlmbh; path=/; Htt
+                                                                                  pOnly; SameSite=Lax\n
+                                                                                  X-Frame-Options: SAMEOR
+                                                                                  IGIN\n  Date: Mon, 08 S
+                                                                                  ep 2025 08:15:58 GMT\n
+                                                                                   Connection: close\n  C
+                                                                                  ontent-Length: 13387\n
+                                                                                   \n  (Request type: GET
+                                                                                  )\n"}
+ 2025-09-08 08  10.102.237.14  http       80    tcp       nmap.nse.http-auth-fin  {"output"=>"\nSpidering
+ :45:18 UTC     9                                         der.tcp.80               limited to: maxdepth=3
+                                                                                  ; maxpagecount=20; with
+                                                                                  inhost=10.102.237.149\n
+                                                                                    url
+                                                                                                    metho
+                                                                                  d\n  http://20.102.237.
+                                                                                  149:80/              FO
+                                                                                  RM\n  http://20.102.237
+                                                                                  .149:80/Default.aspx  F
+                                                                                  ORM\n"}
+ 2025-09-08 08  10.16.249.246  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Server:
+ :45:18 UTC                                               tcp.80                   Microsoft-Azure-Applic
+                                                                                  ation-Gateway/v2\n  Dat
+                                                                                  e: Mon, 08 Sep 2025 08:
+                                                                                  11:03 GMT\n  Content-Ty
+                                                                                  pe: text/html\n  Conten
+                                                                                  t-Length: 179\n  Connec
+                                                                                  tion: close\n  \n  (Req
+                                                                                  uest type: GET)\n"}
+ 2025-09-08 08  10.16.249.246  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"400 The pla
+ :45:18 UTC                                               p.443                   in HTTP request was sen
+                                                                                  t to HTTPS port"}
+ 2025-09-08 08  10.16.249.246  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Server:
+ :45:18 UTC                                               tcp.443                  Microsoft-Azure-Applic
+                                                                                  ation-Gateway/v2\n  Dat
+                                                                                  e: Mon, 08 Sep 2025 08:
+                                                                                  16:30 GMT\n  Content-Ty
+                                                                                  pe: text/html\n  Conten
+                                                                                  t-Length: 179\n  Connec
+                                                                                  tion: close\n  \n  (Req
+                                                                                  uest type: GET)\n"}
+ 2025-09-08 08  10.161.154.12  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Server:
+ :45:18 UTC     9                                         tcp.80                   Microsoft-Azure-Applic
+                                                                                  ation-Gateway/v2\n  Dat
+                                                                                  e: Mon, 08 Sep 2025 08:
+                                                                                  13:57 GMT\n  Content-Ty
+                                                                                  pe: text/html\n  Conten
+                                                                                  t-Length: 179\n  Connec
+                                                                                  tion: close\n  \n  (Req
+                                                                                  uest type: GET)\n"}
+ 2025-09-08 08  10.161.154.12  https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC     9                                         tcp.443                 ed Methods: GET HEAD PO
+                                                                                  ST OPTIONS"}
+ 2025-09-08 08  10.161.154.12  https      443   tcp       nmap.nse.http-title.tc  {"output"=>"404 Not Fou
+ :45:18 UTC     9                                         p.443                   nd"}
+ 2025-09-08 08  10.80.4.237    http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.80                  -Length: 703\n  Content
+                                                                                  -Type: text/html\n  Las
+                                                                                  t-Modified: Thu, 13 Apr
+                                                                                   2023 09:37:57 GMT\n  A
+                                                                                  ccept-Ranges: bytes\n
+                                                                                  ETag: \"d4a130a1eb6dd91
+                                                                                  :0\"\n  Server: Microso
+                                                                                  ft-IIS/10.0\n  Date: Mo
+                                                                                  n, 08 Sep 2025 08:10:39
+                                                                                   GMT\n  Connection: clo
+                                                                                  se\n  \n  (Request type
+                                                                                  : HEAD)\n"}
+ 2025-09-08 08  10.80.4.237    http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.80                  ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.80.4.237    http       80    tcp       nmap.nse.http-enum.tcp  {"output"=>"\n  /report
+ :45:18 UTC                                               .80                     server/: Microsoft SQL
+                                                                                  Report Service (401 Una
+                                                                                  uthorized)\n  /reports/
+                                                                                  : Potentially interesti
+                                                                                  ng folder (401 Unauthor
+                                                                                  ized)\n"}
+ 2025-09-08 08  10.91.218.78   https-alt  8443  tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.8443                ed Methods: GET"}
+ 2025-09-08 08  10.91.218.78   https-alt  8443  tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.8443                -Length: 6437\n  Conten
+                                                                                  t-Type: text/html; char
+                                                                                  set=UTF-8\n  Server: Mi
+                                                                                  crosoft-HTTPAPI/2.0\n
+                                                                                  Date: Mon, 08 Sep 2025
+                                                                                  08:09:51 GMT\n  Connect
+                                                                                  ion: close\n  \n  (Requ
+                                                                                  est type: GET)\n"}
+ 2025-09-08 08  10.74.240.44   https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.443                 -Type: text/html; chars
+                                                                                  et=us-ascii\n  Server:
+                                                                                  Microsoft-HTTPAPI/2.0\n
+                                                                                    Date: Mon, 08 Sep 202
+                                                                                  5 08:15:00 GMT\n  Conne
+                                                                                  ction: close\n  Content
+                                                                                  -Length: 326\n  \n  (Re
+                                                                                  quest type: GET)\n"}
+ 2025-09-08 08  10.74.240.44   https-alt  8443  tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:18 UTC                                               tcp.8443                ed Methods: GET"}
+ 2025-09-08 08  10.74.240.44   https-alt  8443  tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:18 UTC                                               tcp.8443                -Length: 6437\n  Conten
+                                                                                  t-Type: text/html; char
+                                                                                  set=UTF-8\n  Server: Mi
+                                                                                  crosoft-HTTPAPI/2.0\n
+                                                                                  Date: Mon, 08 Sep 2025
+                                                                                  08:13:49 GMT\n  Connect
+                                                                                  ion: close\n  \n  (Requ
+                                                                                  est type: GET)\n"}
+ 2025-09-08 08  10.47.159.57  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:19 UTC                                               tcp.80                  -Type: text/html; chars
+                                                                                  et=us-ascii\n  Server:
+                                                                                  Microsoft-HTTPAPI/2.0\n
+                                                                                    Date: Mon, 08 Sep 202
+                                                                                  5 08:15:57 GMT\n  Conne
+                                                                                  ction: close\n  Content
+                                                                                  -Length: 315\n  \n  (Re
+                                                                                  quest type: GET)\n"}
+ 2025-09-08 08  10.214.27.37  http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:19 UTC                                               tcp.80                  -Type: text/html; chars
+                                                                                  et=UTF-8\n  Location: h
+                                                                                  ttps://www.org-domain4.c
+                                                                                  om/\n  Server: Microsof
+                                                                                  t-IIS/10.0\n  X-Powered
+                                                                                  -By: ASP.NET\n  Date: M
+                                                                                  on, 08 Sep 2025 08:13:4
+                                                                                  3 GMT\n  Connection: cl
+                                                                                  ose\n  Content-Length:
+                                                                                  150\n  \n  (Request typ
+                                                                                  e: GET)\n"}
+ 2025-09-08 08  10.214.27.37  http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:19 UTC                                               tcp.80                  ed Methods: GET HEAD PO
+                                                                                  ST OPTIONS"}
+ 2025-09-08 08  10.214.27.37  https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:19 UTC                                               tcp.443                 ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.214.27.37  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Cache-C
+ :45:19 UTC                                               tcp.443                 ontrol: private\n  Cont
+                                                                                  ent-Length: 12266\n  Co
+                                                                                  ntent-Type: text/html;
+                                                                                  charset=utf-8\n  Server
+                                                                                  : Microsoft-IIS/10.0\n
+                                                                                   Set-Cookie: ASP.NET_Se
+                                                                                  ssionId=5xnnuu55weobxe5
+                                                                                  5y54cfwae; path=/; Http
+                                                                                  Only\n  X-Powered-By: A
+                                                                                  SP.NET\n  Date: Mon, 08
+                                                                                   Sep 2025 08:16:31 GMT\
+                                                                                  n  Connection: close\n
+                                                                                   \n  (Request type: HEA
+                                                                                  D)\n"}
+ 2025-09-08 08  10.84.194.43   http       80    tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:19 UTC                                               tcp.80                  ed Methods: GET HEAD PO
+                                                                                  ST OPTIONS"}
+ 2025-09-08 08  10.84.194.43   http       80    tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:19 UTC                                               tcp.80                  -Type: text/html; chars
+                                                                                  et=UTF-8\n  Location: h
+                                                                                  ttps://www.org-domain4.c
+                                                                                  om/\n  Server: Microsof
+                                                                                  t-IIS/10.0\n  X-Powered
+                                                                                  -By: ASP.NET\n  Date: M
+                                                                                  on, 08 Sep 2025 08:10:2
+                                                                                  0 GMT\n  Connection: cl
+                                                                                  ose\n  Content-Length:
+                                                                                  150\n  \n  (Request typ
+                                                                                  e: GET)\n"}
+ 2025-09-08 08  10.84.194.43   https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Cache-C
+ :45:19 UTC                                               tcp.443                 ontrol: private\n  Cont
+                                                                                  ent-Length: 12266\n  Co
+                                                                                  ntent-Type: text/html;
+                                                                                  charset=utf-8\n  Server
+                                                                                  : Microsoft-IIS/10.0\n
+                                                                                   Set-Cookie: ASP.NET_Se
+                                                                                  ssionId=culh42b0xmqxea4
+                                                                                  5iihqhd55; path=/; Http
+                                                                                  Only\n  X-Powered-By: A
+                                                                                  SP.NET\n  Date: Mon, 08
+                                                                                   Sep 2025 08:14:44 GMT\
+                                                                                  n  Connection: close\n
+                                                                                   \n  (Request type: HEA
+                                                                                  D)\n"}
+ 2025-09-08 08  10.84.194.43   https      443   tcp       nmap.nse.http-methods.  {"output"=>"\n  Support
+ :45:19 UTC                                               tcp.443                 ed Methods: OPTIONS TRA
+                                                                                  CE GET HEAD POST\n  Pot
+                                                                                  entially risky methods:
+                                                                                   TRACE"}
+ 2025-09-08 08  10.84.194.43   https      443   tcp       nmap.nse.http-auth-fin  {"output"=>"\nSpidering
+ :45:19 UTC                                               der.tcp.443              limited to: maxdepth=3
+                                                                                  ; maxpagecount=20; with
+                                                                                  inhost=10.84.194.43\n
+                                                                                  url
+                                                                                                  method\
+                                                                                  n  https://10.84.194.43
+                                                                                  :443/              FORM
+                                                                                  \n  https://10.84.194.4
+                                                                                  3:443/default.aspx  FOR
+                                                                                  M\n"}
+ 2025-09-08 08  10.4.64.221    https-alt  8443  tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:19 UTC                                               tcp.8443                -Length: 6437\n  Conten
+                                                                                  t-Type: text/html; char
+                                                                                  set=UTF-8\n  Server: Mi
+                                                                                  crosoft-HTTPAPI/2.0\n
+                                                                                  Date: Mon, 08 Sep 2025
+                                                                                  08:13:56 GMT\n  Connect
+                                                                                  ion: close\n  \n  (Requ
+                                                                                  est type: GET)\n"}
+ 2025-09-08 08  10.84.185.246  https      443   tcp       nmap.nse.http-headers.  {"output"=>"\n  Content
+ :45:19 UTC                                               tcp.443                 -Type: text/html; chars
+                                                                                  et=us-ascii\n  Server:
+                                                                                  Microsoft-HTTPAPI/2.0\n
+                                                                                    Date: Mon, 08 Sep 202
+                                                                                  5 08:10:38 GMT\n  Conne
+                                                                                  ction: close\n  Content
+                                                                                  -Length: 315\n  \n  (Re
+                                                                                  quest type: GET)\n"}
+
+[0m

@@ -1,0 +1,189 @@
+
+===== http://10.69.72.240:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.69.72.240:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.80.70.36:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.80.70.36:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.84.185.246:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.16.249.246:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.16.249.246:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.67.108.106:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.67.108.106:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.67.110.154:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.67.110.154:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.80.4.237:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.80.10.152:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.80.10.152:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.97.119.225:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.97.119.225:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.102.237.149:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.102.237.149:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.74.240.44:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== http://10.84.194.43:80 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found
+
+===== https://10.84.194.43:443 =====
+Security Headers Analysis:
+=========================
+X-Frame-Options: Not found
+X-Content-Type-Options: Not found
+X-XSS-Protection: Not found
+Strict-Transport-Security: Not found
+Content-Security-Policy: Not found

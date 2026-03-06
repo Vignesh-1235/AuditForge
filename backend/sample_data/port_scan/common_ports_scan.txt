@@ -1,0 +1,279 @@
+# Common Ports Scan Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 10:28 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.1
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   closed   ftp
+[1m[34m[*][0m Nmap: 22/tcp   closed   ssh
+[1m[34m[*][0m Nmap: 23/tcp   closed   telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   closed   domain
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 110/tcp  closed   pop3
+[1m[34m[*][0m Nmap: 111/tcp  closed   rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  closed   msrpc
+[1m[34m[*][0m Nmap: 139/tcp  closed   netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  closed   imap
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 993/tcp  closed   imaps
+[1m[34m[*][0m Nmap: 995/tcp  closed   pop3s
+[1m[34m[*][0m Nmap: 1723/tcp closed   pptp
+[1m[34m[*][0m Nmap: 3306/tcp closed   mysql
+[1m[34m[*][0m Nmap: 3389/tcp closed   ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp closed   vnc
+[1m[34m[*][0m Nmap: 8080/tcp closed   http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp closed   https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Cisco Aironet 1250 WAP (IOS 12.4) or IOS XE (95%), Cisco C7200 router (IOS 15) (95%), Cisco IOS-XE 16.11 (95%), Cisco 827H ADSL router (IOS 12.2) (94%), Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (94%), D-Link DFL-200 firewall (94%), D-Link NetDefend firewall (93%), Cisco 1812, 3640, or 3700 router (IOS 12.4) (91%), Cisco DOCSIS cable modem termination server (IOS 12.1) (91%), Cisco Catalyst 3560 or 6500-series switch (IOS 12.1 - 12.2) (91%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.12
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/https
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=FG200ETK18907182/organizationName=Fortinet/stateOrProvinceName=California/countryName=US
+[1m[34m[*][0m Nmap: | Not valid before: 2018-06-12T01:28:17
+[1m[34m[*][0m Nmap: |_Not valid after:  2038-01-19T03:14:07
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |_  Potentially risky methods:
+[1m[34m[*][0m Nmap: | fingerprint-strings:
+[1m[34m[*][0m Nmap: |   FourOhFourRequest:
+[1m[34m[*][0m Nmap: |     HTTP/1.0 400 Bad Request
+[1m[34m[*][0m Nmap: |     Date: Mon, 08 Sep 2025 07:28:33 GMT
+[1m[34m[*][0m Nmap: |     Connection: close
+[1m[34m[*][0m Nmap: |     Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |     X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |     Content-Security-Policy: frame-ancestors 'self'; object-src 'self'; script-src 'self' https: 'unsafe-eval' 'unsafe-inline' blob:;
+[1m[34m[*][0m Nmap: |     X-XSS-Protection: 1; mode=block
+[1m[34m[*][0m Nmap: |     X-Content-Type-Options: nosniff
+[1m[34m[*][0m Nmap: |     Strict-Transport-Security: max-age=31536000
+[1m[34m[*][0m Nmap: |     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[1m[34m[*][0m Nmap: |     <HTML><HEAD>
+[1m[34m[*][0m Nmap: |     <TITLE>400 Bad Request</TITLE>
+[1m[34m[*][0m Nmap: |     </HEAD><BODY>
+[1m[34m[*][0m Nmap: |     <H1>Bad Request</H1>
+[1m[34m[*][0m Nmap: |     Your browser sent a request that this server could not understand.<P>
+[1m[34m[*][0m Nmap: |     </BODY></HTML>
+[1m[34m[*][0m Nmap: |   GetRequest:
+[1m[34m[*][0m Nmap: |     HTTP/1.0 400 Bad Request
+[1m[34m[*][0m Nmap: |     Date: Mon, 08 Sep 2025 07:28:30 GMT
+[1m[34m[*][0m Nmap: |     Connection: close
+[1m[34m[*][0m Nmap: |     Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |     X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |     Content-Security-Policy: frame-ancestors 'self'; object-src 'self'; script-src 'self' https: 'unsafe-eval' 'unsafe-inline' blob:;
+[1m[34m[*][0m Nmap: |     X-XSS-Protection: 1; mode=block
+[1m[34m[*][0m Nmap: |     X-Content-Type-Options: nosniff
+[1m[34m[*][0m Nmap: |     Strict-Transport-Security: max-age=31536000
+[1m[34m[*][0m Nmap: |     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[1m[34m[*][0m Nmap: |     <HTML><HEAD>
+[1m[34m[*][0m Nmap: |     <TITLE>400 Bad Request</TITLE>
+[1m[34m[*][0m Nmap: |     </HEAD><BODY>
+[1m[34m[*][0m Nmap: |     <H1>Bad Request</H1>
+[1m[34m[*][0m Nmap: |     Your browser sent a request that this server could not understand.<P>
+[1m[34m[*][0m Nmap: |     </BODY></HTML>
+[1m[34m[*][0m Nmap: |   HTTPOptions:
+[1m[34m[*][0m Nmap: |     HTTP/1.0 405 Method Not Allowed
+[1m[34m[*][0m Nmap: |     Date: Mon, 08 Sep 2025 07:28:31 GMT
+[1m[34m[*][0m Nmap: |     Allow:
+[1m[34m[*][0m Nmap: |     Connection: close
+[1m[34m[*][0m Nmap: |     Content-Type: text/html; charset=utf-8
+[1m[34m[*][0m Nmap: |     X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |     Content-Security-Policy: frame-ancestors 'self'; object-src 'self'; script-src 'self' https: 'unsafe-eval' 'unsafe-inline' blob:;
+[1m[34m[*][0m Nmap: |     X-XSS-Protection: 1; mode=block
+[1m[34m[*][0m Nmap: |     X-Content-Type-Options: nosniff
+[1m[34m[*][0m Nmap: |     Strict-Transport-Security: max-age=31536000
+[1m[34m[*][0m Nmap: |     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[1m[34m[*][0m Nmap: |     <HTML><HEAD>
+[1m[34m[*][0m Nmap: |     <TITLE>405 Method Not Allowed</TITLE>
+[1m[34m[*][0m Nmap: |     </HEAD><BODY>
+[1m[34m[*][0m Nmap: |     <H1>Method Not Allowed</H1>
+[1m[34m[*][0m Nmap: |     requested method OPTIONS is not allowed for the URL /.<P>
+[1m[34m[*][0m Nmap: |_    </BODY></HTML>
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: 1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+[1m[34m[*][0m Nmap: SF-Port443-TCP:V=7.95%T=SSL%I=7%D=9/8%Time=68BE859E%P=x86_64-pc-linux-gnu%
+[1m[34m[*][0m Nmap: SF:r(GetRequest,263,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nDate:\x20Mon,\x
+[1m[34m[*][0m Nmap: SF:2008\x20Sep\x202025\x2007:28:30\x20GMT\r\nConnection:\x20close\r\nConte
+[1m[34m[*][0m Nmap: SF:nt-Type:\x20text/html;\x20charset=utf-8\r\nX-Frame-Options:\x20SAMEORIG
+[1m[34m[*][0m Nmap: SF:IN\r\nContent-Security-Policy:\x20frame-ancestors\x20'self';\x20object-
+[1m[34m[*][0m Nmap: SF:src\x20'self';\x20script-src\x20'self'\x20https:\x20\x20'unsafe-eval'\x
+[1m[34m[*][0m Nmap: SF:20'unsafe-inline'\x20blob:;\r\nX-XSS-Protection:\x201;\x20mode=block\r\
+[1m[34m[*][0m Nmap: SF:nX-Content-Type-Options:\x20nosniff\r\nStrict-Transport-Security:\x20ma
+[1m[34m[*][0m Nmap: SF:x-age=31536000\r\n\r\n<!DOCTYPE\x20HTML\x20PUBLIC\x20\"-//IETF//DTD\x20
+[1m[34m[*][0m Nmap: SF:HTML\x202\.0//EN\">\n<HTML><HEAD>\n<TITLE>400\x20Bad\x20Request</TITLE>
+[1m[34m[*][0m Nmap: SF:\n</HEAD><BODY>\n<H1>Bad\x20Request</H1>\nYour\x20browser\x20sent\x20a\
+[1m[34m[*][0m Nmap: SF:x20request\x20that\x20this\x20server\x20could\x20not\x20understand\.<P>
+[1m[34m[*][0m Nmap: SF:\n</BODY></HTML>\n")%r(HTTPOptions,279,"HTTP/1\.0\x20405\x20Method\x20N
+[1m[34m[*][0m Nmap: SF:ot\x20Allowed\r\nDate:\x20Mon,\x2008\x20Sep\x202025\x2007:28:31\x20GMT\
+[1m[34m[*][0m Nmap: SF:r\nAllow:\x20\r\nConnection:\x20close\r\nContent-Type:\x20text/html;\x2
+[1m[34m[*][0m Nmap: SF:0charset=utf-8\r\nX-Frame-Options:\x20SAMEORIGIN\r\nContent-Security-Po
+[1m[34m[*][0m Nmap: SF:licy:\x20frame-ancestors\x20'self';\x20object-src\x20'self';\x20script-
+[1m[34m[*][0m Nmap: SF:src\x20'self'\x20https:\x20\x20'unsafe-eval'\x20'unsafe-inline'\x20blob
+[1m[34m[*][0m Nmap: SF::;\r\nX-XSS-Protection:\x201;\x20mode=block\r\nX-Content-Type-Options:\
+[1m[34m[*][0m Nmap: SF:x20nosniff\r\nStrict-Transport-Security:\x20max-age=31536000\r\n\r\n<!D
+[1m[34m[*][0m Nmap: SF:OCTYPE\x20HTML\x20PUBLIC\x20\"-//IETF//DTD\x20HTML\x202\.0//EN\">\n<HTM
+[1m[34m[*][0m Nmap: SF:L><HEAD>\n<TITLE>405\x20Method\x20Not\x20Allowed</TITLE>\n</HEAD><BODY>
+[1m[34m[*][0m Nmap: SF:\n<H1>Method\x20Not\x20Allowed</H1>\nThe\x20requested\x20method\x20OPTI
+[1m[34m[*][0m Nmap: SF:ONS\x20is\x20not\x20allowed\x20for\x20the\x20URL\x20/\.<P>\n</BODY></HT
+[1m[34m[*][0m Nmap: SF:ML>\n")%r(FourOhFourRequest,263,"HTTP/1\.0\x20400\x20Bad\x20Request\r\n
+[1m[34m[*][0m Nmap: SF:Date:\x20Mon,\x2008\x20Sep\x202025\x2007:28:33\x20GMT\r\nConnection:\x2
+[1m[34m[*][0m Nmap: SF:0close\r\nContent-Type:\x20text/html;\x20charset=utf-8\r\nX-Frame-Optio
+[1m[34m[*][0m Nmap: SF:ns:\x20SAMEORIGIN\r\nContent-Security-Policy:\x20frame-ancestors\x20'se
+[1m[34m[*][0m Nmap: SF:lf';\x20object-src\x20'self';\x20script-src\x20'self'\x20https:\x20\x20
+[1m[34m[*][0m Nmap: SF:'unsafe-eval'\x20'unsafe-inline'\x20blob:;\r\nX-XSS-Protection:\x201;\x
+[1m[34m[*][0m Nmap: SF:20mode=block\r\nX-Content-Type-Options:\x20nosniff\r\nStrict-Transport-
+[1m[34m[*][0m Nmap: SF:Security:\x20max-age=31536000\r\n\r\n<!DOCTYPE\x20HTML\x20PUBLIC\x20\"-
+[1m[34m[*][0m Nmap: SF://IETF//DTD\x20HTML\x202\.0//EN\">\n<HTML><HEAD>\n<TITLE>400\x20Bad\x20
+[1m[34m[*][0m Nmap: SF:Request</TITLE>\n</HEAD><BODY>\n<H1>Bad\x20Request</H1>\nYour\x20browse
+[1m[34m[*][0m Nmap: SF:r\x20sent\x20a\x20request\x20that\x20this\x20server\x20could\x20not\x20
+[1m[34m[*][0m Nmap: SF:understand\.<P>\n</BODY></HTML>\n");
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: printer|security-misc
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Cognitive embedded (89%), Fortinet FortiOS 6.X|7.X (88%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:fortinet:fortios:6 cpe:/o:fortinet:fortios:7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Cognitive CXI thermal printer (89%), Fortinet FortiOS 6.2 - 7.2 (88%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.25
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   open     ftp           FileZilla ftpd 0.9.60 beta
+[1m[34m[*][0m Nmap: | ftp-syst:
+[1m[34m[*][0m Nmap: |_  SYST: UNIX emulated by FileZilla
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  open     ssl/http      Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: | tls-alpn:
+[1m[34m[*][0m Nmap: |_  http/1.1
+[1m[34m[*][0m Nmap: |_ssl-date: TLS randomness does not represent time
+[1m[34m[*][0m Nmap: | ssl-cert: Subject: commonName=*.org-domain3.com
+[1m[34m[*][0m Nmap: | Subject Alternative Name: DNS:*.org-domain3.com, DNS:org-domain3.com
+[1m[34m[*][0m Nmap: | Not valid before: 2025-06-01T07:30:59
+[1m[34m[*][0m Nmap: |_Not valid after:  2026-02-16T13:16:27
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: |_http-server-header: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+[1m[34m[*][0m Nmap: No OS matches for host
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.27
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   open     tcpwrapped
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Aggressive OS guesses: HP 2530, 2920, or 5406zl switch (97%), HP E3500yl or ProCurve 5406zl switch (97%), HP ProCurve 3500yl switch (97%), HP ProCurve 3500yl, 5412zl, or 8212zl switch (97%), HP 2920 or 3800 switch (96%), HP ProCurve 5406zl switch (96%), HP ProCurve 5412zl switch (96%), HPE Aruba 5412r switch (96%), HP ProCurve 2520, 2915, 3500yl, or 5400zl-series switch (95%), HP ProCurve 2910al switch (95%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Network Distance: 16 hops
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.34
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running: Microsoft Windows 2008
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2008:r2:sp1
+[1m[34m[*][0m Nmap: OS details: Microsoft Windows Server 2008 R2 SP1
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.59
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE       VERSION
+[1m[34m[*][0m Nmap: 21/tcp   filtered ftp
+[1m[34m[*][0m Nmap: 22/tcp   filtered ssh
+[1m[34m[*][0m Nmap: 23/tcp   filtered telnet
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 53/tcp   filtered domain
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 110/tcp  filtered pop3
+[1m[34m[*][0m Nmap: 111/tcp  filtered rpcbind
+[1m[34m[*][0m Nmap: 135/tcp  filtered msrpc
+[1m[34m[*][0m Nmap: 139/tcp  filtered netbios-ssn
+[1m[34m[*][0m Nmap: 143/tcp  filtered imap
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 993/tcp  filtered imaps
+[1m[34m[*][0m Nmap: 995/tcp  filtered pop3s
+[1m[34m[*][0m Nmap: 1723/tcp filtered pptp
+[1m[34m[*][0m Nmap: 3306/tcp filtered mysql
+[1m[34m[*][0m Nmap: 3389/tcp filtered ms-wbt-server
+[1m[34m[*][0m Nmap: 5900/tcp filtered vnc
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running: Microsoft Windows 2008
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2008:r2:sp1
+[1m[34m[*][0m Nmap: OS details: Microsoft Windows Server 2008 R2 SP1
+[1m[34m[*][0m Nmap: OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+[1m[34m[*][0m Nmap: Nmap done: 62 IP addresses (6 hosts up) scanned in 96.81 seconds
+[0m

@@ -1,0 +1,2018 @@
+# Traceroute Results
+
+===== 10.90.242.1 =====
+traceroute to 10.90.242.1 (10.90.242.1), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.341 ms  131.339 ms  131.336 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.785 ms  131.927 ms  131.982 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.613 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  131.711 ms  131.721 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.000 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  197.379 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.029 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.806 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  197.606 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.222 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.687 ms  198.131 ms  197.642 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  197.605 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  197.951 ms  198.372 ms
+ 9  10.14.80.58 (10.14.80.58)  199.838 ms  199.896 ms  200.070 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  266.686 ms 10.143.12.157 (10.143.12.157)  260.655 ms 10.143.12.20 (10.143.12.20)  266.674 ms
+12  10.143.203.8 (10.143.203.8)  264.365 ms 10.143.203.25 (10.143.203.25)  261.220 ms  260.447 ms
+13  10.143.12.13 (10.143.12.13)  259.237 ms  264.888 ms  258.740 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  260.568 ms 10.143.7.172 (10.143.7.172)  261.618 ms 10.143.7.131 (10.143.7.131)  267.745 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.296 ms * *
+
+===== 10.90.242.2 =====
+traceroute to 10.90.242.2 (10.90.242.2), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.698 ms  130.712 ms  130.712 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.850 ms  131.853 ms  132.576 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.177 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.538 ms  132.541 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.806 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.809 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.642 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.178 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  197.455 ms  198.150 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.124 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.093 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.070 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.029 ms  198.074 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.685 ms
+ 9  10.14.80.58 (10.14.80.58)  202.119 ms  202.410 ms  202.795 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.186 ms 10.143.12.20 (10.143.12.20)  265.501 ms 10.143.12.157 (10.143.12.157)  259.615 ms
+12  10.143.203.25 (10.143.203.25)  260.401 ms  266.276 ms 10.143.203.8 (10.143.203.8)  257.922 ms
+13  10.143.12.13 (10.143.12.13)  265.188 ms  258.168 ms  259.762 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  266.065 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  266.751 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  266.080 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  263.618 ms  264.304 ms  269.890 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.3 =====
+traceroute to 10.90.242.3 (10.90.242.3), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.923 ms  130.928 ms  131.216 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.599 ms  131.632 ms  132.174 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.152 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.135 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.143 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.832 ms  132.817 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.701 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.533 ms  197.675 ms  197.628 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.778 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  197.538 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.769 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.186 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.448 ms  199.614 ms
+ 9  10.14.80.58 (10.14.80.58)  209.205 ms  209.833 ms  210.032 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  265.157 ms 10.143.12.157 (10.143.12.157)  260.009 ms  259.116 ms
+12  10.143.203.25 (10.143.203.25)  266.105 ms 10.143.203.8 (10.143.203.8)  257.909 ms  264.082 ms
+13  10.143.12.13 (10.143.12.13)  259.098 ms  258.606 ms  264.614 ms
+14  10.143.7.131 (10.143.7.131)  261.048 ms  260.248 ms  261.299 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.176 ms  263.508 ms  262.926 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.4 =====
+traceroute to 10.90.242.4 (10.90.242.4), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.881 ms  130.880 ms  132.016 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.557 ms  132.753 ms  132.750 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.730 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.453 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.781 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  193.691 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.456 ms  133.455 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.967 ms  198.112 ms  198.205 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.648 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  197.441 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.918 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  197.970 ms  197.987 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  197.492 ms
+ 9  10.14.80.58 (10.14.80.58)  200.755 ms  200.767 ms  200.765 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.725 ms  258.731 ms  258.862 ms
+12  10.143.203.25 (10.143.203.25)  260.248 ms 10.143.203.8 (10.143.203.8)  263.652 ms 10.143.203.25 (10.143.203.25)  262.635 ms
+13  10.143.12.43 (10.143.12.43)  258.682 ms 10.143.12.13 (10.143.12.13)  264.955 ms 10.143.12.43 (10.143.12.43)  258.139 ms
+14  10.143.7.174 (10.143.7.174)  265.114 ms  260.828 ms 10.143.7.172 (10.143.7.172)  267.035 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.098 ms  263.872 ms  264.251 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.5 =====
+traceroute to 10.90.242.5 (10.90.242.5), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.509 ms  132.514 ms  132.641 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  133.596 ms  133.746 ms  133.764 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  133.407 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.742 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  133.546 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.886 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  134.030 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  134.967 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.287 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  197.715 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  197.994 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.000 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.763 ms  197.913 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  197.576 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.000 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  197.725 ms
+ 9  10.14.80.58 (10.14.80.58)  200.306 ms  200.974 ms  200.654 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  266.278 ms 10.143.12.157 (10.143.12.157)  259.405 ms 10.143.12.20 (10.143.12.20)  266.088 ms
+12  10.143.203.25 (10.143.203.25)  260.707 ms  266.334 ms  266.306 ms
+13  10.143.12.43 (10.143.12.43)  265.855 ms  265.468 ms 10.143.12.13 (10.143.12.13)  258.718 ms
+14  10.143.7.131 (10.143.7.131)  266.775 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  259.609 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  266.081 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  262.410 ms  270.318 ms  264.728 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.6 =====
+traceroute to 10.90.242.6 (10.90.242.6), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.160 ms  132.155 ms  132.153 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.643 ms  132.654 ms  132.755 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.625 ms  132.622 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.672 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.317 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.233 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  133.011 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.732 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.352 ms  199.344 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.342 ms  199.050 ms  199.010 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.717 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.027 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.769 ms
+ 9  10.14.80.58 (10.14.80.58)  202.855 ms  201.845 ms  202.810 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  1180.525 ms 10.143.12.20 (10.143.12.20)  1187.401 ms  1187.563 ms
+12  10.143.203.8 (10.143.203.8)  1186.323 ms 10.143.203.25 (10.143.203.25)  1181.630 ms  1188.620 ms
+13  10.143.12.43 (10.143.12.43)  1181.114 ms  1179.598 ms  1186.849 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  1187.488 ms 10.143.7.172 (10.143.7.172)  268.825 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  261.495 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  283.585 ms  283.695 ms  283.542 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.7 =====
+traceroute to 10.90.242.7 (10.90.242.7), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.426 ms  131.439 ms  131.438 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.738 ms  132.926 ms  133.057 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.357 ms  132.490 ms  132.702 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.486 ms  133.020 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.667 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.227 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.124 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.578 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  200.008 ms  199.089 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.687 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.659 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.870 ms  199.894 ms
+ 9  10.14.80.58 (10.14.80.58)  318.939 ms  319.058 ms  319.657 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  268.182 ms 10.143.12.157 (10.143.12.157)  260.987 ms  262.042 ms
+12  10.143.203.25 (10.143.203.25)  268.409 ms  261.522 ms 10.143.203.8 (10.143.203.8)  266.301 ms
+13  10.143.12.13 (10.143.12.13)  267.211 ms  260.843 ms 10.143.12.43 (10.143.12.43)  266.374 ms
+14  10.143.7.131 (10.143.7.131)  262.109 ms 10.143.7.172 (10.143.7.172)  270.130 ms 10.143.7.131 (10.143.7.131)  268.716 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  271.206 ms  264.733 ms  271.298 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.8 =====
+traceroute to 10.90.242.8 (10.90.242.8), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.400 ms  131.397 ms  131.395 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.631 ms  132.763 ms  132.960 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.766 ms  132.920 ms  132.939 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.914 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.064 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.794 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.884 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.512 ms  199.575 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.576 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  199.063 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.576 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.845 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.556 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.926 ms
+ 9  10.14.80.58 (10.14.80.58)  201.870 ms  202.187 ms  202.452 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  267.972 ms 10.143.12.157 (10.143.12.157)  261.098 ms  261.843 ms
+12  10.143.203.25 (10.143.203.25)  262.273 ms  261.771 ms  262.090 ms
+13  10.143.12.13 (10.143.12.13)  260.045 ms  259.928 ms  268.222 ms
+14  10.143.7.131 (10.143.7.131)  269.609 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  262.231 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  260.239 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  271.487 ms  266.174 ms  264.017 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.9 =====
+traceroute to 10.90.242.9 (10.90.242.9), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.365 ms  131.456 ms  131.458 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  133.596 ms  133.597 ms  133.610 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.454 ms  132.599 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.318 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.590 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.553 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.550 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.623 ms  199.315 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.663 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.776 ms  199.058 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  259.383 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  200.393 ms  200.435 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.781 ms
+ 9  10.14.80.58 (10.14.80.58)  202.811 ms  203.207 ms  203.568 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  267.459 ms 10.143.12.157 (10.143.12.157)  261.082 ms 10.143.12.20 (10.143.12.20)  266.965 ms
+12  10.143.203.8 (10.143.203.8)  260.548 ms 10.143.203.25 (10.143.203.25)  268.295 ms  261.765 ms
+13  10.143.12.43 (10.143.12.43)  261.297 ms  267.766 ms 10.143.12.13 (10.143.12.13)  260.365 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  267.442 ms 10.143.7.174 (10.143.7.174)  260.741 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  260.050 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  266.685 ms  265.414 ms  266.338 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.10 =====
+traceroute to 10.90.242.10 (10.90.242.10), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.746 ms  130.747 ms  131.279 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.170 ms  132.336 ms  132.334 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.309 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.513 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.487 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.315 ms  132.964 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.922 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.098 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.749 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.493 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  199.011 ms  198.522 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.124 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.904 ms  199.078 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.859 ms
+ 9  10.14.80.58 (10.14.80.58)  202.496 ms  202.473 ms  202.820 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.489 ms 10.143.12.20 (10.143.12.20)  267.688 ms 10.143.12.157 (10.143.12.157)  260.591 ms
+12  10.143.203.8 (10.143.203.8)  265.317 ms 10.143.203.25 (10.143.203.25)  261.823 ms  261.895 ms
+13  10.143.12.13 (10.143.12.13)  259.568 ms  260.867 ms  266.645 ms
+14  edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  260.657 ms 10.143.7.172 (10.143.7.172)  261.957 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  269.141 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.393 ms  264.629 ms  270.923 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.11 =====
+traceroute to 10.90.242.11 (10.90.242.11), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.250 ms  131.247 ms  131.246 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.043 ms  132.042 ms  132.135 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.438 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.624 ms  132.622 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.401 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  133.158 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.429 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.877 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.490 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.894 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.663 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.637 ms  198.469 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.407 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.879 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.066 ms
+ 9  10.14.80.58 (10.14.80.58)  201.179 ms  202.404 ms  202.365 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.858 ms  261.062 ms  261.295 ms
+12  10.143.203.8 (10.143.203.8)  264.887 ms 10.143.203.25 (10.143.203.25)  267.195 ms 10.143.203.8 (10.143.203.8)  259.624 ms
+13  10.143.12.43 (10.143.12.43)  259.479 ms  266.807 ms  260.275 ms
+14  10.143.7.131 (10.143.7.131)  268.824 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  261.809 ms  260.614 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.486 ms  265.022 ms  269.720 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.12 =====
+traceroute to 10.90.242.12 (10.90.242.12), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.185 ms  131.188 ms  131.185 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.530 ms  132.526 ms  132.519 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.463 ms  132.551 ms  132.549 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.233 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.520 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.519 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.796 ms  198.917 ms  198.876 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.655 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.592 ms  198.782 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.547 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.265 ms  198.922 ms
+ 9  10.14.80.58 (10.14.80.58)  202.264 ms  201.581 ms  201.789 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  266.912 ms 10.143.12.157 (10.143.12.157)  261.167 ms  260.127 ms
+12  10.143.203.8 (10.143.203.8)  265.237 ms 10.143.203.25 (10.143.203.25)  268.899 ms  267.857 ms
+13  10.143.12.43 (10.143.12.43)  260.204 ms 10.143.12.13 (10.143.12.13)  267.674 ms  268.370 ms
+14  10.143.7.174 (10.143.7.174)  280.214 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  268.360 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  261.945 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.731 ms  265.148 ms  272.179 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.13 =====
+traceroute to 10.90.242.13 (10.90.242.13), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.495 ms  132.488 ms  132.487 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.834 ms  133.102 ms  133.113 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.700 ms  132.791 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.125 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  134.380 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  133.497 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.737 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.747 ms  198.148 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.733 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.455 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.137 ms  198.650 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.160 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.907 ms  198.917 ms
+ 9  10.14.80.58 (10.14.80.58)  201.195 ms  201.821 ms  201.413 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  261.015 ms 10.143.12.20 (10.143.12.20)  267.488 ms  266.634 ms
+12  10.143.203.8 (10.143.203.8)  265.592 ms 10.143.203.25 (10.143.203.25)  261.695 ms  267.349 ms
+13  10.143.12.13 (10.143.12.13)  260.179 ms 10.143.12.43 (10.143.12.43)  259.754 ms 10.143.12.13 (10.143.12.13)  258.907 ms
+14  10.143.7.174 (10.143.7.174)  266.152 ms 10.143.7.131 (10.143.7.131)  268.732 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  261.301 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.466 ms  264.731 ms  271.058 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.14 =====
+traceroute to 10.90.242.14 (10.90.242.14), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.803 ms  131.413 ms  131.468 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.212 ms  132.331 ms  132.391 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.180 ms  132.296 ms  132.303 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.346 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.996 ms  132.982 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.853 ms  198.380 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.771 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.844 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.338 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.910 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.925 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.115 ms  198.690 ms
+ 9  10.14.80.58 (10.14.80.58)  280.976 ms  280.682 ms  280.710 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.096 ms  260.725 ms 10.143.12.20 (10.143.12.20)  267.067 ms
+12  10.143.203.8 (10.143.203.8)  259.601 ms  265.826 ms  259.198 ms
+13  10.143.12.13 (10.143.12.13)  265.745 ms 10.143.12.43 (10.143.12.43)  260.084 ms  275.012 ms
+14  10.143.7.174 (10.143.7.174)  274.792 ms  260.588 ms 10.143.7.172 (10.143.7.172)  262.145 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  271.180 ms  263.998 ms  263.487 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.15 =====
+traceroute to 10.90.242.15 (10.90.242.15), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.752 ms  131.745 ms  131.741 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  133.184 ms  133.184 ms  133.593 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.015 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.235 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.069 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.141 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.415 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.129 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.649 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.612 ms  198.511 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.575 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.980 ms  198.937 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.514 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.299 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.093 ms
+ 9  10.14.80.58 (10.14.80.58)  201.254 ms  201.544 ms  200.934 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  1067.556 ms 10.143.12.20 (10.143.12.20)  1073.978 ms 10.143.12.157 (10.143.12.157)  1067.513 ms
+12  10.143.203.25 (10.143.203.25)  1074.095 ms  1074.198 ms  1067.868 ms
+13  10.143.12.43 (10.143.12.43)  1073.920 ms  1072.235 ms  1067.811 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  1067.256 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  260.551 ms 10.143.7.131 (10.143.7.131)  262.355 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.278 ms  269.959 ms  266.192 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.16 =====
+traceroute to 10.90.242.16 (10.90.242.16), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.638 ms  130.714 ms  131.066 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.990 ms  132.991 ms  132.989 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.740 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  133.832 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.732 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.962 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.099 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.491 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.381 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.609 ms  198.648 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.299 ms  198.634 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.780 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.143 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.996 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.825 ms
+ 9  10.14.80.58 (10.14.80.58)  201.076 ms  201.394 ms  201.678 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.652 ms  261.178 ms 10.143.12.20 (10.143.12.20)  267.114 ms
+12  10.143.203.25 (10.143.203.25)  267.066 ms  267.542 ms 10.143.203.8 (10.143.203.8)  258.960 ms
+13  10.143.12.43 (10.143.12.43)  259.828 ms  258.624 ms 10.143.12.13 (10.143.12.13)  259.745 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.378 ms  267.650 ms  261.308 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  271.001 ms  264.256 ms  270.597 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.17 =====
+traceroute to 10.90.242.17 (10.90.242.17), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.710 ms  131.714 ms  131.711 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.297 ms  132.295 ms  132.533 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.152 ms  132.203 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.327 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.129 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.651 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.706 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.911 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.799 ms  198.640 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  202.579 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.594 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  202.533 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.829 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.794 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.783 ms
+ 9  10.14.80.58 (10.14.80.58)  200.585 ms  200.380 ms  200.165 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  267.214 ms  267.068 ms 10.143.12.157 (10.143.12.157)  259.865 ms
+12  10.143.203.8 (10.143.203.8)  264.694 ms 10.143.203.25 (10.143.203.25)  261.348 ms 10.143.203.8 (10.143.203.8)  264.954 ms
+13  10.143.12.43 (10.143.12.43)  259.480 ms 10.143.12.13 (10.143.12.13)  265.690 ms 10.143.12.43 (10.143.12.43)  266.789 ms
+14  edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  266.014 ms 10.143.7.172 (10.143.7.172)  263.116 ms 10.143.7.131 (10.143.7.131)  260.895 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.862 ms  270.840 ms  264.461 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.18 =====
+traceroute to 10.90.242.18 (10.90.242.18), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.012 ms  131.023 ms  131.016 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.619 ms  132.757 ms  132.921 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  135.688 ms  135.830 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.076 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.514 ms  133.510 ms  133.198 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.417 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.569 ms  198.508 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.874 ms  198.989 ms  198.823 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.991 ms  198.326 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.103 ms
+ 9  10.14.80.58 (10.14.80.58)  201.010 ms  201.143 ms  201.388 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  265.976 ms 10.143.12.157 (10.143.12.157)  260.797 ms  259.633 ms
+12  10.143.203.8 (10.143.203.8)  259.398 ms  269.655 ms  269.048 ms
+13  10.143.12.13 (10.143.12.13)  260.544 ms  259.590 ms  259.254 ms
+14  10.143.7.174 (10.143.7.174)  261.562 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  265.893 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  266.597 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.561 ms  270.022 ms  269.803 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.19 =====
+traceroute to 10.90.242.19 (10.90.242.19), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.431 ms  132.437 ms  132.439 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.605 ms  132.656 ms  132.817 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.548 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.623 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.801 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.578 ms  133.578 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.051 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.541 ms  198.075 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.569 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.391 ms  198.255 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.507 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.206 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.572 ms  198.804 ms
+ 9  10.14.80.58 (10.14.80.58)  203.347 ms  201.372 ms  203.315 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.026 ms 10.143.12.20 (10.143.12.20)  266.642 ms  266.611 ms
+12  10.143.203.25 (10.143.203.25)  260.912 ms 10.143.203.8 (10.143.203.8)  265.014 ms  259.585 ms
+13  10.143.12.13 (10.143.12.13)  259.696 ms  265.526 ms  258.915 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  260.085 ms  261.042 ms 10.143.7.174 (10.143.7.174)  261.298 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.352 ms  264.233 ms  270.243 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.20 =====
+traceroute to 10.90.242.20 (10.90.242.20), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.815 ms  130.815 ms  130.852 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.213 ms  132.364 ms  132.515 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.030 ms  132.180 ms  132.329 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.854 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.214 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.825 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.605 ms  198.677 ms  198.647 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.769 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  199.188 ms  198.987 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.143 ms  199.427 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.104 ms
+ 9  10.14.80.58 (10.14.80.58)  201.770 ms  201.784 ms  202.051 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  266.441 ms 10.143.12.157 (10.143.12.157)  259.674 ms  260.124 ms
+12  10.143.203.8 (10.143.203.8)  258.191 ms 10.143.203.25 (10.143.203.25)  260.445 ms 10.143.203.8 (10.143.203.8)  258.392 ms
+13  10.143.12.43 (10.143.12.43)  260.329 ms  265.960 ms 10.143.12.13 (10.143.12.13)  259.570 ms
+14  edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  261.947 ms 10.143.7.131 (10.143.7.131)  266.498 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  267.200 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  263.452 ms  264.003 ms  263.962 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.21 =====
+traceroute to 10.90.242.21 (10.90.242.21), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.399 ms  130.883 ms  130.886 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.422 ms  132.472 ms  132.472 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.550 ms  132.550 ms  132.548 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.212 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.193 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.753 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.700 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.001 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.635 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.490 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  200.741 ms  198.577 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.702 ms  198.670 ms  199.070 ms
+ 9  10.14.80.58 (10.14.80.58)  201.771 ms  200.654 ms  200.829 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.388 ms  260.231 ms 10.143.12.20 (10.143.12.20)  266.397 ms
+12  10.143.203.25 (10.143.203.25)  266.999 ms  266.528 ms  261.379 ms
+13  10.143.12.43 (10.143.12.43)  260.716 ms 10.143.12.13 (10.143.12.13)  259.279 ms  260.133 ms
+14  10.143.7.172 (10.143.7.172)  260.447 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  260.321 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  260.712 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  269.448 ms  264.472 ms  262.857 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.22 =====
+traceroute to 10.90.242.22 (10.90.242.22), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.172 ms  131.171 ms  131.170 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.677 ms  131.734 ms  131.790 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.200 ms  132.262 ms  132.295 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.873 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.710 ms  132.861 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.621 ms  198.350 ms  198.367 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.673 ms  198.657 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.353 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  197.933 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.696 ms  198.602 ms
+ 9  10.14.80.58 (10.14.80.58)  201.720 ms  200.808 ms  200.773 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.123 ms  260.109 ms  260.288 ms
+12  10.143.203.8 (10.143.203.8)  259.331 ms 10.143.203.25 (10.143.203.25)  260.236 ms  267.088 ms
+13  10.143.12.43 (10.143.12.43)  259.086 ms  260.106 ms 10.143.12.13 (10.143.12.13)  259.381 ms
+14  10.143.7.174 (10.143.7.174)  266.709 ms 10.143.7.131 (10.143.7.131)  267.821 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.051 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  271.002 ms  270.013 ms  270.795 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.23 =====
+traceroute to 10.90.242.23 (10.90.242.23), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.131 ms  131.142 ms  131.142 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.740 ms  131.766 ms  131.887 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.456 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  131.721 ms  131.722 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.268 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.008 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.309 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.553 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  197.757 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  197.639 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  197.775 ms  197.754 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.612 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.611 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.606 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.893 ms
+ 9  10.14.80.58 (10.14.80.58)  200.954 ms  201.209 ms  201.597 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  265.733 ms 10.143.12.157 (10.143.12.157)  260.856 ms 10.143.12.20 (10.143.12.20)  266.617 ms
+12  10.143.203.8 (10.143.203.8)  259.200 ms 10.143.203.25 (10.143.203.25)  261.767 ms 10.143.203.8 (10.143.203.8)  259.036 ms
+13  10.143.12.13 (10.143.12.13)  266.167 ms 10.143.12.43 (10.143.12.43)  266.538 ms 10.143.12.13 (10.143.12.13)  265.740 ms
+14  10.143.7.174 (10.143.7.174)  266.911 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  260.476 ms 10.143.7.172 (10.143.7.172)  261.561 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  263.770 ms  263.405 ms  263.627 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.24 =====
+traceroute to 10.90.242.24 (10.90.242.24), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.894 ms  130.903 ms  130.900 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.759 ms  131.867 ms  131.929 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.230 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.907 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.706 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.116 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.050 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.464 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.695 ms  198.122 ms  198.201 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.051 ms  198.423 ms  198.329 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.213 ms  198.956 ms  198.991 ms
+ 9  10.14.80.58 (10.14.80.58)  201.294 ms  201.479 ms  202.010 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  266.329 ms 10.143.12.157 (10.143.12.157)  260.749 ms 10.143.12.20 (10.143.12.20)  266.294 ms
+12  10.143.203.25 (10.143.203.25)  261.870 ms  260.962 ms  260.653 ms
+13  10.143.12.43 (10.143.12.43)  259.058 ms  266.026 ms 10.143.12.13 (10.143.12.13)  265.751 ms
+14  10.143.7.131 (10.143.7.131)  260.871 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  266.034 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  260.632 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  269.823 ms  264.499 ms  270.109 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.25 =====
+traceroute to 10.90.242.25 (10.90.242.25), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.673 ms  130.672 ms  130.669 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.416 ms  131.997 ms  132.088 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.064 ms  132.067 ms  132.149 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.003 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.986 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.657 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.680 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.306 ms  198.226 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.767 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.486 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.240 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.913 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.723 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.124 ms
+ 9  10.14.80.58 (10.14.80.58)  200.286 ms  201.305 ms  201.522 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.163 ms  260.387 ms 10.143.12.20 (10.143.12.20)  266.022 ms
+12  10.143.203.8 (10.143.203.8)  259.224 ms 10.143.203.25 (10.143.203.25)  260.974 ms  260.270 ms
+13  10.143.12.43 (10.143.12.43)  259.293 ms 10.143.12.13 (10.143.12.13)  265.967 ms 10.143.12.43 (10.143.12.43)  265.282 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  263.020 ms 10.143.7.174 (10.143.7.174)  265.877 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  259.134 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  263.548 ms  264.901 ms  270.549 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.26 =====
+traceroute to 10.90.242.26 (10.90.242.26), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.399 ms  131.389 ms  131.387 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.956 ms  132.024 ms  132.133 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.709 ms  132.819 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.778 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.514 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  164.091 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.793 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.876 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  197.577 ms  197.834 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.798 ms  197.827 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  199.027 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.120 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.983 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.604 ms
+ 9  10.14.80.58 (10.14.80.58)  201.215 ms  201.529 ms  201.751 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.566 ms 10.143.12.20 (10.143.12.20)  266.215 ms 10.143.12.157 (10.143.12.157)  259.559 ms
+12  10.143.203.8 (10.143.203.8)  265.300 ms 10.143.203.25 (10.143.203.25)  261.133 ms 10.143.203.8 (10.143.203.8)  265.146 ms
+13  10.143.12.43 (10.143.12.43)  259.590 ms 10.143.12.13 (10.143.12.13)  264.863 ms  259.679 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  260.829 ms 10.143.7.174 (10.143.7.174)  268.311 ms 10.143.7.131 (10.143.7.131)  268.897 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  263.541 ms  269.836 ms  264.336 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.27 =====
+traceroute to 10.90.242.27 (10.90.242.27), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.214 ms  131.214 ms  131.212 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.712 ms  131.719 ms  131.842 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  131.696 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  133.840 ms  133.961 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.203 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  131.853 ms  132.511 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.141 ms  198.422 ms  197.488 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.451 ms  198.233 ms  198.231 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.445 ms  198.464 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.985 ms
+ 9  10.14.80.58 (10.14.80.58)  200.147 ms  200.259 ms  200.528 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.125 ms  259.267 ms 10.143.12.20 (10.143.12.20)  265.710 ms
+12  10.143.203.8 (10.143.203.8)  258.448 ms 10.143.203.25 (10.143.203.25)  266.908 ms  267.081 ms
+13  10.143.12.13 (10.143.12.13)  258.895 ms  265.243 ms 10.143.12.43 (10.143.12.43)  259.222 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  267.287 ms 10.143.7.172 (10.143.7.172)  263.107 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  267.364 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  262.944 ms  269.085 ms  269.972 ms
+16  10.90.242.27 (10.90.242.27)  264.178 ms  270.983 ms  264.200 ms
+
+===== 10.90.242.28 =====
+traceroute to 10.90.242.28 (10.90.242.28), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.859 ms  131.860 ms  131.857 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.914 ms  132.011 ms  132.031 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.524 ms  132.525 ms  132.521 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.245 ms  133.273 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.395 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.260 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  197.512 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.021 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  197.834 ms  197.983 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.211 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  197.923 ms  198.230 ms  198.400 ms
+ 9  10.14.80.58 (10.14.80.58)  199.964 ms  200.227 ms  201.301 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.249 ms  260.104 ms  259.187 ms
+12  10.143.203.25 (10.143.203.25)  265.925 ms 10.143.203.8 (10.143.203.8)  257.776 ms  258.923 ms
+13  10.143.12.13 (10.143.12.13)  257.485 ms  264.176 ms  258.237 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  259.959 ms 10.143.7.131 (10.143.7.131)  261.614 ms 10.143.7.172 (10.143.7.172)  267.725 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.187 ms  264.261 ms  270.090 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.29 =====
+traceroute to 10.90.242.29 (10.90.242.29), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.162 ms  131.166 ms  131.165 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.777 ms  131.810 ms  131.987 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.647 ms  131.734 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  131.782 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  131.962 ms  131.961 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.897 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.403 ms  198.302 ms  198.291 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  207.476 ms  197.960 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.730 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.295 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  197.904 ms  197.926 ms
+ 9  10.14.80.58 (10.14.80.58)  200.477 ms  199.826 ms  200.216 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.460 ms  259.450 ms  260.256 ms
+12  10.143.203.8 (10.143.203.8)  258.461 ms  258.863 ms  258.718 ms
+13  10.143.12.13 (10.143.12.13)  265.748 ms 10.143.12.43 (10.143.12.43)  259.040 ms  265.297 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  267.253 ms 10.143.7.131 (10.143.7.131)  267.436 ms 10.143.7.172 (10.143.7.172)  267.711 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.057 ms  269.711 ms  263.454 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.30 =====
+traceroute to 10.90.242.30 (10.90.242.30), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.058 ms  131.069 ms  131.069 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.673 ms  131.687 ms  131.778 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.500 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  131.654 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.640 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.457 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  131.817 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  131.801 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.197 ms  197.638 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  197.818 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.027 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  200.034 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  197.814 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.085 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  197.973 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.912 ms
+ 9  10.14.80.58 (10.14.80.58)  220.306 ms  219.935 ms  220.166 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  266.333 ms 10.143.12.157 (10.143.12.157)  259.503 ms  259.446 ms
+12  10.143.203.8 (10.143.203.8)  264.694 ms  264.414 ms 10.143.203.25 (10.143.203.25)  266.113 ms
+13  10.143.12.13 (10.143.12.13)  264.994 ms 10.143.12.43 (10.143.12.43)  259.274 ms  266.008 ms
+14  edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  259.562 ms 10.143.7.174 (10.143.7.174)  265.279 ms 10.143.7.131 (10.143.7.131)  266.427 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  263.688 ms  269.725 ms  263.715 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.31 =====
+traceroute to 10.90.242.31 (10.90.242.31), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.073 ms  132.068 ms  132.066 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.657 ms  132.833 ms  132.904 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.471 ms  132.523 ms  132.607 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.002 ms  133.496 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.171 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.882 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.987 ms  198.904 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.969 ms  199.645 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  200.346 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.800 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.894 ms  200.300 ms
+ 9  10.14.80.58 (10.14.80.58)  202.410 ms  202.034 ms  202.685 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  267.727 ms  268.318 ms  267.530 ms
+12  10.143.203.25 (10.143.203.25)  263.047 ms  261.389 ms 10.143.203.8 (10.143.203.8)  267.206 ms
+13  10.143.12.43 (10.143.12.43)  261.711 ms 10.143.12.13 (10.143.12.13)  260.865 ms  261.314 ms
+14  10.143.7.172 (10.143.7.172)  271.136 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  268.680 ms 10.143.7.131 (10.143.7.131)  263.617 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.801 ms  271.912 ms  272.222 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.32 =====
+traceroute to 10.90.242.32 (10.90.242.32), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.923 ms  131.923 ms  131.921 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.624 ms  132.631 ms  132.705 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.620 ms  132.681 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.490 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  133.262 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.708 ms  133.420 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.937 ms  199.703 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.658 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.668 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  199.559 ms  199.571 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.583 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.560 ms  199.572 ms
+ 9  10.14.80.58 (10.14.80.58)  280.372 ms  280.591 ms  280.393 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  261.188 ms  260.991 ms  260.957 ms
+12  10.143.203.8 (10.143.203.8)  259.980 ms 10.143.203.25 (10.143.203.25)  268.217 ms  262.863 ms
+13  10.143.12.43 (10.143.12.43)  262.060 ms  266.937 ms  261.677 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  267.977 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  263.371 ms 10.143.7.131 (10.143.7.131)  269.383 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.085 ms  265.621 ms  264.457 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.33 =====
+traceroute to 10.90.242.33 (10.90.242.33), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.119 ms  132.396 ms  132.398 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  133.377 ms  133.378 ms  133.377 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.108 ms  133.150 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  133.080 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.534 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  133.082 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.796 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.446 ms  199.470 ms  199.280 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.857 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.110 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  199.527 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.817 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  200.265 ms  200.233 ms
+ 9  10.14.80.58 (10.14.80.58)  262.567 ms  262.678 ms  262.955 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  268.007 ms  267.440 ms  268.061 ms
+12  10.143.203.25 (10.143.203.25)  261.134 ms  269.032 ms  261.645 ms
+13  10.143.12.13 (10.143.12.13)  266.950 ms 10.143.12.43 (10.143.12.43)  260.816 ms  266.976 ms
+14  10.143.7.131 (10.143.7.131)  262.922 ms 10.143.7.172 (10.143.7.172)  262.248 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  262.055 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  272.237 ms  266.889 ms  266.823 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.34 =====
+traceroute to 10.90.242.34 (10.90.242.34), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.491 ms  131.505 ms  131.494 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.126 ms  132.126 ms  132.223 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.938 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.086 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.037 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.948 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.760 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.692 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.982 ms  199.112 ms  199.144 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.457 ms  198.650 ms  198.456 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.084 ms  199.185 ms  198.993 ms
+ 9  10.14.80.58 (10.14.80.58)  311.267 ms  311.696 ms  311.269 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.540 ms 10.143.12.20 (10.143.12.20)  267.087 ms 10.143.12.157 (10.143.12.157)  260.974 ms
+12  10.143.203.25 (10.143.203.25)  267.338 ms 10.143.203.8 (10.143.203.8)  265.417 ms 10.143.203.25 (10.143.203.25)  261.677 ms
+13  10.143.12.43 (10.143.12.43)  265.958 ms 10.143.12.13 (10.143.12.13)  266.226 ms  265.791 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  261.457 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  266.982 ms 10.143.7.131 (10.143.7.131)  268.127 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.992 ms  270.439 ms  264.838 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.35 =====
+traceroute to 10.90.242.35 (10.90.242.35), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.971 ms  132.053 ms  132.010 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.797 ms  132.798 ms  132.823 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.517 ms  132.645 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.690 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.976 ms  133.437 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.897 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.195 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.722 ms  198.325 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.745 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  244.795 ms  198.533 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.740 ms  198.738 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.231 ms
+ 9  10.14.80.58 (10.14.80.58)  200.816 ms  200.860 ms  201.148 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.798 ms  261.908 ms  261.206 ms
+12  10.143.203.25 (10.143.203.25)  268.300 ms  261.033 ms 10.143.203.8 (10.143.203.8)  258.861 ms
+13  10.143.12.43 (10.143.12.43)  258.954 ms 10.143.12.13 (10.143.12.13)  260.227 ms  259.869 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.298 ms  268.412 ms  261.920 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.406 ms  270.702 ms  266.100 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.36 =====
+traceroute to 10.90.242.36 (10.90.242.36), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  145.379 ms  145.397 ms  145.396 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  146.953 ms  147.021 ms  147.143 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  147.014 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  146.902 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  147.104 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  147.210 ms  147.211 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  147.430 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  214.216 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.915 ms  199.148 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.005 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.824 ms  198.857 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.942 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.363 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.073 ms
+ 9  10.14.80.58 (10.14.80.58)  201.254 ms  201.706 ms  202.525 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.369 ms 10.143.12.20 (10.143.12.20)  267.387 ms  267.416 ms
+12  10.143.203.8 (10.143.203.8)  267.495 ms 10.143.203.25 (10.143.203.25)  262.053 ms  261.286 ms
+13  10.143.12.13 (10.143.12.13)  259.546 ms 10.143.12.43 (10.143.12.43)  265.386 ms 10.143.12.13 (10.143.12.13)  260.033 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  266.501 ms 10.143.7.131 (10.143.7.131)  262.439 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  260.347 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.975 ms  270.886 ms  264.893 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.37 =====
+traceroute to 10.90.242.37 (10.90.242.37), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.799 ms  131.798 ms  131.795 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.296 ms  132.309 ms  132.426 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.281 ms  132.279 ms  132.363 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.482 ms  132.707 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.994 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  208.658 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.212 ms  198.304 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.381 ms  198.830 ms  198.828 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.521 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.789 ms  199.272 ms
+ 9  10.14.80.58 (10.14.80.58)  202.205 ms  200.926 ms  201.289 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.516 ms  260.484 ms 10.143.12.20 (10.143.12.20)  267.143 ms
+12  10.143.203.8 (10.143.203.8)  259.847 ms  258.895 ms  259.605 ms
+13  10.143.12.43 (10.143.12.43)  267.200 ms 10.143.12.13 (10.143.12.13)  259.522 ms  259.654 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  260.803 ms  260.438 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.258 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  271.487 ms  265.005 ms  264.852 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.38 =====
+traceroute to 10.90.242.38 (10.90.242.38), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.534 ms  131.540 ms  131.540 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  135.756 ms  135.789 ms  135.970 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.227 ms  132.268 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.974 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.280 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.982 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.494 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.572 ms  198.764 ms  198.993 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.047 ms  199.040 ms  199.095 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.114 ms  198.675 ms  198.723 ms
+ 9  10.14.80.58 (10.14.80.58)  201.225 ms  201.802 ms  201.482 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.705 ms 10.143.12.20 (10.143.12.20)  267.010 ms  266.884 ms
+12  10.143.203.25 (10.143.203.25)  261.442 ms  261.405 ms  261.407 ms
+13  10.143.12.43 (10.143.12.43)  267.029 ms 10.143.12.13 (10.143.12.13)  266.222 ms 10.143.12.43 (10.143.12.43)  265.927 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  260.693 ms  267.348 ms  260.992 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.486 ms  265.049 ms  270.036 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.39 =====
+traceroute to 10.90.242.39 (10.90.242.39), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.040 ms  132.048 ms  132.047 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.217 ms  132.293 ms  132.731 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.435 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.933 ms  132.949 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.629 ms  133.685 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.100 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.182 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.503 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.437 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.226 ms  198.410 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.550 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.617 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.202 ms  198.738 ms
+ 9  10.14.80.58 (10.14.80.58)  200.891 ms  201.289 ms  201.441 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.328 ms  261.526 ms  260.922 ms
+12  10.143.203.25 (10.143.203.25)  261.148 ms 10.143.203.8 (10.143.203.8)  265.796 ms 10.143.203.25 (10.143.203.25)  267.904 ms
+13  10.143.12.13 (10.143.12.13)  259.432 ms 10.143.12.43 (10.143.12.43)  265.795 ms 10.143.12.13 (10.143.12.13)  260.404 ms
+14  10.143.7.131 (10.143.7.131)  267.825 ms  260.884 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  266.793 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.153 ms  270.333 ms  265.097 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.40 =====
+traceroute to 10.90.242.40 (10.90.242.40), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.964 ms  131.978 ms  131.978 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.546 ms  132.628 ms  132.627 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.533 ms  132.593 ms  132.644 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.143 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.529 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.788 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.508 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.230 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.976 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.990 ms  206.721 ms  206.790 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.966 ms  200.500 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.565 ms
+ 9  10.14.80.58 (10.14.80.58)  246.325 ms  246.405 ms  246.531 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.731 ms 10.143.12.20 (10.143.12.20)  267.592 ms 10.143.12.157 (10.143.12.157)  260.380 ms
+12  10.143.203.8 (10.143.203.8)  258.751 ms 10.143.203.25 (10.143.203.25)  260.992 ms 10.143.203.8 (10.143.203.8)  258.763 ms
+13  10.143.12.13 (10.143.12.13)  260.543 ms 10.143.12.43 (10.143.12.43)  260.216 ms  266.207 ms
+14  edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  259.603 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  260.188 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  267.778 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.997 ms  271.781 ms  265.798 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.41 =====
+traceroute to 10.90.242.41 (10.90.242.41), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.106 ms  132.063 ms  132.092 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.348 ms  132.435 ms  132.628 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.040 ms  132.038 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.339 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.064 ms  133.184 ms  133.019 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.105 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.084 ms  199.121 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.901 ms  198.654 ms  198.933 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.560 ms  198.240 ms  198.612 ms
+ 9  10.14.80.58 (10.14.80.58)  201.191 ms  200.919 ms  201.578 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.378 ms  259.871 ms 10.143.12.20 (10.143.12.20)  266.956 ms
+12  10.143.203.25 (10.143.203.25)  261.335 ms 10.143.203.8 (10.143.203.8)  275.645 ms 10.143.203.25 (10.143.203.25)  261.506 ms
+13  10.143.12.13 (10.143.12.13)  259.479 ms  259.776 ms  259.233 ms
+14  10.143.7.131 (10.143.7.131)  269.114 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.769 ms 10.143.7.131 (10.143.7.131)  267.280 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  271.203 ms  263.870 ms  265.353 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.42 =====
+traceroute to 10.90.242.42 (10.90.242.42), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.485 ms  131.355 ms  131.340 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.125 ms  132.133 ms  132.128 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.088 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.095 ms  132.091 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.864 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.165 ms  132.722 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.756 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.622 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.178 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.915 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.153 ms  198.077 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.856 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.578 ms  198.580 ms
+ 9  10.14.80.58 (10.14.80.58)  201.403 ms  200.809 ms  201.109 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.916 ms 10.143.12.20 (10.143.12.20)  266.416 ms 10.143.12.157 (10.143.12.157)  260.990 ms
+12  10.143.203.25 (10.143.203.25)  261.372 ms  266.714 ms  267.918 ms
+13  10.143.12.43 (10.143.12.43)  260.237 ms  260.454 ms  266.473 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.062 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  267.314 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  268.129 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.431 ms  270.726 ms  264.968 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.43 =====
+traceroute to 10.90.242.43 (10.90.242.43), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.688 ms  132.695 ms  132.695 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.815 ms  132.817 ms  132.989 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.285 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.799 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.276 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.627 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.931 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.774 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.375 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.310 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.476 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.374 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  258.379 ms  198.877 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.581 ms  198.600 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.452 ms
+ 9  10.14.80.58 (10.14.80.58)  202.151 ms  202.471 ms  202.724 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  266.962 ms 10.143.12.157 (10.143.12.157)  261.441 ms 10.143.12.20 (10.143.12.20)  266.679 ms
+12  10.143.203.8 (10.143.203.8)  260.188 ms 10.143.203.25 (10.143.203.25)  266.774 ms  261.600 ms
+13  10.143.12.43 (10.143.12.43)  259.989 ms  260.888 ms  259.882 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  260.867 ms 10.143.7.174 (10.143.7.174)  266.552 ms  260.396 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.453 ms  263.949 ms  265.482 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.44 =====
+traceroute to 10.90.242.44 (10.90.242.44), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.753 ms  132.755 ms  132.756 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  133.044 ms  133.148 ms  133.281 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.287 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  133.130 ms  133.264 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  134.089 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.858 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.841 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.700 ms  199.958 ms  199.708 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.443 ms  200.216 ms  200.881 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  200.834 ms  200.904 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  201.392 ms
+ 9  10.14.80.58 (10.14.80.58)  202.879 ms  203.056 ms  203.272 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  268.896 ms  268.171 ms 10.143.12.157 (10.143.12.157)  261.816 ms
+12  10.143.203.25 (10.143.203.25)  262.485 ms 10.143.203.8 (10.143.203.8)  266.331 ms  260.731 ms
+13  10.143.12.13 (10.143.12.13)  261.276 ms 10.143.12.43 (10.143.12.43)  266.850 ms  262.437 ms
+14  10.143.7.172 (10.143.7.172)  270.320 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  263.850 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  263.528 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  267.370 ms  265.139 ms  272.623 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.45 =====
+traceroute to 10.90.242.45 (10.90.242.45), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  133.072 ms  133.165 ms  133.165 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  133.702 ms  133.702 ms  133.706 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.678 ms  133.682 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  133.642 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  134.352 ms  134.472 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  134.345 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  200.864 ms  209.672 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  209.602 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  209.567 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  209.586 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  209.554 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  209.577 ms  209.560 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  209.530 ms
+ 9  10.14.80.58 (10.14.80.58)  209.563 ms  209.542 ms  209.537 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  268.503 ms  268.426 ms 10.143.12.157 (10.143.12.157)  261.056 ms
+12  10.143.203.8 (10.143.203.8)  260.318 ms 10.143.203.25 (10.143.203.25)  263.721 ms 10.143.203.8 (10.143.203.8)  260.990 ms
+13  10.143.12.43 (10.143.12.43)  262.722 ms  263.069 ms  268.987 ms
+14  edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  264.311 ms 10.143.7.172 (10.143.7.172)  263.403 ms  270.098 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  272.521 ms  264.880 ms  272.350 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.46 =====
+traceroute to 10.90.242.46 (10.90.242.46), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.666 ms  131.673 ms  131.672 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.507 ms  133.185 ms  133.259 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  133.144 ms  133.148 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.399 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  134.139 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  133.480 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.705 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.809 ms  200.115 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  200.085 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  200.009 ms  199.954 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  200.451 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.984 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  200.633 ms  200.786 ms
+ 9  10.14.80.58 (10.14.80.58)  202.925 ms  203.149 ms  203.470 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  267.707 ms 10.143.12.157 (10.143.12.157)  262.082 ms  262.715 ms
+12  10.143.203.25 (10.143.203.25)  263.437 ms  262.802 ms  263.102 ms
+13  10.143.12.43 (10.143.12.43)  261.924 ms  261.326 ms  261.166 ms
+14  10.143.7.172 (10.143.7.172)  263.718 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  269.674 ms 10.143.7.172 (10.143.7.172)  263.837 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  271.550 ms  272.363 ms  271.738 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.47 =====
+traceroute to 10.90.242.47 (10.90.242.47), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.484 ms  131.471 ms  131.467 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.158 ms  132.344 ms  132.388 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.911 ms  132.522 ms  132.498 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.086 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.895 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.144 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.215 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.069 ms  198.862 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.942 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.664 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.914 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.212 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.891 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.317 ms
+ 9  10.14.80.58 (10.14.80.58)  201.574 ms  201.243 ms  201.216 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  267.023 ms 10.143.12.157 (10.143.12.157)  262.748 ms  260.191 ms
+12  10.143.203.25 (10.143.203.25)  268.299 ms  268.263 ms 10.143.203.8 (10.143.203.8)  259.483 ms
+13  10.143.12.13 (10.143.12.13)  265.918 ms 10.143.12.43 (10.143.12.43)  265.952 ms 10.143.12.13 (10.143.12.13)  265.935 ms
+14  10.143.7.131 (10.143.7.131)  267.162 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  265.896 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  267.417 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.497 ms  271.118 ms  269.732 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.48 =====
+traceroute to 10.90.242.48 (10.90.242.48), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.317 ms  131.325 ms  131.324 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.793 ms  132.902 ms  132.903 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.802 ms  132.619 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  133.310 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.954 ms  134.003 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.758 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  200.157 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.018 ms  199.065 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.856 ms  198.857 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.927 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.929 ms  199.300 ms  199.301 ms
+ 9  10.14.80.58 (10.14.80.58)  201.195 ms  201.501 ms  201.822 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  261.027 ms  260.354 ms  260.366 ms
+12  10.143.203.8 (10.143.203.8)  260.078 ms  265.523 ms  259.561 ms
+13  10.143.12.43 (10.143.12.43)  260.728 ms 10.143.12.13 (10.143.12.13)  265.461 ms 10.143.12.43 (10.143.12.43)  259.787 ms
+14  10.143.7.174 (10.143.7.174)  261.171 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  261.054 ms 10.143.7.131 (10.143.7.131)  268.459 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.499 ms  264.837 ms  263.566 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.49 =====
+traceroute to 10.90.242.49 (10.90.242.49), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.314 ms  131.310 ms  131.305 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.262 ms  132.261 ms  132.750 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.562 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  143.533 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.712 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  133.315 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.216 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.168 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.319 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.810 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.223 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.471 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.126 ms  198.121 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.068 ms  198.703 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.836 ms
+ 9  10.14.80.58 (10.14.80.58)  201.070 ms  202.095 ms  201.247 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  261.576 ms 10.143.12.20 (10.143.12.20)  266.769 ms 10.143.12.157 (10.143.12.157)  261.351 ms
+12  10.143.203.8 (10.143.203.8)  265.707 ms 10.143.203.25 (10.143.203.25)  266.614 ms  267.393 ms
+13  10.143.12.43 (10.143.12.43)  259.083 ms  260.284 ms 10.143.12.13 (10.143.12.13)  259.363 ms
+14  10.143.7.131 (10.143.7.131)  268.414 ms 10.143.7.174 (10.143.7.174)  266.189 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  268.319 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.605 ms  265.194 ms  264.495 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.50 =====
+traceroute to 10.90.242.50 (10.90.242.50), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.756 ms  131.757 ms  131.756 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.390 ms  132.524 ms  132.638 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.167 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.167 ms  132.333 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.279 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.143 ms  133.142 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.463 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.446 ms  198.544 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.667 ms  198.553 ms  198.377 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.523 ms  198.533 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.817 ms
+ 9  10.14.80.58 (10.14.80.58)  201.557 ms  200.787 ms  201.253 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.237 ms  261.679 ms 10.143.12.20 (10.143.12.20)  267.376 ms
+12  10.143.203.8 (10.143.203.8)  265.671 ms  259.241 ms  260.082 ms
+13  10.143.12.13 (10.143.12.13)  260.156 ms  266.521 ms  265.944 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  260.840 ms  262.139 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  266.109 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.419 ms  264.128 ms  265.590 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.51 =====
+traceroute to 10.90.242.51 (10.90.242.51), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.999 ms  132.103 ms  132.102 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.822 ms  132.823 ms  132.827 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.810 ms  132.814 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.605 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.941 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.299 ms  133.139 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.317 ms  198.592 ms  198.160 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.746 ms  198.267 ms  198.278 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.398 ms  199.165 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.386 ms
+ 9  10.14.80.58 (10.14.80.58)  200.655 ms  201.171 ms  200.974 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.875 ms 10.143.12.20 (10.143.12.20)  267.161 ms  266.606 ms
+12  10.143.203.8 (10.143.203.8)  265.680 ms  265.648 ms 10.143.203.25 (10.143.203.25)  262.179 ms
+13  10.143.12.13 (10.143.12.13)  266.935 ms  259.246 ms  265.556 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.840 ms 10.143.7.131 (10.143.7.131)  262.695 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  262.390 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.821 ms  270.069 ms  264.759 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.52 =====
+traceroute to 10.90.242.52 (10.90.242.52), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.148 ms  131.051 ms  131.036 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.786 ms  131.788 ms  132.500 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.354 ms  132.325 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.646 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.584 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.251 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.252 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.758 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.328 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.603 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.998 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.706 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.377 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.929 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.272 ms  199.366 ms
+ 9  10.14.80.58 (10.14.80.58)  202.507 ms  202.459 ms  202.477 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.619 ms  259.776 ms 10.143.12.20 (10.143.12.20)  266.881 ms
+12  10.143.203.8 (10.143.203.8)  259.882 ms 10.143.203.25 (10.143.203.25)  261.729 ms 10.143.203.8 (10.143.203.8)  265.097 ms
+13  10.143.12.13 (10.143.12.13)  259.750 ms 10.143.12.43 (10.143.12.43)  259.864 ms 10.143.12.13 (10.143.12.13)  259.477 ms
+14  10.143.7.131 (10.143.7.131)  262.347 ms  262.104 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  260.851 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.272 ms  269.905 ms  263.346 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.53 =====
+traceroute to 10.90.242.53 (10.90.242.53), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.412 ms  131.416 ms  131.415 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.060 ms  132.120 ms  132.240 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.044 ms  132.210 ms  132.208 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.841 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.596 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.904 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.228 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.614 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.390 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.786 ms  198.319 ms  198.379 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.378 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.905 ms  198.876 ms
+ 9  10.14.80.58 (10.14.80.58)  200.839 ms  201.104 ms  201.929 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.341 ms 10.143.12.20 (10.143.12.20)  266.985 ms 10.143.12.157 (10.143.12.157)  260.850 ms
+12  10.143.203.25 (10.143.203.25)  268.046 ms 10.143.203.8 (10.143.203.8)  259.222 ms 10.143.203.25 (10.143.203.25)  260.553 ms
+13  10.143.12.43 (10.143.12.43)  260.301 ms  260.939 ms 10.143.12.13 (10.143.12.13)  266.159 ms
+14  10.143.7.172 (10.143.7.172)  262.326 ms 10.143.7.174 (10.143.7.174)  261.169 ms 10.143.7.172 (10.143.7.172)  262.012 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  263.688 ms  264.578 ms  269.984 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.54 =====
+traceroute to 10.90.242.54 (10.90.242.54), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.367 ms  131.370 ms  131.369 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.943 ms  132.090 ms  132.087 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  131.947 ms  132.049 ms  132.057 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.456 ms  132.117 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.921 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.685 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.216 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.214 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.322 ms  198.522 ms  198.547 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.384 ms  198.521 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.753 ms
+ 9  10.14.80.58 (10.14.80.58)  202.798 ms  202.092 ms  202.445 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.968 ms 10.143.12.20 (10.143.12.20)  266.646 ms 10.143.12.157 (10.143.12.157)  260.277 ms
+12  10.143.203.25 (10.143.203.25)  267.068 ms 10.143.203.8 (10.143.203.8)  259.639 ms 10.143.203.25 (10.143.203.25)  267.331 ms
+13  10.143.12.13 (10.143.12.13)  259.680 ms  259.389 ms 10.143.12.43 (10.143.12.43)  265.713 ms
+14  10.143.7.174 (10.143.7.174)  266.625 ms 10.143.7.172 (10.143.7.172)  269.067 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  261.389 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.044 ms  264.307 ms  264.253 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.55 =====
+traceroute to 10.90.242.55 (10.90.242.55), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.365 ms  131.239 ms  131.226 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.899 ms  132.043 ms  132.183 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.680 ms be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  131.861 ms  131.951 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.556 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.070 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  184.279 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.168 ms  198.940 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.844 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  203.332 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  199.005 ms  198.810 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  199.014 ms  199.063 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.066 ms
+ 9  10.14.80.58 (10.14.80.58)  200.875 ms  201.379 ms  201.164 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.946 ms  259.780 ms  260.402 ms
+12  10.143.203.8 (10.143.203.8)  265.407 ms 10.143.203.25 (10.143.203.25)  261.260 ms 10.143.203.8 (10.143.203.8)  258.675 ms
+13  10.143.12.43 (10.143.12.43)  259.594 ms 10.143.12.13 (10.143.12.13)  265.699 ms  260.040 ms
+14  edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  261.255 ms 10.143.7.172 (10.143.7.172)  262.330 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  266.833 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.289 ms  264.395 ms  263.021 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.56 =====
+traceroute to 10.90.242.56 (10.90.242.56), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.734 ms  130.739 ms  132.248 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.708 ms  132.791 ms  132.789 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.665 ms  132.667 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.747 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.776 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.470 ms  133.549 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.554 ms  197.962 ms  197.952 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  197.880 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.987 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.650 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.987 ms  198.617 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.963 ms
+ 9  10.14.80.58 (10.14.80.58)  201.547 ms  201.761 ms  202.095 ms
+10  * * *
+11  10.143.12.20 (10.143.12.20)  273.076 ms 10.143.12.157 (10.143.12.157)  272.638 ms 10.143.12.20 (10.143.12.20)  272.474 ms
+12  10.143.203.25 (10.143.203.25)  272.422 ms  271.905 ms 10.143.203.8 (10.143.203.8)  271.380 ms
+13  10.143.12.13 (10.143.12.13)  271.673 ms 10.143.12.43 (10.143.12.43)  269.359 ms 10.143.12.13 (10.143.12.13)  268.979 ms
+14  10.143.7.131 (10.143.7.131)  268.670 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  1105.022 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  1113.496 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  1116.081 ms  1110.793 ms  1115.668 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.57 =====
+traceroute to 10.90.242.57 (10.90.242.57), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.717 ms  130.636 ms  130.622 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.712 ms  131.780 ms  131.780 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.115 ms  132.174 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.159 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  134.008 ms  134.038 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.906 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.696 ms  198.396 ms  198.418 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.343 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.736 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.287 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.226 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.736 ms  199.180 ms
+ 9  10.14.80.58 (10.14.80.58)  200.645 ms  200.951 ms  201.434 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.240 ms  260.199 ms 10.143.12.20 (10.143.12.20)  266.770 ms
+12  10.143.203.25 (10.143.203.25)  260.652 ms  266.828 ms  260.291 ms
+13  10.143.12.13 (10.143.12.13)  265.903 ms  264.843 ms 10.143.12.43 (10.143.12.43)  259.109 ms
+14  10.143.7.131 (10.143.7.131)  260.543 ms 10.143.7.174 (10.143.7.174)  258.798 ms 10.143.7.172 (10.143.7.172)  261.883 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  265.430 ms  270.556 ms  270.089 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.58 =====
+traceroute to 10.90.242.58 (10.90.242.58), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.911 ms  130.912 ms  130.913 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.361 ms  132.472 ms  132.606 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.441 ms  132.528 ms  132.647 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.773 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  133.067 ms  133.473 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.649 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  197.896 ms  198.609 ms
+ 7  be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.965 ms  198.583 ms  198.765 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.145 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.806 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  199.223 ms
+ 9  10.14.80.58 (10.14.80.58)  296.750 ms  296.989 ms  296.807 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.212 ms 10.143.12.20 (10.143.12.20)  266.430 ms 10.143.12.157 (10.143.12.157)  259.389 ms
+12  10.143.203.25 (10.143.203.25)  267.439 ms 10.143.203.8 (10.143.203.8)  258.561 ms 10.143.203.25 (10.143.203.25)  260.282 ms
+13  10.143.12.43 (10.143.12.43)  258.772 ms 10.143.12.13 (10.143.12.13)  266.129 ms 10.143.12.43 (10.143.12.43)  261.009 ms
+14  10.143.7.174 (10.143.7.174)  260.561 ms 10.143.7.172 (10.143.7.172)  262.448 ms 10.143.7.174 (10.143.7.174)  266.431 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  269.268 ms  270.233 ms  263.540 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.59 =====
+traceroute to 10.90.242.59 (10.90.242.59), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.617 ms  130.620 ms  130.619 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.405 ms  132.410 ms  132.666 ms
+ 4  be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.122 ms  132.123 ms  132.210 ms
+ 5  be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  132.979 ms be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  132.631 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  136.840 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.800 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.017 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.727 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.896 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.656 ms be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.840 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.836 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.589 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.934 ms
+ 9  10.14.80.58 (10.14.80.58)  202.228 ms  202.276 ms  202.401 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.718 ms  260.692 ms  260.998 ms
+12  10.143.203.25 (10.143.203.25)  266.529 ms  261.452 ms  266.847 ms
+13  10.143.12.43 (10.143.12.43)  260.421 ms 10.143.12.13 (10.143.12.13)  260.518 ms  260.460 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.057 ms 10.143.7.172 (10.143.7.172)  260.934 ms  268.134 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  263.516 ms  269.808 ms  263.819 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.60 =====
+traceroute to 10.90.242.60 (10.90.242.60), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  131.202 ms  131.212 ms  131.225 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.704 ms  131.782 ms  131.883 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  131.885 ms  132.059 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  131.757 ms
+ 5  be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  132.050 ms  132.623 ms be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.831 ms
+ 6  port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  199.526 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  197.450 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  200.161 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.198 ms  198.159 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.956 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.990 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.975 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.975 ms
+ 9  10.14.80.58 (10.14.80.58)  296.662 ms  298.480 ms  296.696 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  259.576 ms  258.996 ms  258.664 ms
+12  10.143.203.8 (10.143.203.8)  257.527 ms  258.304 ms 10.143.203.25 (10.143.203.25)  266.097 ms
+13  10.143.12.13 (10.143.12.13)  257.525 ms 10.143.12.43 (10.143.12.43)  266.199 ms  259.846 ms
+14  10.143.7.131 (10.143.7.131)  266.784 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  258.970 ms edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  261.845 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  264.707 ms  263.868 ms  263.822 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.61 =====
+traceroute to 10.90.242.61 (10.90.242.61), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  130.644 ms  130.657 ms  130.655 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  131.506 ms  131.508 ms  132.159 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.100 ms  132.149 ms  132.146 ms
+ 5  be2262.ccr42.jfk02.atlas.cogentco.com (10.54.47.121)  132.760 ms  133.161 ms  132.752 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.005 ms  197.564 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.533 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.512 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.647 ms  198.374 ms
+ 8  be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.601 ms  198.609 ms  199.108 ms
+ 9  10.14.80.58 (10.14.80.58)  228.572 ms  228.727 ms  228.993 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  258.800 ms 10.143.12.20 (10.143.12.20)  266.150 ms  266.120 ms
+12  10.143.203.8 (10.143.203.8)  258.920 ms 10.143.203.25 (10.143.203.25)  260.325 ms  260.876 ms
+13  10.143.12.13 (10.143.12.13)  258.558 ms  258.509 ms  266.071 ms
+14  edge1-TenGigE0-0-0-0.hfa.nv.net.il (10.143.8.230)  266.634 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  266.987 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  260.098 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  269.823 ms  269.982 ms  263.918 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+===== 10.90.242.62 =====
+traceroute to 10.90.242.62 (10.90.242.62), 30 hops max, 60 byte packets
+ 1  10.11.110.1 (10.11.110.1)  132.089 ms  132.110 ms  132.109 ms
+ 2  * * *
+ 3  be4870.nr71.b045024-0.ewr03.atlas.cogentco.com (10.24.70.165)  132.320 ms  132.553 ms  132.963 ms
+ 4  be4865.rcr21.ewr03.atlas.cogentco.com (10.24.69.33)  132.313 ms  132.440 ms be4866.rcr22.ewr03.atlas.cogentco.com (10.24.69.77)  132.287 ms
+ 5  be2967.ccr41.jfk02.atlas.cogentco.com (10.54.30.113)  133.153 ms be3020.ccr42.jfk02.atlas.cogentco.com (10.54.41.113)  133.343 ms be2273.ccr41.jfk02.atlas.cogentco.com (10.54.83.205)  133.126 ms
+ 6  port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  199.466 ms port-channel3501.ccr92.lhr01.atlas.cogentco.com (10.54.95.102)  198.966 ms port-channel8671.ccr91.lhr01.atlas.cogentco.com (10.54.167.70)  198.191 ms
+ 7  be8669.ccr41.lon13.atlas.cogentco.com (10.54.75.37)  198.827 ms  198.235 ms be2406.ccr42.lon13.atlas.cogentco.com (10.54.74.165)  198.781 ms
+ 8  be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.089 ms be8444.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.57.114)  198.195 ms be8443.rcr71.b015533-1.lon13.atlas.cogentco.com (10.54.56.90)  198.173 ms
+ 9  10.14.80.58 (10.14.80.58)  256.554 ms  256.832 ms  256.382 ms
+10  * * *
+11  10.143.12.157 (10.143.12.157)  260.897 ms 10.143.12.20 (10.143.12.20)  266.491 ms 10.143.12.157 (10.143.12.157)  259.955 ms
+12  10.143.203.25 (10.143.203.25)  267.189 ms  260.251 ms  260.574 ms
+13  10.143.12.43 (10.143.12.43)  265.167 ms  261.238 ms 10.143.12.13 (10.143.12.13)  265.599 ms
+14  10.143.7.131 (10.143.7.131)  261.164 ms edge1-te0-1-0-2-v100-core1-hfa.hfa.nv.net.il (10.143.8.217)  259.472 ms edge1-TenGigE0-2-0-1.hfa.nv.net.il (10.143.8.225)  265.961 ms
+15  Organization-netvis.ser.netvision.net.il (10.143.109.245)  270.712 ms  264.580 ms  270.110 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

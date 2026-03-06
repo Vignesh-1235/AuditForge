@@ -1,0 +1,7 @@
+address,mac,name,os_name,os_flavor,os_sp,purpose,info,comments
+"10.90.242.1","","","IOS","","12.X","device","",""
+"10.90.242.12","","","embedded","","6.X","device","",""
+"10.90.242.25","","","Windows 2022","","","server","",""
+"10.90.242.27","","","embedded","","","device","",""
+"10.90.242.34","","","Windows 2008","","","server","",""
+"10.90.242.59","","","Windows 2008","","","server","",""

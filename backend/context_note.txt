@@ -1,0 +1,21 @@
+Organization: AxiomL Client - PTE Assessment (September 2025)
+
+Environment: Hybrid infrastructure with on-premises servers and Azure cloud resources.
+
+On-Premises Scope:
+- Windows Server 2008/2012/2022 systems
+- Cisco network devices (IOS 12.x)
+- FTP servers (FileZilla 0.9.x)
+- Internal network range: 10.90.242.0/24
+
+Azure Cloud Scope:
+- Windows Server 2016/2019 VMs
+- Web-facing services on ports 80 and 443
+- Internal Azure network range: 10.69.0.0/16, 10.80.0.0/16, 10.97.0.0/16
+
+Business Context:
+This organization operates critical business applications and stores sensitive client data.
+Compliance requirements include data protection regulations. Any breach could result in
+significant financial, reputational, and regulatory consequences.
+
+Assessment Type: Penetration Testing Engagement (PTE) - Grey Box

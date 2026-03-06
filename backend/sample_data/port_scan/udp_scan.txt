@@ -1,0 +1,121 @@
+# UDP Scan Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 10:43 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.1
+[1m[34m[*][0m Nmap: Host is up (0.27s latency).
+[1m[34m[*][0m Nmap: PORT     STATE         SERVICE     VERSION
+[1m[34m[*][0m Nmap: 53/udp   filtered      domain
+[1m[34m[*][0m Nmap: 67/udp   filtered      dhcps
+[1m[34m[*][0m Nmap: 69/udp   open|filtered tftp
+[1m[34m[*][0m Nmap: 123/udp  filtered      ntp
+[1m[34m[*][0m Nmap: 137/udp  open|filtered netbios-ns
+[1m[34m[*][0m Nmap: 138/udp  filtered      netbios-dgm
+[1m[34m[*][0m Nmap: 161/udp  open|filtered snmp
+[1m[34m[*][0m Nmap: 162/udp  open|filtered snmptrap
+[1m[34m[*][0m Nmap: 389/udp  open|filtered ldap
+[1m[34m[*][0m Nmap: 636/udp  open|filtered ldaps
+[1m[34m[*][0m Nmap: 1433/udp open|filtered ms-sql-s
+[1m[34m[*][0m Nmap: 1521/udp open|filtered ncube-lm
+[1m[34m[*][0m Nmap: 5432/udp filtered      postgresql
+[1m[34m[*][0m Nmap: 5900/udp filtered      rfb
+[1m[34m[*][0m Nmap: 6000/udp filtered      X11
+[1m[34m[*][0m Nmap: 8080/udp open|filtered http-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.12
+[1m[34m[*][0m Nmap: Host is up (0.27s latency).
+[1m[34m[*][0m Nmap: PORT     STATE         SERVICE     VERSION
+[1m[34m[*][0m Nmap: 53/udp   open|filtered domain
+[1m[34m[*][0m Nmap: 67/udp   open|filtered dhcps
+[1m[34m[*][0m Nmap: 69/udp   open|filtered tftp
+[1m[34m[*][0m Nmap: 123/udp  open|filtered ntp
+[1m[34m[*][0m Nmap: 137/udp  open|filtered netbios-ns
+[1m[34m[*][0m Nmap: 138/udp  open|filtered netbios-dgm
+[1m[34m[*][0m Nmap: 161/udp  open|filtered snmp
+[1m[34m[*][0m Nmap: 162/udp  open|filtered snmptrap
+[1m[34m[*][0m Nmap: 389/udp  open|filtered ldap
+[1m[34m[*][0m Nmap: 636/udp  open|filtered ldaps
+[1m[34m[*][0m Nmap: 1433/udp open|filtered ms-sql-s
+[1m[34m[*][0m Nmap: 1521/udp open|filtered ncube-lm
+[1m[34m[*][0m Nmap: 5432/udp open|filtered postgresql
+[1m[34m[*][0m Nmap: 5900/udp open|filtered rfb
+[1m[34m[*][0m Nmap: 6000/udp open|filtered X11
+[1m[34m[*][0m Nmap: 8080/udp open|filtered http-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.25
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE         SERVICE     VERSION
+[1m[34m[*][0m Nmap: 53/udp   open|filtered domain
+[1m[34m[*][0m Nmap: 67/udp   open|filtered dhcps
+[1m[34m[*][0m Nmap: 69/udp   open|filtered tftp
+[1m[34m[*][0m Nmap: 123/udp  open|filtered ntp
+[1m[34m[*][0m Nmap: 137/udp  open|filtered netbios-ns
+[1m[34m[*][0m Nmap: 138/udp  open|filtered netbios-dgm
+[1m[34m[*][0m Nmap: 161/udp  open|filtered snmp
+[1m[34m[*][0m Nmap: 162/udp  open|filtered snmptrap
+[1m[34m[*][0m Nmap: 389/udp  open|filtered ldap
+[1m[34m[*][0m Nmap: 636/udp  open|filtered ldaps
+[1m[34m[*][0m Nmap: 1433/udp open|filtered ms-sql-s
+[1m[34m[*][0m Nmap: 1521/udp open|filtered ncube-lm
+[1m[34m[*][0m Nmap: 5432/udp open|filtered postgresql
+[1m[34m[*][0m Nmap: 5900/udp open|filtered rfb
+[1m[34m[*][0m Nmap: 6000/udp open|filtered X11
+[1m[34m[*][0m Nmap: 8080/udp open|filtered http-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.27
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE         SERVICE     VERSION
+[1m[34m[*][0m Nmap: 53/udp   closed        domain
+[1m[34m[*][0m Nmap: 67/udp   closed        dhcps
+[1m[34m[*][0m Nmap: 69/udp   closed        tftp
+[1m[34m[*][0m Nmap: 123/udp  closed        ntp
+[1m[34m[*][0m Nmap: 137/udp  closed        netbios-ns
+[1m[34m[*][0m Nmap: 138/udp  closed        netbios-dgm
+[1m[34m[*][0m Nmap: 161/udp  open          snmp
+[1m[34m[*][0m Nmap: 162/udp  closed        snmptrap
+[1m[34m[*][0m Nmap: 389/udp  open|filtered ldap
+[1m[34m[*][0m Nmap: 636/udp  open|filtered ldaps
+[1m[34m[*][0m Nmap: 1433/udp closed        ms-sql-s
+[1m[34m[*][0m Nmap: 1521/udp closed        ncube-lm
+[1m[34m[*][0m Nmap: 5432/udp closed        postgresql
+[1m[34m[*][0m Nmap: 5900/udp closed        rfb
+[1m[34m[*][0m Nmap: 6000/udp closed        X11
+[1m[34m[*][0m Nmap: 8080/udp closed        http-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.34
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE         SERVICE     VERSION
+[1m[34m[*][0m Nmap: 53/udp   open|filtered domain
+[1m[34m[*][0m Nmap: 67/udp   open|filtered dhcps
+[1m[34m[*][0m Nmap: 69/udp   open|filtered tftp
+[1m[34m[*][0m Nmap: 123/udp  open|filtered ntp
+[1m[34m[*][0m Nmap: 137/udp  open|filtered netbios-ns
+[1m[34m[*][0m Nmap: 138/udp  open|filtered netbios-dgm
+[1m[34m[*][0m Nmap: 161/udp  open|filtered snmp
+[1m[34m[*][0m Nmap: 162/udp  open|filtered snmptrap
+[1m[34m[*][0m Nmap: 389/udp  open|filtered ldap
+[1m[34m[*][0m Nmap: 636/udp  open|filtered ldaps
+[1m[34m[*][0m Nmap: 1433/udp open|filtered ms-sql-s
+[1m[34m[*][0m Nmap: 1521/udp open|filtered ncube-lm
+[1m[34m[*][0m Nmap: 5432/udp open|filtered postgresql
+[1m[34m[*][0m Nmap: 5900/udp open|filtered rfb
+[1m[34m[*][0m Nmap: 6000/udp open|filtered X11
+[1m[34m[*][0m Nmap: 8080/udp open|filtered http-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.59
+[1m[34m[*][0m Nmap: Host is up (0.27s latency).
+[1m[34m[*][0m Nmap: PORT     STATE         SERVICE     VERSION
+[1m[34m[*][0m Nmap: 53/udp   open|filtered domain
+[1m[34m[*][0m Nmap: 67/udp   open|filtered dhcps
+[1m[34m[*][0m Nmap: 69/udp   open|filtered tftp
+[1m[34m[*][0m Nmap: 123/udp  open|filtered ntp
+[1m[34m[*][0m Nmap: 137/udp  open|filtered netbios-ns
+[1m[34m[*][0m Nmap: 138/udp  open|filtered netbios-dgm
+[1m[34m[*][0m Nmap: 161/udp  open|filtered snmp
+[1m[34m[*][0m Nmap: 162/udp  open|filtered snmptrap
+[1m[34m[*][0m Nmap: 389/udp  open|filtered ldap
+[1m[34m[*][0m Nmap: 636/udp  open|filtered ldaps
+[1m[34m[*][0m Nmap: 1433/udp open|filtered ms-sql-s
+[1m[34m[*][0m Nmap: 1521/udp open|filtered ncube-lm
+[1m[34m[*][0m Nmap: 5432/udp open|filtered postgresql
+[1m[34m[*][0m Nmap: 5900/udp open|filtered rfb
+[1m[34m[*][0m Nmap: 6000/udp open|filtered X11
+[1m[34m[*][0m Nmap: 8080/udp open|filtered http-alt
+[1m[34m[*][0m Nmap: Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+[1m[34m[*][0m Nmap: Nmap done: 62 IP addresses (6 hosts up) scanned in 115.94 seconds
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/recog-3.1.17/lib/recog/fingerprint/regexp_factory.rb:34: warning: nested repeat operator '+' and '?' was replaced with '*' in regular expression
+[0m

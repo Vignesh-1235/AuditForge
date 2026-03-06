@@ -1,0 +1,11 @@
+Hydra FTP test for 10.90.242.25
+
+[ERROR] all children were disabled due too many connection errors
+
+Hydra output:
+Hydra v9.5 (c) 2023 by van Hauser/THC & David Maciejak
+Hydra starting at 2025-09-09 11:40:06
+[DATA] attacking ftp://10.90.242.25:21/
+[STATUS] 2.00 tries/min, 2 tries in 00:01h, 1 to do in 00:01h, 1 active
+0 of 1 target completed, 0 valid password found
+Hydra finished at 2025-09-09 11:41:44

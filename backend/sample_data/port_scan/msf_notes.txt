@@ -1,0 +1,293 @@
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025
+[0m
+Notes
+=====
+
+ Time           Host           Service  Port  Protocol  Type                     Data
+ ----           ----           -------  ----  --------  ----                     ----
+ 2025-09-07 11  10.90.242.1                            host.os.nmap_fingerprin  {:os_vendor=>"Cisco", :o
+ :08:10 UTC                                             t                        s_family=>"IOS", :os_ver
+                                                                                 sion=>"12.X", :os_accura
+                                                                                 cy=>95}
+ 2025-09-07 11  10.90.242.12                           host.last_boot           {:time=>"Wed May 21 20:0
+ :08:10 UTC                                                                      6:39 2025"}
+ 2025-09-07 11  10.90.242.12                           host.os.nmap_fingerprin  {:os_vendor=>"Cognitive"
+ :08:10 UTC                                             t                        , :os_family=>"embedded"
+                                                                                 , :os_version=>nil, :os_
+                                                                                 accuracy=>89}
+ 2025-09-07 11  10.90.242.25                           host.os.nmap_fingerprin  {:os_vendor=>"Microsoft"
+ :08:11 UTC                                             t                        , :os_family=>"Windows",
+                                                                                  :os_version=>"2022", :o
+                                                                                 s_accuracy=>86}
+ 2025-09-07 11  10.90.242.27                           host.os.nmap_fingerprin  {:os_vendor=>"HP", :os_f
+ :08:11 UTC                                             t                        amily=>"embedded", :os_v
+                                                                                 ersion=>nil, :os_accurac
+                                                                                 y=>97}
+ 2025-09-07 11  10.90.242.34                           host.last_boot           {:time=>"Wed May 21 20:0
+ :08:11 UTC                                                                      6:39 2025"}
+ 2025-09-07 11  10.90.242.59                           host.last_boot           {:time=>"Wed May 21 20:0
+ :08:11 UTC                                                                      6:39 2025"}
+ 2025-09-07 11  10.90.242.34                           host.os.nmap_fingerprin  {:os_vendor=>"Microsoft"
+ :08:11 UTC                                             t                        , :os_family=>"Windows",
+                                                                                  :os_version=>"2008", :o
+                                                                                 s_accuracy=>100}
+ 2025-09-07 11  10.90.242.59                           host.os.nmap_fingerprin  {:os_vendor=>"Microsoft"
+ :08:11 UTC                                             t                        , :os_family=>"Windows",
+                                                                                  :os_version=>"2008", :o
+                                                                                 s_accuracy=>100}
+ 2025-09-07 11  10.90.242.25                           host.last_boot           {:time=>"Fri Aug 22 08:0
+ :08:11 UTC                                                                      6:20 2025"}
+ 2025-09-07 11  10.90.242.27                           host.last_boot           {:time=>"Fri Aug 29 06:1
+ :08:11 UTC                                                                      1:57 2025"}
+ 2025-09-08 07  10.90.242.12  https    443   tcp       nmap.nse.ssl-date.tcp.4  {"output"=>"TLS randomne
+ :18:06 UTC                                             43                       ss does not represent ti
+                                                                                 me"}
+ 2025-09-08 07  10.90.242.12  https    443   tcp       nmap.nse.fingerprint-st  {"output"=>"\n  FourOhFo
+ :18:06 UTC                                             rings.tcp.443            urRequest: \n    HTTP/1.
+                                                                                 0 400 Bad Request\n    D
+                                                                                 ate: Mon, 08 Sep 2025 07
+                                                                                 :16:57 GMT\n    Connecti
+                                                                                 on: close\n    Content-T
+                                                                                 ype: text/html; charset=
+                                                                                 utf-8\n    X-Frame-Optio
+                                                                                 ns: SAMEORIGIN\n    Cont
+                                                                                 ent-Security-Policy: fra
+                                                                                 me-ancestors 'self'; obj
+                                                                                 ect-src 'self'; script-s
+                                                                                 rc 'self' https: 'unsafe
+                                                                                 -eval' 'unsafe-inline' b
+                                                                                 lob:;\n    X-XSS-Protect
+                                                                                 ion: 1; mode=block\n
+                                                                                 X-Content-Type-Options:
+                                                                                 nosniff\n    Strict-Tran
+                                                                                 sport-Security: max-age=
+                                                                                 31536000\n    <!DOCTYPE
+                                                                                 HTML PUBLIC \"-//IETF//D
+                                                                                 TD HTML 2.0//EN\">\n
+                                                                                 <HTML><HEAD>\n    <TITLE
+                                                                                 >400 Bad Request</TITLE>
+                                                                                 \n    </HEAD><BODY>\n
+                                                                                  <H1>Bad Request</H1>\n
+                                                                                    Your browser sent a r
+                                                                                 equest that this server
+                                                                                 could not understand.<P>
+                                                                                 \n    </BODY></HTML>\n
+                                                                                 GetRequest: \n    HTTP/1
+                                                                                 .0 400 Bad Request\n
+                                                                                 Date: Mon, 08 Sep 2025 0
+                                                                                 7:16:55 GMT\n    Connect
+                                                                                 ion: close\n    Content-
+                                                                                 Type: text/html; charset
+                                                                                 =utf-8\n    X-Frame-Opti
+                                                                                 ons: SAMEORIGIN\n    Con
+                                                                                 tent-Security-Policy: fr
+                                                                                 ame-ancestors 'self'; ob
+                                                                                 ject-src 'self'; script-
+                                                                                 src 'self' https: 'unsaf
+                                                                                 e-eval' 'unsafe-inline'
+                                                                                 blob:;\n    X-XSS-Protec
+                                                                                 tion: 1; mode=block\n
+                                                                                  X-Content-Type-Options:
+                                                                                  nosniff\n    Strict-Tra
+                                                                                 nsport-Security: max-age
+                                                                                 =31536000\n    <!DOCTYPE
+                                                                                  HTML PUBLIC \"-//IETF//
+                                                                                 DTD HTML 2.0//EN\">\n
+                                                                                  <HTML><HEAD>\n    <TITL
+                                                                                 E>400 Bad Request</TITLE
+                                                                                 >\n    </HEAD><BODY>\n
+                                                                                   <H1>Bad Request</H1>\n
+                                                                                     Your browser sent a
+                                                                                 request that this server
+                                                                                  could not understand.<P
+                                                                                 >\n    </BODY></HTML>\n
+                                                                                  HTTPOptions: \n    HTTP
+                                                                                 /1.0 405 Method Not Allo
+                                                                                 wed\n    Date: Mon, 08 S
+                                                                                 ep 2025 07:16:56 GMT\n
+                                                                                   Allow: \n    Connectio
+                                                                                 n: close\n    Content-Ty
+                                                                                 pe: text/html; charset=u
+                                                                                 tf-8\n    X-Frame-Option
+                                                                                 s: SAMEORIGIN\n    Conte
+                                                                                 nt-Security-Policy: fram
+                                                                                 e-ancestors 'self'; obje
+                                                                                 ct-src 'self'; script-sr
+                                                                                 c 'self' https: 'unsafe-
+                                                                                 eval' 'unsafe-inline' bl
+                                                                                 ob:;\n    X-XSS-Protecti
+                                                                                 on: 1; mode=block\n    X
+                                                                                 -Content-Type-Options: n
+                                                                                 osniff\n    Strict-Trans
+                                                                                 port-Security: max-age=3
+                                                                                 1536000\n    <!DOCTYPE H
+                                                                                 TML PUBLIC \"-//IETF//DT
+                                                                                 D HTML 2.0//EN\">\n    <
+                                                                                 HTML><HEAD>\n    <TITLE>
+                                                                                 405 Method Not Allowed</
+                                                                                 TITLE>\n    </HEAD><BODY
+                                                                                 >\n    <H1>Method Not Al
+                                                                                 lowed</H1>\n    requeste
+                                                                                 d method OPTIONS is not
+                                                                                 allowed for the URL /.<P
+                                                                                 >\n    </BODY></HTML>"}
+ 2025-09-08 07  10.90.242.12  https    443   tcp       nmap.nse.http-title.tcp  {"output"=>"Site doesn't
+ :18:06 UTC                                             .443                      have a title (text/html
+                                                                                 )."}
+ 2025-09-08 07  10.90.242.12  https    443   tcp       nmap.nse.http-methods.t  {"output"=>"\n  Potentia
+ :18:06 UTC                                             cp.443                   lly risky methods: "}
+ 2025-09-08 07  10.90.242.12  https    443   tcp       nmap.nse.ssl-cert.tcp.4  {"output"=>"Subject: com
+ :18:06 UTC                                             43                       monName=FG200ETK18907182
+                                                                                 /organizationName=Fortin
+                                                                                 et/stateOrProvinceName=C
+                                                                                 alifornia/countryName=US
+                                                                                 \nNot valid before: 2018
+                                                                                 -06-12T01:28:17\nNot val
+                                                                                 id after:  2038-01-19T03
+                                                                                 :14:07"}
+ 2025-09-08 07  10.90.242.25  ftp      22    tcp       nmap.nse.ftp-syst.tcp.2  {"output"=>"\n  SYST: UN
+ :18:06 UTC                                             2                        IX emulated by FileZilla
+                                                                                 "}
+ 2025-09-08 07  10.90.242.25  https    443   tcp       nmap.nse.tls-alpn.tcp.4  {"output"=>"\n  http/1.1
+ :18:06 UTC                                             43                       "}
+ 2025-09-08 07  10.90.242.25  https    443   tcp       nmap.nse.http-title.tcp  {"output"=>"Not Found"}
+ :18:06 UTC                                             .443
+ 2025-09-08 07  10.90.242.25  https    443   tcp       nmap.nse.http-server-he  {"output"=>"Microsoft-HT
+ :18:06 UTC                                             ader.tcp.443             TPAPI/2.0"}
+ 2025-09-08 07  10.90.242.25  https    443   tcp       nmap.nse.ssl-date.tcp.4  {"output"=>"TLS randomne
+ :18:06 UTC                                             43                       ss does not represent ti
+                                                                                 me"}
+ 2025-09-08 07  10.90.242.25  https    443   tcp       nmap.nse.ssl-cert.tcp.4  {"output"=>"Subject: com
+ :18:06 UTC                                             43                       monName=*.org-domain3.com\
+                                                                                 nSubject Alternative Nam
+                                                                                 e: DNS:*.org-domain3.com,
+                                                                                 DNS:org-domain3.com\nNot v
+                                                                                 alid before: 2025-06-01T
+                                                                                 07:30:59\nNot valid afte
+                                                                                 r:  2026-02-16T13:16:27"
+                                                                                 }
+ 2025-09-08 07  10.90.242.12  https    443   tcp       nmap.nse.fingerprint-st  {"output"=>"\n  FourOhFo
+ :29:43 UTC                                             rings.tcp.443            urRequest: \n    HTTP/1.
+                                                                                 0 400 Bad Request\n    D
+                                                                                 ate: Mon, 08 Sep 2025 07
+                                                                                 :28:33 GMT\n    Connecti
+                                                                                 on: close\n    Content-T
+                                                                                 ype: text/html; charset=
+                                                                                 utf-8\n    X-Frame-Optio
+                                                                                 ns: SAMEORIGIN\n    Cont
+                                                                                 ent-Security-Policy: fra
+                                                                                 me-ancestors 'self'; obj
+                                                                                 ect-src 'self'; script-s
+                                                                                 rc 'self' https: 'unsafe
+                                                                                 -eval' 'unsafe-inline' b
+                                                                                 lob:;\n    X-XSS-Protect
+                                                                                 ion: 1; mode=block\n
+                                                                                 X-Content-Type-Options:
+                                                                                 nosniff\n    Strict-Tran
+                                                                                 sport-Security: max-age=
+                                                                                 31536000\n    <!DOCTYPE
+                                                                                 HTML PUBLIC \"-//IETF//D
+                                                                                 TD HTML 2.0//EN\">\n
+                                                                                 <HTML><HEAD>\n    <TITLE
+                                                                                 >400 Bad Request</TITLE>
+                                                                                 \n    </HEAD><BODY>\n
+                                                                                  <H1>Bad Request</H1>\n
+                                                                                    Your browser sent a r
+                                                                                 equest that this server
+                                                                                 could not understand.<P>
+                                                                                 \n    </BODY></HTML>\n
+                                                                                 GetRequest: \n    HTTP/1
+                                                                                 .0 400 Bad Request\n
+                                                                                 Date: Mon, 08 Sep 2025 0
+                                                                                 7:28:30 GMT\n    Connect
+                                                                                 ion: close\n    Content-
+                                                                                 Type: text/html; charset
+                                                                                 =utf-8\n    X-Frame-Opti
+                                                                                 ons: SAMEORIGIN\n    Con
+                                                                                 tent-Security-Policy: fr
+                                                                                 ame-ancestors 'self'; ob
+                                                                                 ject-src 'self'; script-
+                                                                                 src 'self' https: 'unsaf
+                                                                                 e-eval' 'unsafe-inline'
+                                                                                 blob:;\n    X-XSS-Protec
+                                                                                 tion: 1; mode=block\n
+                                                                                  X-Content-Type-Options:
+                                                                                  nosniff\n    Strict-Tra
+                                                                                 nsport-Security: max-age
+                                                                                 =31536000\n    <!DOCTYPE
+                                                                                  HTML PUBLIC \"-//IETF//
+                                                                                 DTD HTML 2.0//EN\">\n
+                                                                                  <HTML><HEAD>\n    <TITL
+                                                                                 E>400 Bad Request</TITLE
+                                                                                 >\n    </HEAD><BODY>\n
+                                                                                   <H1>Bad Request</H1>\n
+                                                                                     Your browser sent a
+                                                                                 request that this server
+                                                                                  could not understand.<P
+                                                                                 >\n    </BODY></HTML>\n
+                                                                                  HTTPOptions: \n    HTTP
+                                                                                 /1.0 405 Method Not Allo
+                                                                                 wed\n    Date: Mon, 08 S
+                                                                                 ep 2025 07:28:31 GMT\n
+                                                                                   Allow: \n    Connectio
+                                                                                 n: close\n    Content-Ty
+                                                                                 pe: text/html; charset=u
+                                                                                 tf-8\n    X-Frame-Option
+                                                                                 s: SAMEORIGIN\n    Conte
+                                                                                 nt-Security-Policy: fram
+                                                                                 e-ancestors 'self'; obje
+                                                                                 ct-src 'self'; script-sr
+                                                                                 c 'self' https: 'unsafe-
+                                                                                 eval' 'unsafe-inline' bl
+                                                                                 ob:;\n    X-XSS-Protecti
+                                                                                 on: 1; mode=block\n    X
+                                                                                 -Content-Type-Options: n
+                                                                                 osniff\n    Strict-Trans
+                                                                                 port-Security: max-age=3
+                                                                                 1536000\n    <!DOCTYPE H
+                                                                                 TML PUBLIC \"-//IETF//DT
+                                                                                 D HTML 2.0//EN\">\n    <
+                                                                                 HTML><HEAD>\n    <TITLE>
+                                                                                 405 Method Not Allowed</
+                                                                                 TITLE>\n    </HEAD><BODY
+                                                                                 >\n    <H1>Method Not Al
+                                                                                 lowed</H1>\n    requeste
+                                                                                 d method OPTIONS is not
+                                                                                 allowed for the URL /.<P
+                                                                                 >\n    </BODY></HTML>"}
+ 2025-09-08 08  10.90.242.12  https    443   tcp       nmap.nse.http-methods.t  {"output"=>"\n  Supporte
+ :27:49 UTC                                             cp.443                   d Methods:  GET HEAD\n
+                                                                                 Potentially risky method
+                                                                                 s: "}
+ 2025-09-08 08  10.90.242.12  https    443   tcp       nmap.nse.http-headers.t  {"output"=>"\n  Date: Mo
+ :27:49 UTC                                             cp.443                   n, 08 Sep 2025 07:46:06
+                                                                                 GMT\n  ETag: \"83-66e775
+                                                                                 00\"\n  Accept-Ranges: b
+                                                                                 ytes\n  Content-Length:
+                                                                                 131\n  Connection: close
+                                                                                 \n  Content-Type: text/h
+                                                                                 tml\n  X-Frame-Options:
+                                                                                 SAMEORIGIN\n  Content-Se
+                                                                                 curity-Policy: frame-anc
+                                                                                 estors 'self'; object-sr
+                                                                                 c 'self'; script-src 'se
+                                                                                 lf' https:  'unsafe-eval
+                                                                                 ' 'unsafe-inline' blob:;
+                                                                                 \n  X-XSS-Protection: 1;
+                                                                                  mode=block\n  X-Content
+                                                                                 -Type-Options: nosniff\n
+                                                                                   Strict-Transport-Secur
+                                                                                 ity: max-age=31536000\n
+                                                                                  \n  (Request type: GET)
+                                                                                 \n"}
+ 2025-09-08 08  10.90.242.25  https    443   tcp       nmap.nse.http-headers.t  {"output"=>"\n  Content-
+ :27:50 UTC                                             cp.443                   Type: text/html; charset
+                                                                                 =us-ascii\n  Server: Mic
+                                                                                 rosoft-HTTPAPI/2.0\n  Da
+                                                                                 te: Mon, 08 Sep 2025 07:
+                                                                                 46:06 GMT\n  Connection:
+                                                                                  close\n  Content-Length
+                                                                                 : 315\n  \n  (Request ty
+                                                                                 pe: GET)\n"}
+
+[0m

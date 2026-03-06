@@ -1,0 +1,119 @@
+# TCP Full Scan Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-07 14:04 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.1
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: Not shown: 65528 closed tcp ports (reset)
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE          VERSION
+[1m[34m[*][0m Nmap: 25/tcp   filtered smtp
+[1m[34m[*][0m Nmap: 389/tcp  filtered ldap
+[1m[34m[*][0m Nmap: 636/tcp  filtered ldapssl
+[1m[34m[*][0m Nmap: 1099/tcp filtered rmiregistry
+[1m[34m[*][0m Nmap: 1389/tcp filtered iclpv-dm
+[1m[34m[*][0m Nmap: 3268/tcp filtered globalcatLDAP
+[1m[34m[*][0m Nmap: 3269/tcp filtered globalcatLDAPssl
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Cisco Aironet 1250 WAP (IOS 12.4) or IOS XE (95%), Cisco C7200 router (IOS 15) (95%), Cisco IOS-XE 16.11 (95%), Cisco 827H ADSL router (IOS 12.2) (94%), Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (94%), D-Link DFL-200 firewall (94%), D-Link NetDefend firewall (93%), Cisco 1812, 3640, or 3700 router (IOS 12.4) (91%), Cisco DOCSIS cable modem termination server (IOS 12.1) (91%), Cisco Catalyst 3560 or 6500-series switch (IOS 12.1 - 12.2) (91%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.12
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: Not shown: 65532 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT     STATE  SERVICE    VERSION
+[1m[34m[*][0m Nmap: 113/tcp  closed ident
+[1m[34m[*][0m Nmap: 443/tcp  open   ssl/https?
+[1m[34m[*][0m Nmap: 4500/tcp open   sae-urn?
+[1m[34m[*][0m Nmap: 1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+[1m[34m[*][0m Nmap: SF-Port443-TCP:V=7.95%T=SSL%I=5%D=9/7%Time=68BD677C%P=x86_64-pc-linux-gnu%
+[1m[34m[*][0m Nmap: SF:r(GetRequest,263,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nDate:\x20Sun,\x
+[1m[34m[*][0m Nmap: SF:2007\x20Sep\x202025\x2011:07:40\x20GMT\r\nConnection:\x20close\r\nConte
+[1m[34m[*][0m Nmap: SF:nt-Type:\x20text/html;\x20charset=utf-8\r\nX-Frame-Options:\x20SAMEORIG
+[1m[34m[*][0m Nmap: SF:IN\r\nContent-Security-Policy:\x20frame-ancestors\x20'self';\x20object-
+[1m[34m[*][0m Nmap: SF:src\x20'self';\x20script-src\x20'self'\x20https:\x20\x20'unsafe-eval'\x
+[1m[34m[*][0m Nmap: SF:20'unsafe-inline'\x20blob:;\r\nX-XSS-Protection:\x201;\x20mode=block\r\
+[1m[34m[*][0m Nmap: SF:nX-Content-Type-Options:\x20nosniff\r\nStrict-Transport-Security:\x20ma
+[1m[34m[*][0m Nmap: SF:x-age=31536000\r\n\r\n<!DOCTYPE\x20HTML\x20PUBLIC\x20\"-//IETF//DTD\x20
+[1m[34m[*][0m Nmap: SF:HTML\x202\.0//EN\">\n<HTML><HEAD>\n<TITLE>400\x20Bad\x20Request</TITLE>
+[1m[34m[*][0m Nmap: SF:\n</HEAD><BODY>\n<H1>Bad\x20Request</H1>\nYour\x20browser\x20sent\x20a\
+[1m[34m[*][0m Nmap: SF:x20request\x20that\x20this\x20server\x20could\x20not\x20understand\.<P>
+[1m[34m[*][0m Nmap: SF:\n</BODY></HTML>\n")%r(HTTPOptions,279,"HTTP/1\.0\x20405\x20Method\x20N
+[1m[34m[*][0m Nmap: SF:ot\x20Allowed\r\nDate:\x20Sun,\x2007\x20Sep\x202025\x2011:07:42\x20GMT\
+[1m[34m[*][0m Nmap: SF:r\nAllow:\x20\r\nConnection:\x20close\r\nContent-Type:\x20text/html;\x2
+[1m[34m[*][0m Nmap: SF:0charset=utf-8\r\nX-Frame-Options:\x20SAMEORIGIN\r\nContent-Security-Po
+[1m[34m[*][0m Nmap: SF:licy:\x20frame-ancestors\x20'self';\x20object-src\x20'self';\x20script-
+[1m[34m[*][0m Nmap: SF:src\x20'self'\x20https:\x20\x20'unsafe-eval'\x20'unsafe-inline'\x20blob
+[1m[34m[*][0m Nmap: SF::;\r\nX-XSS-Protection:\x201;\x20mode=block\r\nX-Content-Type-Options:\
+[1m[34m[*][0m Nmap: SF:x20nosniff\r\nStrict-Transport-Security:\x20max-age=31536000\r\n\r\n<!D
+[1m[34m[*][0m Nmap: SF:OCTYPE\x20HTML\x20PUBLIC\x20\"-//IETF//DTD\x20HTML\x202\.0//EN\">\n<HTM
+[1m[34m[*][0m Nmap: SF:L><HEAD>\n<TITLE>405\x20Method\x20Not\x20Allowed</TITLE>\n</HEAD><BODY>
+[1m[34m[*][0m Nmap: SF:\n<H1>Method\x20Not\x20Allowed</H1>\nThe\x20requested\x20method\x20OPTI
+[1m[34m[*][0m Nmap: SF:ONS\x20is\x20not\x20allowed\x20for\x20the\x20URL\x20/\.<P>\n</BODY></HT
+[1m[34m[*][0m Nmap: SF:ML>\n")%r(FourOhFourRequest,263,"HTTP/1\.0\x20400\x20Bad\x20Request\r\n
+[1m[34m[*][0m Nmap: SF:Date:\x20Sun,\x2007\x20Sep\x202025\x2011:07:43\x20GMT\r\nConnection:\x2
+[1m[34m[*][0m Nmap: SF:0close\r\nContent-Type:\x20text/html;\x20charset=utf-8\r\nX-Frame-Optio
+[1m[34m[*][0m Nmap: SF:ns:\x20SAMEORIGIN\r\nContent-Security-Policy:\x20frame-ancestors\x20'se
+[1m[34m[*][0m Nmap: SF:lf';\x20object-src\x20'self';\x20script-src\x20'self'\x20https:\x20\x20
+[1m[34m[*][0m Nmap: SF:'unsafe-eval'\x20'unsafe-inline'\x20blob:;\r\nX-XSS-Protection:\x201;\x
+[1m[34m[*][0m Nmap: SF:20mode=block\r\nX-Content-Type-Options:\x20nosniff\r\nStrict-Transport-
+[1m[34m[*][0m Nmap: SF:Security:\x20max-age=31536000\r\n\r\n<!DOCTYPE\x20HTML\x20PUBLIC\x20\"-
+[1m[34m[*][0m Nmap: SF://IETF//DTD\x20HTML\x202\.0//EN\">\n<HTML><HEAD>\n<TITLE>400\x20Bad\x20
+[1m[34m[*][0m Nmap: SF:Request</TITLE>\n</HEAD><BODY>\n<H1>Bad\x20Request</H1>\nYour\x20browse
+[1m[34m[*][0m Nmap: SF:r\x20sent\x20a\x20request\x20that\x20this\x20server\x20could\x20not\x20
+[1m[34m[*][0m Nmap: SF:understand\.<P>\n</BODY></HTML>\n");
+[1m[34m[*][0m Nmap: Device type: security-misc|printer|general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Fortinet FortiOS 6.X|7.X (90%), Cognitive embedded (89%), Linux 3.X (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:fortinet:fortios:6 cpe:/o:fortinet:fortios:7 cpe:/o:linux:linux_kernel:3
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Fortinet FortiOS 6.2 - 7.2 (90%), Cognitive CXI thermal printer (89%), Fortinet FortiOS 7 (88%), Linux 3.2 - 3.8 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.25
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: Not shown: 65531 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT     STATE  SERVICE  VERSION
+[1m[34m[*][0m Nmap: 22/tcp   open   ftp      FileZilla ftpd 0.9.60 beta
+[1m[34m[*][0m Nmap: 113/tcp  closed ident
+[1m[34m[*][0m Nmap: 443/tcp  open   ssl/http Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+[1m[34m[*][0m Nmap: 4500/tcp open   sae-urn?
+[1m[34m[*][0m Nmap: Device type: general purpose
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Microsoft Windows 2022 (86%), FreeBSD 6.X (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:microsoft:windows_server_2022 cpe:/o:freebsd:freebsd:6.2
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Microsoft Windows Server 2022 (86%), FreeBSD 6.2-RELEASE (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.27
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: Not shown: 65534 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT   STATE SERVICE    VERSION
+[1m[34m[*][0m Nmap: 80/tcp open  tcpwrapped
+[1m[34m[*][0m Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[1m[34m[*][0m Nmap: Aggressive OS guesses: HP 2530, 2920, or 5406zl switch (97%), HP 2920 or 3800 switch (97%), HP E3500yl or ProCurve 5406zl switch (97%), HP ProCurve 3500yl switch (97%), HP ProCurve 3500yl, 5412zl, or 8212zl switch (97%), HP ProCurve 5406zl switch (96%), HP ProCurve 5412zl switch (96%), HPE Aruba 5412r switch (96%), HP ProCurve 2520, 2915, 3500yl, or 5400zl-series switch (95%), HP ProCurve 2910al switch (95%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Network Distance: 16 hops
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.34
+[1m[34m[*][0m Nmap: Host is up (0.27s latency).
+[1m[34m[*][0m Nmap: Not shown: 65531 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT     STATE  SERVICE  VERSION
+[1m[34m[*][0m Nmap: 80/tcp   closed http
+[1m[34m[*][0m Nmap: 113/tcp  closed ident
+[1m[34m[*][0m Nmap: 443/tcp  closed https
+[1m[34m[*][0m Nmap: 4500/tcp open   sae-urn?
+[1m[34m[*][0m Nmap: Device type: printer|general purpose|security-misc
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Cognitive embedded (88%), Linux 3.X (86%), Fortinet FortiOS 6.X|7.X (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:fortinet:fortios:6 cpe:/o:fortinet:fortios:7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Cognitive CXI thermal printer (88%), Linux 3.2 - 3.8 (86%), Fortinet FortiOS 6.2 - 7.2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.59
+[1m[34m[*][0m Nmap: Host is up (0.27s latency).
+[1m[34m[*][0m Nmap: Not shown: 65531 filtered tcp ports (no-response)
+[1m[34m[*][0m Nmap: PORT     STATE  SERVICE  VERSION
+[1m[34m[*][0m Nmap: 80/tcp   closed http
+[1m[34m[*][0m Nmap: 113/tcp  closed ident
+[1m[34m[*][0m Nmap: 443/tcp  closed https
+[1m[34m[*][0m Nmap: 4500/tcp open   sae-urn?
+[1m[34m[*][0m Nmap: Device type: printer|general purpose|security-misc
+[1m[34m[*][0m Nmap: Running (JUST GUESSING): Cognitive embedded (88%), Linux 3.X (86%), Fortinet FortiOS 6.X|7.X (85%)
+[1m[34m[*][0m Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:fortinet:fortios:6 cpe:/o:fortinet:fortios:7
+[1m[34m[*][0m Nmap: Aggressive OS guesses: Cognitive CXI thermal printer (88%), Linux 3.2 - 3.8 (86%), Fortinet FortiOS 6.2 - 7.2 (85%)
+[1m[34m[*][0m Nmap: No exact OS matches for host (test conditions non-ideal).
+[1m[34m[*][0m Nmap: OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+[1m[34m[*][0m Nmap: Nmap done: 62 IP addresses (6 hosts up) scanned in 197.45 seconds
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/recog-3.1.17/lib/recog/fingerprint/regexp_factory.rb:34: warning: nested repeat operator '+' and '?' was replaced with '*' in regular expression
+[0m

@@ -1,0 +1,6 @@
+220-FileZilla Server 0.9.60 beta
+220-written by Tim Kosse (tim.kosse@filezilla-project.org)
+220 Please visit https://filezilla-project.org/
+331 Password required for anonymous
+530 Login or password incorrect!
+221 Goodbye

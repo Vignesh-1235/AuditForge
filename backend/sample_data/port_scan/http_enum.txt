@@ -1,0 +1,74 @@
+# HTTP/HTTPS Enumeration Results
+[0m[1m[34m[*][0m Workspace: org-domainh-PTE-Sep-2025
+[0m[1m[34m[*][0m Nmap: Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-08 10:45 IDT
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.1
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE  SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   closed http
+[1m[34m[*][0m Nmap: 443/tcp  closed https
+[1m[34m[*][0m Nmap: 8080/tcp closed http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp closed https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.12
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: | http-methods:
+[1m[34m[*][0m Nmap: |   Supported Methods:  GET HEAD
+[1m[34m[*][0m Nmap: |_  Potentially risky methods:
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 07:46:06 GMT
+[1m[34m[*][0m Nmap: |   ETag: "83-66e77500"
+[1m[34m[*][0m Nmap: |   Accept-Ranges: bytes
+[1m[34m[*][0m Nmap: |   Content-Length: 131
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Type: text/html
+[1m[34m[*][0m Nmap: |   X-Frame-Options: SAMEORIGIN
+[1m[34m[*][0m Nmap: |   Content-Security-Policy: frame-ancestors 'self'; object-src 'self'; script-src 'self' https:  'unsafe-eval' 'unsafe-inline' blob:;
+[1m[34m[*][0m Nmap: |   X-XSS-Protection: 1; mode=block
+[1m[34m[*][0m Nmap: |   X-Content-Type-Options: nosniff
+[1m[34m[*][0m Nmap: |   Strict-Transport-Security: max-age=31536000
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: |_http-title: Site doesn't have a title (text/html).
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.25
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   filtered http
+[1m[34m[*][0m Nmap: 443/tcp  open     https
+[1m[34m[*][0m Nmap: |_http-title: Not Found
+[1m[34m[*][0m Nmap: | http-headers:
+[1m[34m[*][0m Nmap: |   Content-Type: text/html; charset=us-ascii
+[1m[34m[*][0m Nmap: |   Server: Microsoft-HTTPAPI/2.0
+[1m[34m[*][0m Nmap: |   Date: Mon, 08 Sep 2025 07:46:06 GMT
+[1m[34m[*][0m Nmap: |   Connection: close
+[1m[34m[*][0m Nmap: |   Content-Length: 315
+[1m[34m[*][0m Nmap: |
+[1m[34m[*][0m Nmap: |_  (Request type: GET)
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.27
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   open     http
+[1m[34m[*][0m Nmap: 443/tcp  filtered https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.34
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap scan report for 10.90.242.59
+[1m[34m[*][0m Nmap: Host is up (0.28s latency).
+[1m[34m[*][0m Nmap: PORT     STATE    SERVICE
+[1m[34m[*][0m Nmap: 80/tcp   closed   http
+[1m[34m[*][0m Nmap: 443/tcp  closed   https
+[1m[34m[*][0m Nmap: 8080/tcp filtered http-proxy
+[1m[34m[*][0m Nmap: 8443/tcp filtered https-alt
+[1m[34m[*][0m Nmap: Nmap done: 62 IP addresses (6 hosts up) scanned in 2528.63 seconds
+[0m
