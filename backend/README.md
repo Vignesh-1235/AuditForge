@@ -1,4 +1,4 @@
-# 🔍 Synthetic Auditor — Private AI Security Report Generator
+# 🔍 AuditForge — Private AI Security Report Generator
 
 > **100% Offline** · Powered by Ollama + Mistral · No data leaves your machine
 
